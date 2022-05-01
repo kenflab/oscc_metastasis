@@ -1,11 +1,6 @@
-# oscc_metastasis
-<!--
-[web](data/A2_web_summary.html)
---->
+# Spatially co-localization and cell-cell communication in oral cancer microenvironment associated with metastasis
 
 ### OVERVIEW
-
-
 
 ### NAVIGATION
 The documentation and source code can be found at [https://github.com/kenflab/oscc_metastasis](https://github.com/kenflab/oscc_metastasis)
