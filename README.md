@@ -24,7 +24,7 @@ theano-pymc 1.0.11
 ```
 
 ### CONTACT
-Please contact <furudate at sign hirosaki-u.ac.jp> with any questions or suggestions.
+Please contact <furudate@hirosaki-u.ac.jp> with any questions or suggestions.
 
 
 ### LICENCE
