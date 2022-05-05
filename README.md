@@ -6,6 +6,10 @@
 We used no unpublished codes in bulk and single-cell analyses in this study.
 The documentation and source code can be found at [https://github.com/kenflab/oscc_metastasis](https://github.com/kenflab/oscc_metastasis)
 
+
+
+[Spatial data summary](oscc_metastasis/summary.html)
+
 ```markdown
 arviz 0.9.0
 numpy 1.19.5
