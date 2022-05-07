@@ -30,4 +30,4 @@ Please contact <furudate@hirosaki-u.ac.jp> with any questions or suggestions.
 
 
 ### LICENCE
-This project is under the MIT license - see the [LICENSE](https://github.com/kenflab/oscc_metastasis/blob/main/LICENSE) in details.
+This project is under the MIT license - see the [LICENSE](LICENSE) in details.
