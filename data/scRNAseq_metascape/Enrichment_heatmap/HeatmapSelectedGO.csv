@@ -1,0 +1,21 @@
+GO,Description,_LogP_LN_meta,_LogP_N0
+GO:0034587,piRNA metabolic process,0.0,-3.598198833469553
+R-HSA-382551,Transport of small molecules,0.0,-3.760574508422195
+M5882,NABA PROTEOGLYCANS,0.0,-3.051122881288129
+WP2064,Neural crest differentiation,0.0,-2.637830621007642
+R-HSA-3781865,Diseases of glycosylation,0.0,-2.9598011906925814
+hsa05217,Basal cell carcinoma,0.0,-2.3159819348327746
+GO:0022600,digestive system process,0.0,-5.581995626949867
+M5885,NABA MATRISOME ASSOCIATED,0.0,-4.827263934948447
+GO:0007610,behavior,-2.159010246003975,-2.441191649053359
+GO:0032989,cellular component morphogenesis,-3.086338529580558,0.0
+GO:0016048,detection of temperature stimulus,-3.202763673012652,0.0
+hsa04922,Glucagon signaling pathway,-3.0058235997330365,0.0
+GO:0006091,generation of precursor metabolites and energy,-3.3334740032666224,0.0
+hsa04020,Calcium signaling pathway,-2.785154430522307,0.0
+GO:0140448,signaling receptor ligand precursor processing,-2.6822811940291698,0.0
+GO:0005975,carbohydrate metabolic process,-2.7614392879816676,0.0
+GO:0014823,response to activity,-2.93485559794101,0.0
+R-HSA-397014,Muscle contraction,-4.926224508014464,0.0
+GO:0044057,regulation of system process,-4.20633163321049,0.0
+R-HSA-2168880,Scavenging of heme from plasma,-4.027757718867106,0.0
