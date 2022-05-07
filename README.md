@@ -8,9 +8,9 @@ The documentation and source code can be found at [https://github.com/kenflab/os
 
 
 
-[Spatial data summary](https://github.com/kenflab/oscc_metastasis/blob/mastersummary.md)
+[Spatial data summary](summary.md)
 
-[Bulk metascape results](https://kenflab.github.io/oscc_metastasis/data/bulk_RNAseq_metascape/AnalysisReport.html)
+[Bulk metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
 
 ```markdown
 arviz 0.9.0
