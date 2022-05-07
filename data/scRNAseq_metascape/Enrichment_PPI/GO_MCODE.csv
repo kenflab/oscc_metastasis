@@ -1,0 +1,723 @@
+Name,Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value)
+LN_meta,Reactome Gene Sets,6,R-HSA-397014,Muscle contraction,,-7.1,15,10,30211,197,84,8,9.5,3.2,72|487|4624|4626|4629|4634|4635|58498,ACTG2|ATP2A1|MYH6|MYH8|MYH11|MYL3|MYL4|MYL7,-4.3
+LN_meta,GO Biological Processes,19,GO:0044057,regulation of system process,19_GO:0032501 multicellular organismal process,-6.3,6.9,7.5,30211,573,84,11,13,3.7,335|337|487|2017|2693|3814|4624|4634|4635|219537|387129,APOA1|APOA4|ATP2A1|CTTN|GHSR|KISS1|MYH6|MYL3|MYL4|SMTNL1|NPSR1,-3.8
+LN_meta,GO Biological Processes,19,GO:0003012,muscle system process,19_GO:0032501 multicellular organismal process,-5.9,10,8.2,30211,281,84,8,9.5,3.2,487|4624|4626|4629|4634|4635|9127|219931,ATP2A1|MYH6|MYH8|MYH11|MYL3|MYL4|P2RX6|TPCN2,-3.6
+LN_meta,GO Biological Processes,19,GO:0043462,regulation of ATP-dependent activity,19_GO:0065007 biological regulation,-5.7,25,11,30211,73,84,5,6,2.6,229|487|4624|4634|4635,ALDOB|ATP2A1|MYH6|MYL3|MYL4,-3.4
+LN_meta,Reactome Gene Sets,6,R-HSA-390522,Striated Muscle Contraction,,-5.5,40,12,30211,36,84,4,4.8,2.3,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-3.2
+LN_meta,GO Biological Processes,19,GO:0006936,muscle contraction,19_GO:0032501 multicellular organismal process,-5.5,11,8.1,30211,227,84,7,8.3,3,4624|4626|4629|4634|4635|9127|219931,MYH6|MYH8|MYH11|MYL3|MYL4|P2RX6|TPCN2,-3.2
+LN_meta,WikiPathways,27,WP383,Striated muscle contraction pathway,,-5.4,38,12,30211,38,84,4,4.8,2.3,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-3.2
+LN_meta,KEGG Pathway,24,hsa04020,Calcium signaling pathway,,-5.3,10,7.8,30211,240,84,7,8.3,3,487|2248|5260|9127|91807|163688|219931,ATP2A1|FGF3|PHKG1|P2RX6|MYLK3|CALML6|TPCN2,-3.1
+LN_meta,Reactome Gene Sets,6,R-HSA-2168880,Scavenging of heme from plasma,,-5.2,83,16,30211,13,84,3,3.6,2,213|335|3250,ALB|APOA1|HPR,-3
+LN_meta,GO Biological Processes,19,GO:0032781,positive regulation of ATP-dependent activity,19_GO:0065007 biological regulation,-5.1,32,11,30211,45,84,4,4.8,2.3,229|487|4634|4635,ALDOB|ATP2A1|MYL3|MYL4,-2.9
+LN_meta,GO Biological Processes,19,GO:0006091,generation of precursor metabolites and energy,19_GO:0008152 metabolic process,-4.9,7.4,6.7,30211,388,84,8,9.5,3.2,158|229|2027|2819|4715|4726|5260|5837,ADSL|ALDOB|ENO3|GPD1|NDUFB9|NDUFS6|PHKG1|PYGM,-2.8
+LN_meta,GO Biological Processes,19,GO:0046034,ATP metabolic process,19_GO:0008152 metabolic process,-4.7,11,7.4,30211,195,84,6,7.1,2.8,229|2027|4624|4626|4715|4726,ALDOB|ENO3|MYH6|MYH8|NDUFB9|NDUFS6,-2.6
+LN_meta,GO Biological Processes,19,GO:0002026,regulation of the force of heart contraction,19_GO:0032501 multicellular organismal process,-4.3,41,11,30211,26,84,3,3.6,2,4624|4634|4635,MYH6|MYL3|MYL4,-2.3
+LN_meta,GO Biological Processes,19,GO:0015980,energy derivation by oxidation of organic compounds,19_GO:0008152 metabolic process,-4.2,8.9,6.5,30211,243,84,6,7.1,2.8,158|2819|4715|4726|5260|5837,ADSL|GPD1|NDUFB9|NDUFS6|PHKG1|PYGM,-2.2
+LN_meta,KEGG Pathway,24,hsa04261,Adrenergic signaling in cardiomyocytes,,-4.2,12,7.1,30211,150,84,5,6,2.6,487|4624|4634|4635|163688,ATP2A1|MYH6|MYL3|MYL4|CALML6,-2.2
+LN_meta,GO Biological Processes,19,GO:0051604,protein maturation,19_GO:0008152 metabolic process,-4.1,8.6,6.4,30211,251,84,6,7.1,2.8,3250|5126|6447|8260|8772|10549,HPR|PCSK2|SCG5|NAA10|FADD|PRDX4,-2.2
+LN_meta,KEGG Pathway,24,hsa04260,Cardiac muscle contraction,,-4,17,7.7,30211,87,84,4,4.8,2.3,487|4624|4634|4635,ATP2A1|MYH6|MYL3|MYL4,-2
+LN_meta,Reactome Gene Sets,6,R-HSA-8963899,Plasma lipoprotein remodeling,,-4,33,9.6,30211,33,84,3,3.6,2,213|335|337,ALB|APOA1|APOA4,-2
+LN_meta,GO Biological Processes,19,GO:0048738,cardiac muscle tissue development,19_GO:0032502 developmental process,-3.9,10,6.5,30211,173,84,5,6,2.6,4624|4629|4634|58498|91807,MYH6|MYH11|MYL3|MYL7|MYLK3,-2
+LN_meta,GO Biological Processes,19,GO:0008015,blood circulation,19_GO:0032501 multicellular organismal process,-3.9,6.3,5.6,30211,400,84,7,8.3,3,4624|4634|4635|58498|91608|91807|219537,MYH6|MYL3|MYL4|MYL7|RASL10B|MYLK3|SMTNL1,-2
+LN_meta,GO Biological Processes,19,GO:0060047,heart contraction,19_GO:0032501 multicellular organismal process,-3.9,16,7.4,30211,92,84,4,4.8,2.3,4624|4634|4635|58498,MYH6|MYL3|MYL4|MYL7,-2
+LN_meta,GO Biological Processes,19,GO:0045923,positive regulation of fatty acid metabolic process,19_GO:0048518 positive regulation of biological process,-3.8,28,8.8,30211,39,84,3,3.6,2,335|337|2693,APOA1|APOA4|GHSR,-1.9
+LN_meta,Reactome Gene Sets,6,R-HSA-445355,Smooth Muscle Contraction,,-3.7,27,8.7,30211,40,84,3,3.6,2,72|4629|58498,ACTG2|MYH11|MYL7,-1.8
+LN_meta,GO Biological Processes,19,GO:0044058,regulation of digestive system process,19_GO:0032501 multicellular organismal process,-3.7,26,8.5,30211,42,84,3,3.6,2,335|337|2693,APOA1|APOA4|GHSR,-1.8
+LN_meta,Reactome Gene Sets,6,R-HSA-2173782,Binding and Uptake of Ligands by Scavenger Receptors,,-3.7,26,8.5,30211,42,84,3,3.6,2,213|335|3250,ALB|APOA1|HPR,-1.8
+LN_meta,GO Biological Processes,19,GO:0006941,striated muscle contraction,19_GO:0032501 multicellular organismal process,-3.7,14,6.8,30211,106,84,4,4.8,2.3,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-1.8
+LN_meta,GO Biological Processes,19,GO:0003015,heart process,19_GO:0032501 multicellular organismal process,-3.6,13,6.8,30211,108,84,4,4.8,2.3,4624|4634|4635|58498,MYH6|MYL3|MYL4|MYL7,-1.8
+LN_meta,KEGG Pathway,24,hsa04510,Focal adhesion,,-3.6,8.9,6,30211,201,84,5,6,2.6,1297|1299|5923|58498|91807,COL9A1|COL9A3|RASGRF1|MYL7|MYLK3,-1.7
+LN_meta,Canonical Pathways,11,M106,PID HNF3B PATHWAY,,-3.6,24,8.1,30211,45,84,3,3.6,2,213|229|335,ALB|ALDOB|APOA1,-1.7
+LN_meta,GO Biological Processes,19,GO:0045933,positive regulation of muscle contraction,19_GO:0048518 positive regulation of biological process,-3.6,24,8.1,30211,45,84,3,3.6,2,487|2017|2693,ATP2A1|CTTN|GHSR,-1.7
+LN_meta,GO Biological Processes,19,GO:0030029,actin filament-based process,19_GO:0009987 cellular process,-3.6,4.8,4.9,30211,602,84,8,9.5,3.2,2017|2693|4624|4626|4629|7429|91807|219537,CTTN|GHSR|MYH6|MYH8|MYH11|VIL1|MYLK3|SMTNL1,-1.7
+LN_meta,WikiPathways,27,WP2406,Cardiac progenitor differentiation,,-3.4,20,7.4,30211,53,84,3,3.6,2,4624|79727|91807,MYH6|LIN28A|MYLK3,-1.5
+LN_meta,GO Biological Processes,19,GO:0003013,circulatory system process,19_GO:0032501 multicellular organismal process,-3.3,5.1,4.9,30211,492,84,7,8.3,3,4624|4634|4635|58498|91608|91807|219537,MYH6|MYL3|MYL4|MYL7|RASL10B|MYLK3|SMTNL1,-1.5
+LN_meta,GO Biological Processes,19,GO:0010817,regulation of hormone levels,19_GO:0065007 biological regulation,-3.3,5.1,4.8,30211,496,84,7,8.3,3,2693|3814|5126|6447|6822|64577|91608,GHSR|KISS1|PCSK2|SCG5|SULT2A1|ALDH8A1|RASL10B,-1.5
+LN_meta,KEGG Pathway,24,hsa04270,Vascular smooth muscle contraction,,-3.3,11,6,30211,134,84,4,4.8,2.3,72|4629|91807|163688,ACTG2|MYH11|MYLK3|CALML6,-1.5
+LN_meta,KEGG Pathway,24,hsa04371,Apelin signaling pathway,,-3.2,10,5.8,30211,139,84,4,4.8,2.3,4634|4635|91807|163688,MYL3|MYL4|MYLK3|CALML6,-1.4
+LN_meta,GO Biological Processes,19,GO:0030301,cholesterol transport,19_GO:0051179 localization,-3.2,18,7,30211,60,84,3,3.6,2,335|337|219931,APOA1|APOA4|TPCN2,-1.4
+LN_meta,GO Biological Processes,19,GO:0097435,supramolecular fiber organization,19_GO:0009987 cellular process,-3.2,4.8,4.7,30211,522,84,7,8.3,3,2017|2693|4624|4629|7429|54474|91807,CTTN|GHSR|MYH6|MYH11|VIL1|KRT20|MYLK3,-1.4
+LN_meta,GO Biological Processes,19,GO:0008154,actin polymerization or depolymerization,19_GO:0009987 cellular process,-3.2,18,6.9,30211,61,84,3,3.6,2,2017|2693|7429,CTTN|GHSR|VIL1,-1.4
+LN_meta,GO Biological Processes,19,GO:0030239,myofibril assembly,19_GO:0032502 developmental process,-3.2,18,6.9,30211,61,84,3,3.6,2,4624|4629|91807,MYH6|MYH11|MYLK3,-1.4
+LN_meta,GO Biological Processes,19,GO:0055013,cardiac muscle cell development,19_GO:0032502 developmental process,-3.2,18,6.9,30211,61,84,3,3.6,2,4624|4629|91807,MYH6|MYH11|MYLK3,-1.4
+LN_meta,GO Biological Processes,19,GO:0055002,striated muscle cell development,19_GO:0032502 developmental process,-3.2,17,6.8,30211,62,84,3,3.6,2,4624|4629|91807,MYH6|MYH11|MYLK3,-1.4
+LN_meta,KEGG Pathway,24,hsa05010,Alzheimer disease,,-3.1,5.6,4.8,30211,384,84,6,7.1,2.8,487|4715|4726|7475|8772|163688,ATP2A1|NDUFB9|NDUFS6|WNT6|FADD|CALML6,-1.4
+LN_meta,GO Biological Processes,19,GO:0062013,positive regulation of small molecule metabolic process,19_GO:0048518 positive regulation of biological process,-3.1,9.9,5.7,30211,146,84,4,4.8,2.3,335|337|2693|2819,APOA1|APOA4|GHSR|GPD1,-1.4
+LN_meta,GO Biological Processes,19,GO:1903522,regulation of blood circulation,19_GO:0032501 multicellular organismal process,-3.1,7,5.1,30211,256,84,5,6,2.6,487|4624|4634|4635|219537,ATP2A1|MYH6|MYL3|MYL4|SMTNL1,-1.4
+LN_meta,GO Biological Processes,19,GO:0030036,actin cytoskeleton organization,19_GO:0009987 cellular process,-3.1,4.7,4.5,30211,540,84,7,8.3,3,2017|2693|4624|4629|7429|91807|219537,CTTN|GHSR|MYH6|MYH11|VIL1|MYLK3|SMTNL1,-1.4
+LN_meta,GO Biological Processes,19,GO:0014823,response to activity,19_GO:0050896 response to stimulus,-3.1,17,6.6,30211,65,84,3,3.6,2,158|219537|252995,ADSL|SMTNL1|FNDC5,-1.3
+LN_meta,GO Biological Processes,19,GO:0070252,actin-mediated cell contraction,19_GO:0009987 cellular process,-3.1,16,6.5,30211,67,84,3,3.6,2,4624|4626|7429,MYH6|MYH8|VIL1,-1.3
+LN_meta,GO Biological Processes,19,GO:0055006,cardiac cell development,19_GO:0032502 developmental process,-3.1,16,6.5,30211,67,84,3,3.6,2,4624|4629|91807,MYH6|MYH11|MYLK3,-1.3
+LN_meta,Reactome Gene Sets,6,R-HSA-174824,"Plasma lipoprotein assembly, remodeling, and clearance",,-3,15,6.4,30211,70,84,3,3.6,2,213|335|337,ALB|APOA1|APOA4,-1.3
+LN_meta,GO Biological Processes,19,GO:0060048,cardiac muscle contraction,19_GO:0032501 multicellular organismal process,-2.9,14,6.1,30211,75,84,3,3.6,2,4624|4634|4635,MYH6|MYL3|MYL4,-1.2
+LN_meta,KEGG Pathway,24,hsa04022,cGMP-PKG signaling pathway,,-2.9,8.6,5.2,30211,167,84,4,4.8,2.3,487|4624|91807|163688,ATP2A1|MYH6|MYLK3|CALML6,-1.2
+LN_meta,GO Biological Processes,19,GO:0014706,striated muscle tissue development,19_GO:0032502 developmental process,-2.9,6.3,4.7,30211,287,84,5,6,2.6,4624|4629|4634|58498|91807,MYH6|MYH11|MYL3|MYL7|MYLK3,-1.2
+LN_meta,GO Biological Processes,19,GO:0015918,sterol transport,19_GO:0051179 localization,-2.9,14,6,30211,77,84,3,3.6,2,335|337|219931,APOA1|APOA4|TPCN2,-1.2
+LN_meta,GO Biological Processes,19,GO:0006937,regulation of muscle contraction,19_GO:0032501 multicellular organismal process,-2.9,8.5,5.2,30211,170,84,4,4.8,2.3,487|2017|2693|4634,ATP2A1|CTTN|GHSR|MYL3,-1.2
+LN_meta,GO Biological Processes,19,GO:0048644,muscle organ morphogenesis,19_GO:0032502 developmental process,-2.8,13,5.9,30211,80,84,3,3.6,2,4624|4634|219537,MYH6|MYL3|SMTNL1,-1.1
+LN_meta,GO Biological Processes,19,GO:1902905,positive regulation of supramolecular fiber organization,19_GO:0048518 positive regulation of biological process,-2.8,8.2,5,30211,176,84,4,4.8,2.3,335|2017|7429|91807,APOA1|CTTN|VIL1|MYLK3,-1.1
+LN_meta,GO Biological Processes,19,GO:0051046,regulation of secretion,19_GO:0051179 localization,-2.8,4.2,4.1,30211,606,84,7,8.3,3,2693|3814|6447|54474|91608|219931|387129,GHSR|KISS1|SCG5|KRT20|RASL10B|TPCN2|NPSR1,-1.1
+LN_meta,GO Biological Processes,19,GO:0045333,cellular respiration,19_GO:0008152 metabolic process,-2.8,8,5,30211,180,84,4,4.8,2.3,158|2819|4715|4726,ADSL|GPD1|NDUFB9|NDUFS6,-1.1
+LN_meta,GO Biological Processes,19,GO:0060537,muscle tissue development,19_GO:0032502 developmental process,-2.8,5.9,4.5,30211,306,84,5,6,2.6,4624|4629|4634|58498|91807,MYH6|MYH11|MYL3|MYL7|MYLK3,-1.1
+LN_meta,GO Biological Processes,19,GO:0016485,protein processing,19_GO:0008152 metabolic process,-2.8,7.9,4.9,30211,182,84,4,4.8,2.3,3250|5126|6447|8772,HPR|PCSK2|SCG5|FADD,-1.1
+LN_meta,GO Biological Processes,19,GO:0055007,cardiac muscle cell differentiation,19_GO:0032502 developmental process,-2.8,13,5.7,30211,85,84,3,3.6,2,4624|4629|91807,MYH6|MYH11|MYLK3,-1.1
+LN_meta,GO Biological Processes,19,GO:2000106,regulation of leukocyte apoptotic process,19_GO:0050789 regulation of biological process,-2.8,13,5.7,30211,85,84,3,3.6,2,2693|8772|56891,GHSR|FADD|LGALS14,-1.1
+LN_meta,KEGG Pathway,24,hsa05410,Hypertrophic cardiomyopathy,,-2.7,12,5.5,30211,90,84,3,3.6,2,487|4624|4634,ATP2A1|MYH6|MYL3,-1
+LN_meta,GO Biological Processes,19,GO:0098869,cellular oxidant detoxification,19_GO:0098754 detoxification,-2.7,12,5.5,30211,90,84,3,3.6,2,213|337|10549,ALB|APOA4|PRDX4,-1
+LN_meta,KEGG Pathway,24,hsa05022,Pathways of neurodegeneration - multiple diseases,,-2.7,4.5,4.1,30211,476,84,6,7.1,2.8,487|4715|4726|7475|8772|163688,ATP2A1|NDUFB9|NDUFS6|WNT6|FADD|CALML6,-1
+LN_meta,GO Biological Processes,19,GO:0051495,positive regulation of cytoskeleton organization,19_GO:0048518 positive regulation of biological process,-2.7,7.4,4.7,30211,195,84,4,4.8,2.3,335|2017|7429|91807,APOA1|CTTN|VIL1|MYLK3,-1
+LN_meta,WikiPathways,27,WP15,Selenium micronutrient network,,-2.7,12,5.4,30211,92,84,3,3.6,2,213|335|10549,ALB|APOA1|PRDX4,-1
+LN_meta,GO Biological Processes,19,GO:0019217,regulation of fatty acid metabolic process,19_GO:0008152 metabolic process,-2.7,12,5.4,30211,92,84,3,3.6,2,335|337|2693,APOA1|APOA4|GHSR,-1
+LN_meta,GO Biological Processes,19,GO:0042594,response to starvation,19_GO:0050896 response to stimulus,-2.7,7.3,4.7,30211,196,84,4,4.8,2.3,158|213|9506|54474,ADSL|ALB|PAGE4|KRT20,-1
+LN_meta,GO Biological Processes,19,GO:0048638,regulation of developmental growth,19_GO:0040007 growth,-2.6,5.5,4.3,30211,329,84,5,6,2.6,2017|2045|2693|4624|7429,CTTN|EPHA7|GHSR|MYH6|VIL1,-1
+LN_meta,GO Biological Processes,19,GO:0042445,hormone metabolic process,19_GO:0008152 metabolic process,-2.6,7.3,4.7,30211,198,84,4,4.8,2.3,5126|6447|6822|64577,PCSK2|SCG5|SULT2A1|ALDH8A1,-1
+LN_meta,KEGG Pathway,24,hsa05414,Dilated cardiomyopathy,,-2.6,11,5.3,30211,96,84,3,3.6,2,487|4624|4634,ATP2A1|MYH6|MYL3,-0.97
+LN_meta,GO Biological Processes,19,GO:0030048,actin filament-based movement,19_GO:0009987 cellular process,-2.6,11,5.3,30211,97,84,3,3.6,2,4624|4626|7429,MYH6|MYH8|VIL1,-0.96
+LN_meta,GO Biological Processes,19,GO:0008016,regulation of heart contraction,19_GO:0032501 multicellular organismal process,-2.6,6.9,4.5,30211,207,84,4,4.8,2.3,487|4624|4634|4635,ATP2A1|MYH6|MYL3|MYL4,-0.95
+LN_meta,GO Biological Processes,19,GO:0010927,cellular component assembly involved in morphogenesis,19_GO:0032502 developmental process,-2.5,11,5.1,30211,102,84,3,3.6,2,4624|4629|91807,MYH6|MYH11|MYLK3,-0.92
+LN_meta,GO Biological Processes,19,GO:0016052,carbohydrate catabolic process,19_GO:0008152 metabolic process,-2.5,11,5.1,30211,102,84,3,3.6,2,229|2027|5837,ALDOB|ENO3|PYGM,-0.92
+LN_meta,GO Biological Processes,19,GO:0051963,regulation of synapse assembly,19_GO:0032502 developmental process,-2.5,10,5.1,30211,103,84,3,3.6,2,2045|2693|347730,EPHA7|GHSR|LRRTM1,-0.91
+LN_meta,GO Biological Processes,19,GO:0022904,respiratory electron transport chain,19_GO:0008152 metabolic process,-2.5,10,5,30211,105,84,3,3.6,2,2819|4715|4726,GPD1|NDUFB9|NDUFS6,-0.9
+LN_meta,GO Biological Processes,19,GO:1990748,cellular detoxification,19_GO:0098754 detoxification,-2.5,10,5,30211,105,84,3,3.6,2,213|337|10549,ALB|APOA4|PRDX4,-0.9
+LN_meta,KEGG Pathway,24,hsa04810,Regulation of actin cytoskeleton,,-2.5,6.6,4.4,30211,218,84,4,4.8,2.3,2248|4629|58498|91807,FGF3|MYH11|MYL7|MYLK3,-0.89
+LN_meta,KEGG Pathway,24,hsa04922,Glucagon signaling pathway,,-2.5,10,5,30211,107,84,3,3.6,2,5260|5837|163688,PHKG1|PYGM|CALML6,-0.88
+LN_meta,GO Biological Processes,19,GO:0031032,actomyosin structure organization,19_GO:0009987 cellular process,-2.4,9.8,4.9,30211,110,84,3,3.6,2,4624|4629|91807,MYH6|MYH11|MYLK3,-0.85
+LN_meta,Reactome Gene Sets,6,R-HSA-977225,Amyloid fiber formation,,-2.4,9.7,4.9,30211,111,84,3,3.6,2,335|337|8331,APOA1|APOA4|H2AC14,-0.84
+LN_meta,GO Biological Processes,19,GO:0097237,cellular response to toxic substance,19_GO:0050896 response to stimulus,-2.4,9.5,4.8,30211,113,84,3,3.6,2,213|337|10549,ALB|APOA4|PRDX4,-0.82
+LN_meta,GO Biological Processes,19,GO:0046883,regulation of hormone secretion,19_GO:0023052 signaling,-2.4,6.2,4.2,30211,231,84,4,4.8,2.3,2693|3814|6447|91608,GHSR|KISS1|SCG5|RASL10B,-0.82
+LN_meta,GO Biological Processes,19,GO:0035051,cardiocyte differentiation,19_GO:0032502 developmental process,-2.4,9.4,4.8,30211,115,84,3,3.6,2,4624|4629|91807,MYH6|MYH11|MYLK3,-0.81
+LN_meta,GO Biological Processes,19,GO:1903530,regulation of secretion by cell,19_GO:0051179 localization,-2.4,3.9,3.7,30211,549,84,6,7.1,2.8,2693|3814|6447|54474|91608|219931,GHSR|KISS1|SCG5|KRT20|RASL10B|TPCN2,-0.79
+LN_meta,GO Biological Processes,19,GO:0008203,cholesterol metabolic process,19_GO:0008152 metabolic process,-2.4,9.1,4.7,30211,118,84,3,3.6,2,335|337|6822,APOA1|APOA4|SULT2A1,-0.78
+LN_meta,GO Biological Processes,19,GO:0032970,regulation of actin filament-based process,19_GO:0050789 regulation of biological process,-2.3,4.6,3.8,30211,392,84,5,6,2.6,335|487|2017|7429|91807,APOA1|ATP2A1|CTTN|VIL1|MYLK3,-0.75
+LN_meta,GO Biological Processes,19,GO:0090257,regulation of muscle system process,19_GO:0032501 multicellular organismal process,-2.3,5.8,4,30211,250,84,4,4.8,2.3,487|2017|2693|4634,ATP2A1|CTTN|GHSR|MYL3,-0.72
+LN_meta,GO Biological Processes,19,GO:0032989,cellular component morphogenesis,19_GO:0032502 developmental process,-2.3,3.8,3.5,30211,573,84,6,7.1,2.8,2017|2045|4624|4629|9576|91807,CTTN|EPHA7|MYH6|MYH11|SPAG6|MYLK3,-0.72
+LN_meta,GO Biological Processes,19,GO:1902652,secondary alcohol metabolic process,19_GO:0008152 metabolic process,-2.3,8.4,4.4,30211,128,84,3,3.6,2,335|337|6822,APOA1|APOA4|SULT2A1,-0.71
+LN_meta,Reactome Gene Sets,6,R-HSA-6809371,Formation of the cornified envelope,,-2.2,8.3,4.4,30211,130,84,3,3.6,2,3887|54474|374454,KRT81|KRT20|KRT77,-0.69
+LN_meta,GO Biological Processes,19,GO:0098754,detoxification,19_GO:0098754 detoxification,-2.2,8.2,4.4,30211,132,84,3,3.6,2,213|337|10549,ALB|APOA4|PRDX4,-0.68
+LN_meta,GO Biological Processes,19,GO:0010565,regulation of cellular ketone metabolic process,19_GO:0008152 metabolic process,-2.2,8.2,4.4,30211,132,84,3,3.6,2,335|337|2693,APOA1|APOA4|GHSR,-0.68
+LN_meta,GO Biological Processes,19,GO:0016125,sterol metabolic process,19_GO:0008152 metabolic process,-2.2,8.1,4.3,30211,133,84,3,3.6,2,335|337|6822,APOA1|APOA4|SULT2A1,-0.67
+LN_meta,GO Biological Processes,19,GO:0008584,male gonad development,19_GO:0022414 reproductive process,-2.2,8,4.3,30211,135,84,3,3.6,2,1299|10549|29844,COL9A3|PRDX4|TFPT,-0.66
+LN_meta,GO Biological Processes,19,GO:0046546,development of primary male sexual characteristics,19_GO:0022414 reproductive process,-2.2,7.9,4.3,30211,136,84,3,3.6,2,1299|10549|29844,COL9A3|PRDX4|TFPT,-0.66
+LN_meta,GO Biological Processes,19,GO:0030198,extracellular matrix organization,19_GO:0009987 cellular process,-2.2,5.4,3.8,30211,266,84,4,4.8,2.3,1297|1299|4629|10549,COL9A1|COL9A3|MYH11|PRDX4,-0.66
+LN_meta,GO Biological Processes,19,GO:0043062,extracellular structure organization,19_GO:0009987 cellular process,-2.2,5.4,3.8,30211,267,84,4,4.8,2.3,1297|1299|4629|10549,COL9A1|COL9A3|MYH11|PRDX4,-0.66
+LN_meta,WikiPathways,27,WP5124,Alzheimer's disease,,-2.2,5.4,3.8,30211,267,84,4,4.8,2.3,487|7475|8772|163688,ATP2A1|WNT6|FADD|CALML6,-0.66
+LN_meta,KEGG Pathway,24,hsa04910,Insulin signaling pathway,,-2.2,7.9,4.3,30211,137,84,3,3.6,2,5260|5837|163688,PHKG1|PYGM|CALML6,-0.65
+LN_meta,GO Biological Processes,19,GO:0045229,external encapsulating structure organization,19_GO:0009987 cellular process,-2.2,5.3,3.8,30211,269,84,4,4.8,2.3,1297|1299|4629|10549,COL9A1|COL9A3|MYH11|PRDX4,-0.65
+LN_meta,GO Biological Processes,19,GO:0031667,response to nutrient levels,19_GO:0050896 response to stimulus,-2.1,4.1,3.5,30211,437,84,5,6,2.6,158|213|2693|9506|54474,ADSL|ALB|GHSR|PAGE4|KRT20,-0.61
+LN_meta,WikiPathways,27,WP51,Regulation of actin cytoskeleton,,-2.1,7.2,4,30211,150,84,3,3.6,2,2248|4634|7429,FGF3|MYL3|VIL1,-0.57
+LN_meta,GO Biological Processes,19,GO:0009060,aerobic respiration,19_GO:0008152 metabolic process,-2.1,7.1,4,30211,151,84,3,3.6,2,158|4715|4726,ADSL|NDUFB9|NDUFS6,-0.56
+LN_meta,GO Biological Processes,19,GO:0045834,positive regulation of lipid metabolic process,19_GO:0048518 positive regulation of biological process,-2,7.1,4,30211,153,84,3,3.6,2,335|337|2693,APOA1|APOA4|GHSR,-0.55
+LN_meta,GO Biological Processes,19,GO:0015850,organic hydroxy compound transport,19_GO:0051179 localization,-2,7,3.9,30211,155,84,3,3.6,2,335|337|219931,APOA1|APOA4|TPCN2,-0.54
+LN_meta,Reactome Gene Sets,6,R-HSA-71387,Metabolism of carbohydrates,,-2,4.9,3.5,30211,295,84,4,4.8,2.3,229|2027|5260|5837,ALDOB|ENO3|PHKG1|PYGM,-0.54
+LN_meta,GO Biological Processes,19,GO:0005975,carbohydrate metabolic process,19_GO:0008152 metabolic process,-2,3.9,3.3,30211,462,84,5,6,2.6,229|2027|2819|5260|5837,ALDOB|ENO3|GPD1|PHKG1|PYGM,-0.53
+LN_meta,GO Biological Processes,19,GO:0055001,muscle cell development,19_GO:0032502 developmental process,-2,6.9,3.9,30211,157,84,3,3.6,2,4624|4629|91807,MYH6|MYH11|MYLK3,-0.52
+LN_meta,KEGG Pathway,24,hsa04217,Necroptosis,,-2,6.8,3.9,30211,159,84,3,3.6,2,5837|8331|8772,PYGM|H2AC14|FADD,-0.51
+LN_meta,GO Biological Processes,19,GO:0022900,electron transport chain,19_GO:0008152 metabolic process,-2,6.8,3.9,30211,159,84,3,3.6,2,2819|4715|4726,GPD1|NDUFB9|NDUFS6,-0.51
+LN_meta,GO Biological Processes,19,GO:0046661,male sex differentiation,19_GO:0022414 reproductive process,-2,6.8,3.9,30211,159,84,3,3.6,2,1299|10549|29844,COL9A3|PRDX4|TFPT,-0.51
+LN_meta_MCODE_ALL,Reactome Gene Sets,6,R-HSA-397014,Muscle contraction,,-11,92,23,30211,197,10,6,60,15,72|4624|4626|4629|4634|4635,ACTG2|MYH6|MYH8|MYH11|MYL3|MYL4,-7.1
+LN_meta_MCODE_ALL,Reactome Gene Sets,6,R-HSA-390522,Striated Muscle Contraction,,-9.5,3.4e+02,37,30211,36,10,4,40,15,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-6.2
+LN_meta_MCODE_ALL,WikiPathways,27,WP383,Striated muscle contraction pathway,,-9.4,3.2e+02,36,30211,38,10,4,40,15,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-6.2
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0006936,muscle contraction,19_GO:0032501 multicellular organismal process,-8.3,67,18,30211,227,10,5,50,16,4624|4626|4629|4634|4635,MYH6|MYH8|MYH11|MYL3|MYL4,-5.3
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0003012,muscle system process,19_GO:0032501 multicellular organismal process,-7.8,54,16,30211,281,10,5,50,16,4624|4626|4629|4634|4635,MYH6|MYH8|MYH11|MYL3|MYL4,-4.9
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0006941,striated muscle contraction,19_GO:0032501 multicellular organismal process,-7.5,1.1e+02,21,30211,106,10,4,40,15,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-4.7
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0002026,regulation of the force of heart contraction,19_GO:0032501 multicellular organismal process,-7.2,3.5e+02,32,30211,26,10,3,30,14,4624|4634|4635,MYH6|MYL3|MYL4,-4.4
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0044057,regulation of system process,19_GO:0032501 multicellular organismal process,-6.3,26,11,30211,573,10,5,50,16,4624|4634|4635|219537|387129,MYH6|MYL3|MYL4|SMTNL1|NPSR1,-3.8
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:1903522,regulation of blood circulation,19_GO:0032501 multicellular organismal process,-6,47,14,30211,256,10,4,40,15,4624|4634|4635|219537,MYH6|MYL3|MYL4|SMTNL1,-3.6
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0043462,regulation of ATP-dependent activity,19_GO:0065007 biological regulation,-5.8,1.2e+02,19,30211,73,10,3,30,14,4624|4634|4635,MYH6|MYL3|MYL4,-3.5
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0060048,cardiac muscle contraction,19_GO:0032501 multicellular organismal process,-5.8,1.2e+02,19,30211,75,10,3,30,14,4624|4634|4635,MYH6|MYL3|MYL4,-3.4
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0048644,muscle organ morphogenesis,19_GO:0032502 developmental process,-5.7,1.1e+02,18,30211,80,10,3,30,14,4624|4634|219537,MYH6|MYL3|SMTNL1,-3.4
+LN_meta_MCODE_ALL,KEGG Pathway,24,hsa04260,Cardiac muscle contraction,,-5.6,1e+02,18,30211,87,10,3,30,14,4624|4634|4635,MYH6|MYL3|MYL4,-3.3
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0060047,heart contraction,19_GO:0032501 multicellular organismal process,-5.5,99,17,30211,92,10,3,30,14,4624|4634|4635,MYH6|MYL3|MYL4,-3.2
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0003015,heart process,19_GO:0032501 multicellular organismal process,-5.3,84,16,30211,108,10,3,30,14,4624|4634|4635,MYH6|MYL3|MYL4,-3.1
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0008015,blood circulation,19_GO:0032501 multicellular organismal process,-5.2,30,11,30211,400,10,4,40,15,4624|4634|4635|219537,MYH6|MYL3|MYL4|SMTNL1,-3
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0061061,muscle structure development,19_GO:0032502 developmental process,-4.9,25,9.7,30211,480,10,4,40,15,4624|4629|4634|219537,MYH6|MYH11|MYL3|SMTNL1,-2.8
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0003013,circulatory system process,19_GO:0032501 multicellular organismal process,-4.9,25,9.6,30211,492,10,4,40,15,4624|4634|4635|219537,MYH6|MYL3|MYL4|SMTNL1,-2.7
+LN_meta_MCODE_ALL,KEGG Pathway,24,hsa04261,Adrenergic signaling in cardiomyocytes,,-4.9,60,13,30211,150,10,3,30,14,4624|4634|4635,MYH6|MYL3|MYL4,-2.7
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0048738,cardiac muscle tissue development,19_GO:0032502 developmental process,-4.7,52,12,30211,173,10,3,30,14,4624|4629|4634,MYH6|MYH11|MYL3,-2.6
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0030029,actin filament-based process,19_GO:0009987 cellular process,-4.5,20,8.6,30211,602,10,4,40,15,4624|4626|4629|219537,MYH6|MYH8|MYH11|SMTNL1,-2.5
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0008016,regulation of heart contraction,19_GO:0032501 multicellular organismal process,-4.4,44,11,30211,207,10,3,30,14,4624|4634|4635,MYH6|MYL3|MYL4,-2.4
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0007517,muscle organ development,19_GO:0032502 developmental process,-4,32,9.5,30211,285,10,3,30,14,4624|4634|219537,MYH6|MYL3|SMTNL1,-2.1
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0014706,striated muscle tissue development,19_GO:0032502 developmental process,-4,32,9.5,30211,287,10,3,30,14,4624|4629|4634,MYH6|MYH11|MYL3,-2.1
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0060537,muscle tissue development,19_GO:0032502 developmental process,-3.9,30,9.2,30211,306,10,3,30,14,4624|4629|4634,MYH6|MYH11|MYL3,-2
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0030036,actin cytoskeleton organization,19_GO:0009987 cellular process,-3.2,17,6.7,30211,540,10,3,30,14,4624|4629|219537,MYH6|MYH11|SMTNL1,-1.4
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0007507,heart development,19_GO:0032502 developmental process,-3.2,17,6.7,30211,542,10,3,30,14,4624|4629|4634,MYH6|MYH11|MYL3,-1.4
+LN_meta_MCODE_ALL,GO Biological Processes,19,GO:0048729,tissue morphogenesis,19_GO:0032502 developmental process,-3.2,16,6.6,30211,554,10,3,30,14,72|4624|4634,ACTG2|MYH6|MYL3,-1.4
+LN_meta_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-397014,Muscle contraction,,-13,1.5e+02,30,30211,197,6,6,1e+02,15,72|4624|4626|4629|4634|4635,ACTG2|MYH6|MYH8|MYH11|MYL3|MYL4,-9.1
+LN_meta_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-390522,Striated Muscle Contraction,,-11,5.6e+02,47,30211,36,6,4,67,19,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-7.1
+LN_meta_SUB1_MCODE_1,WikiPathways,27,WP383,Striated muscle contraction pathway,,-10,5.3e+02,46,30211,38,6,4,67,19,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-7.1
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0006936,muscle contraction,19_GO:0032501 multicellular organismal process,-9.9,1.1e+02,23,30211,227,6,5,83,15,4624|4626|4629|4634|4635,MYH6|MYH8|MYH11|MYL3|MYL4,-6.6
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0003012,muscle system process,19_GO:0032501 multicellular organismal process,-9.4,90,21,30211,281,6,5,83,15,4624|4626|4629|4634|4635,MYH6|MYH8|MYH11|MYL3|MYL4,-6.2
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0006941,striated muscle contraction,19_GO:0032501 multicellular organismal process,-8.7,1.9e+02,27,30211,106,6,4,67,19,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-5.6
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0002026,regulation of the force of heart contraction,19_GO:0032501 multicellular organismal process,-7.9,5.8e+02,42,30211,26,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-5
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0043462,regulation of ATP-dependent activity,19_GO:0065007 biological regulation,-6.6,2.1e+02,25,30211,73,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-4
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0060048,cardiac muscle contraction,19_GO:0032501 multicellular organismal process,-6.5,2e+02,24,30211,75,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-4
+LN_meta_SUB1_MCODE_1,KEGG Pathway,24,hsa04260,Cardiac muscle contraction,,-6.3,1.7e+02,23,30211,87,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-3.9
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0060047,heart contraction,19_GO:0032501 multicellular organismal process,-6.3,1.6e+02,22,30211,92,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-3.8
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0003015,heart process,19_GO:0032501 multicellular organismal process,-6.1,1.4e+02,20,30211,108,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-3.7
+LN_meta_SUB1_MCODE_1,KEGG Pathway,24,hsa04261,Adrenergic signaling in cardiomyocytes,,-5.6,1e+02,17,30211,150,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-3.3
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0048738,cardiac muscle tissue development,19_GO:0032502 developmental process,-5.4,87,16,30211,173,6,3,50,20,4624|4629|4634,MYH6|MYH11|MYL3,-3.2
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0008016,regulation of heart contraction,19_GO:0032501 multicellular organismal process,-5.2,73,15,30211,207,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-3
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:1903522,regulation of blood circulation,19_GO:0032501 multicellular organismal process,-4.9,59,13,30211,256,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-2.8
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0014706,striated muscle tissue development,19_GO:0032502 developmental process,-4.8,53,12,30211,287,6,3,50,20,4624|4629|4634,MYH6|MYH11|MYL3,-2.7
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0060537,muscle tissue development,19_GO:0032502 developmental process,-4.7,49,12,30211,306,6,3,50,20,4624|4629|4634,MYH6|MYH11|MYL3,-2.6
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0008015,blood circulation,19_GO:0032501 multicellular organismal process,-4.3,38,10,30211,400,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-2.3
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0061061,muscle structure development,19_GO:0032502 developmental process,-4.1,31,9.5,30211,480,6,3,50,20,4624|4629|4634,MYH6|MYH11|MYL3,-2.1
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0003013,circulatory system process,19_GO:0032501 multicellular organismal process,-4.1,31,9.4,30211,492,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-2.1
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0007507,heart development,19_GO:0032502 developmental process,-4,28,8.9,30211,542,6,3,50,20,4624|4629|4634,MYH6|MYH11|MYL3,-2
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0048729,tissue morphogenesis,19_GO:0032502 developmental process,-3.9,27,8.8,30211,554,6,3,50,20,72|4624|4634,ACTG2|MYH6|MYL3,-2
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0044057,regulation of system process,19_GO:0032501 multicellular organismal process,-3.9,26,8.6,30211,573,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-2
+LN_meta_SUB1_MCODE_1,GO Biological Processes,19,GO:0030029,actin filament-based process,19_GO:0009987 cellular process,-3.8,25,8.4,30211,602,6,3,50,20,4624|4626|4629,MYH6|MYH8|MYH11,-1.9
+N0,GO Biological Processes,19,GO:0030277,maintenance of gastrointestinal epithelium,19_GO:0032501 multicellular organismal process,-5.5,1.1e+02,18,30211,20,43,3,7,3.9,4588|7031|7033,MUC6|TFF1|TFF3,-3.2
+N0,GO Biological Processes,19,GO:0019233,sensory perception of pain,19_GO:0032501 multicellular organismal process,-5.4,38,12,30211,74,43,4,9.3,4.4,796|2911|4311|4914,CALCA|GRM1|MME|NTRK1,-3.2
+N0,Reactome Gene Sets,6,R-HSA-500792,GPCR ligand binding,,-5.4,11,7.8,30211,467,43,7,16,5.6,796|2691|2911|3062|5473|6866|7253,CALCA|GHRH|GRM1|HCRTR2|PPBP|TAC3|TSHR,-3.2
+N0,KEGG Pathway,24,hsa04080,Neuroactive ligand-receptor interaction,,-5,12,7.8,30211,353,43,6,14,5.3,796|2691|2911|3062|6866|7253,CALCA|GHRH|GRM1|HCRTR2|TAC3|TSHR,-2.8
+N0,GO Biological Processes,19,GO:0010669,epithelial structure maintenance,19_GO:0032501 multicellular organismal process,-5,70,14,30211,30,43,3,7,3.9,4588|7031|7033,MUC6|TFF1|TFF3,-2.8
+N0,GO Biological Processes,19,GO:0048871,multicellular organismal homeostasis,19_GO:0032501 multicellular organismal process,-4.9,12,7.7,30211,359,43,6,14,5.3,359|3933|4588|6456|7031|7033,AQP2|LCN1|MUC6|SH3GL2|TFF1|TFF3,-2.8
+N0,GO Biological Processes,19,GO:0007610,behavior,19_GO:0007610 behavior,-4.9,8.7,7,30211,563,43,7,16,5.6,796|2911|3062|4009|4311|4914|64478,CALCA|GRM1|HCRTR2|LMX1A|MME|NTRK1|CSMD1,-2.7
+N0,GO Biological Processes,19,GO:0001894,tissue homeostasis,19_GO:0032501 multicellular organismal process,-4.7,15,8.1,30211,234,43,5,12,4.9,3933|4588|6456|7031|7033,LCN1|MUC6|SH3GL2|TFF1|TFF3,-2.6
+N0,Reactome Gene Sets,6,R-HSA-388396,GPCR downstream signalling,,-4.6,7.8,6.5,30211,629,43,7,16,5.6,796|2691|2911|3062|5473|6866|7253,CALCA|GHRH|GRM1|HCRTR2|PPBP|TAC3|TSHR,-2.5
+N0,GO Biological Processes,19,GO:1990090,cellular response to nerve growth factor stimulus,19_GO:0050896 response to stimulus,-4.4,47,12,30211,45,43,3,7,3.9,796|4914|6456,CALCA|NTRK1|SH3GL2,-2.4
+N0,GO Biological Processes,19,GO:1990089,response to nerve growth factor,19_GO:0050896 response to stimulus,-4.4,45,11,30211,47,43,3,7,3.9,796|4914|6456,CALCA|NTRK1|SH3GL2,-2.3
+N0,GO Biological Processes,19,GO:0060249,anatomical structure homeostasis,19_GO:0065007 biological regulation,-4.3,13,7.3,30211,281,43,5,12,4.9,3933|4588|6456|7031|7033,LCN1|MUC6|SH3GL2|TFF1|TFF3,-2.3
+N0,Reactome Gene Sets,6,R-HSA-3781865,Diseases of glycosylation,,-4.3,20,8.4,30211,143,43,4,9.3,4.4,1463|4588|63827|727897,NCAN|MUC6|BCAN|MUC5B,-2.3
+N0,Reactome Gene Sets,6,R-HSA-372790,Signaling by GPCR,,-4.2,7,6.1,30211,704,43,7,16,5.6,796|2691|2911|3062|5473|6866|7253,CALCA|GHRH|GRM1|HCRTR2|PPBP|TAC3|TSHR,-2.3
+N0,GO Biological Processes,19,GO:0022600,digestive system process,19_GO:0032501 multicellular organismal process,-3.8,29,9.1,30211,72,43,3,7,3.9,4588|7031|7033,MUC6|TFF1|TFF3,-1.9
+N0,WikiPathways,27,WP3594,Circadian rhythm genes,,-3.7,14,6.9,30211,207,43,4,9.3,4.4,2691|3062|4914|6550,GHRH|HCRTR2|NTRK1|SLC9A3,-1.8
+N0,GO Biological Processes,19,GO:0007188,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-3.5,12,6.5,30211,229,43,4,9.3,4.4,796|2691|2911|7253,CALCA|GHRH|GRM1|TSHR,-1.7
+N0,GO Biological Processes,19,GO:0007200,phospholipase C-activating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-3.4,21,7.6,30211,99,43,3,7,3.9,796|2911|3062,CALCA|GRM1|HCRTR2,-1.6
+N0,Reactome Gene Sets,6,R-HSA-5668914,Diseases of metabolism,,-3.4,11,6.2,30211,245,43,4,9.3,4.4,1463|4588|63827|727897,NCAN|MUC6|BCAN|MUC5B,-1.6
+N0,GO Biological Processes,19,GO:0007586,digestion,19_GO:0032501 multicellular organismal process,-3.3,20,7.4,30211,106,43,3,7,3.9,4588|7031|7033,MUC6|TFF1|TFF3,-1.5
+N0,GO Biological Processes,19,GO:0007218,neuropeptide signaling pathway,19_GO:0023052 signaling,-3.3,20,7.3,30211,108,43,3,7,3.9,796|3062|6866,CALCA|HCRTR2|TAC3,-1.5
+N0,GO Biological Processes,19,GO:0021761,limbic system development,19_GO:0032502 developmental process,-3.3,20,7.3,30211,108,43,3,7,3.9,4009|23440|63827,LMX1A|OTP|BCAN,-1.5
+N0,GO Biological Processes,19,GO:0019730,antimicrobial humoral response,19_GO:0044419 biological process involved in interspecies interaction between organisms,-3.3,19,7.2,30211,111,43,3,7,3.9,5473|8993|78989,PPBP|PGLYRP1|COLEC11,-1.5
+N0,GO Biological Processes,19,GO:0007611,learning or memory,19_GO:0007610 behavior,-3.3,11,5.9,30211,264,43,4,9.3,4.4,4009|4311|4914|64478,LMX1A|MME|NTRK1|CSMD1,-1.5
+N0,GO Biological Processes,19,GO:0051962,positive regulation of nervous system development,19_GO:0032502 developmental process,-3.2,10,5.9,30211,269,43,4,9.3,4.4,2670|4311|4914|23440,GFAP|MME|NTRK1|OTP,-1.4
+N0,GO Biological Processes,19,GO:0042752,regulation of circadian rhythm,19_GO:0048511 rhythmic process,-3.2,18,7,30211,117,43,3,7,3.9,2691|3062|55124,GHRH|HCRTR2|PIWIL2,-1.4
+N0,WikiPathways,27,WP2431,Spinal cord injury,,-3.2,18,6.9,30211,120,43,3,7,3.9,1463|2670|63827,NCAN|GFAP|BCAN,-1.4
+N0,Reactome Gene Sets,6,R-HSA-1630316,Glycosaminoglycan metabolism,,-3.1,17,6.7,30211,124,43,3,7,3.9,1463|8534|63827,NCAN|CHST1|BCAN,-1.4
+N0,GO Biological Processes,19,GO:0010720,positive regulation of cell development,19_GO:0032502 developmental process,-3.1,9.5,5.5,30211,297,43,4,9.3,4.4,2670|4311|10562|23440,GFAP|MME|OLFM4|OTP,-1.3
+N0,Reactome Gene Sets,6,R-HSA-9660821,ADORA2B mediated anti-inflammatory cytokines production,,-3,16,6.5,30211,134,43,3,7,3.9,796|2691|7253,CALCA|GHRH|TSHR,-1.3
+N0,GO Biological Processes,19,GO:0050890,cognition,19_GO:0032501 multicellular organismal process,-3,9.2,5.4,30211,306,43,4,9.3,4.4,4009|4311|4914|64478,LMX1A|MME|NTRK1|CSMD1,-1.3
+N0,GO Biological Processes,19,GO:0050806,positive regulation of synaptic transmission,19_GO:0023052 signaling,-3,15,6.3,30211,141,43,3,7,3.9,2670|4311|4914,GFAP|MME|NTRK1,-1.2
+N0,GO Biological Processes,19,GO:0007189,adenylate cyclase-activating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-3,15,6.3,30211,141,43,3,7,3.9,796|2691|7253,CALCA|GHRH|TSHR,-1.2
+N0,GO Biological Processes,19,GO:0098739,import across plasma membrane,19_GO:0051179 localization,-2.9,15,6.2,30211,144,43,3,7,3.9,2670|2911|6550,GFAP|GRM1|SLC9A3,-1.2
+N0,Reactome Gene Sets,6,R-HSA-418555,G alpha (s) signalling events,,-2.9,15,6.2,30211,145,43,3,7,3.9,796|2691|7253,CALCA|GHRH|TSHR,-1.2
+N0,Reactome Gene Sets,6,R-HSA-373076,Class A/1 (Rhodopsin-like receptors),,-2.9,8.4,5.1,30211,335,43,4,9.3,4.4,3062|5473|6866|7253,HCRTR2|PPBP|TAC3|TSHR,-1.2
+N0,Reactome Gene Sets,6,R-HSA-9664433,Leishmania parasite growth and survival,,-2.7,12,5.6,30211,169,43,3,7,3.9,796|2691|7253,CALCA|GHRH|TSHR,-1.1
+N0,Reactome Gene Sets,6,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,,-2.7,12,5.6,30211,169,43,3,7,3.9,796|2691|7253,CALCA|GHRH|TSHR,-1.1
+N0,GO Biological Processes,19,GO:0030003,cellular cation homeostasis,19_GO:0065007 biological regulation,-2.7,5.7,4.4,30211,620,43,5,12,4.9,796|1356|2911|3062|6550,CALCA|CP|GRM1|HCRTR2|SLC9A3,-1.1
+N0,GO Biological Processes,19,GO:0007565,female pregnancy,19_GO:0022414 reproductive process,-2.7,12,5.6,30211,170,43,3,7,3.9,796|6866|64478,CALCA|TAC3|CSMD1,-1.1
+N0,Canonical Pathways,11,M5880,NABA ECM AFFILIATED,,-2.7,12,5.6,30211,170,43,3,7,3.9,4588|78989|727897,MUC6|COLEC11|MUC5B,-1.1
+N0,GO Biological Processes,19,GO:0030900,forebrain development,19_GO:0032502 developmental process,-2.7,7.5,4.8,30211,375,43,4,9.3,4.4,2691|4009|23440|63827,GHRH|LMX1A|OTP|BCAN,-1
+N0,GO Biological Processes,19,GO:0006873,cellular ion homeostasis,19_GO:0065007 biological regulation,-2.7,5.5,4.4,30211,635,43,5,12,4.9,796|1356|2911|3062|6550,CALCA|CP|GRM1|HCRTR2|SLC9A3,-1
+N0,GO Biological Processes,19,GO:0031175,neuron projection development,19_GO:0032502 developmental process,-2.7,5.5,4.3,30211,639,43,5,12,4.9,2670|2823|4009|4914|6456,GFAP|GPM6A|LMX1A|NTRK1|SH3GL2,-1
+N0,GO Biological Processes,19,GO:0098657,import into cell,19_GO:0051179 localization,-2.7,12,5.5,30211,179,43,3,7,3.9,2670|2911|6550,GFAP|GRM1|SLC9A3,-1
+N0,GO Biological Processes,19,GO:0044706,multi-multicellular organism process,19_GO:0032501 multicellular organismal process,-2.5,11,5.1,30211,198,43,3,7,3.9,796|6866|64478,CALCA|TAC3|CSMD1,-0.93
+N0,GO Biological Processes,19,GO:0055080,cation homeostasis,19_GO:0065007 biological regulation,-2.5,5.1,4.1,30211,692,43,5,12,4.9,796|1356|2911|3062|6550,CALCA|CP|GRM1|HCRTR2|SLC9A3,-0.92
+N0,Reactome Gene Sets,6,R-HSA-375276,Peptide ligand-binding receptors,,-2.5,10,5.1,30211,201,43,3,7,3.9,3062|5473|6866,HCRTR2|PPBP|TAC3,-0.92
+N0,GO Biological Processes,19,GO:0098771,inorganic ion homeostasis,19_GO:0065007 biological regulation,-2.5,5,4.1,30211,702,43,5,12,4.9,796|1356|2911|3062|6550,CALCA|CP|GRM1|HCRTR2|SLC9A3,-0.9
+N0,GO Biological Processes,19,GO:0050804,modulation of chemical synaptic transmission,19_GO:0023052 signaling,-2.5,6.6,4.4,30211,428,43,4,9.3,4.4,2670|2911|4311|4914,GFAP|GRM1|MME|NTRK1,-0.9
+N0,GO Biological Processes,19,GO:0099177,regulation of trans-synaptic signaling,19_GO:0023052 signaling,-2.5,6.6,4.4,30211,429,43,4,9.3,4.4,2670|2911|4311|4914,GFAP|GRM1|MME|NTRK1,-0.89
+N0,GO Biological Processes,19,GO:0051960,regulation of nervous system development,19_GO:0032502 developmental process,-2.5,6.4,4.3,30211,439,43,4,9.3,4.4,2670|4311|4914|23440,GFAP|MME|NTRK1|OTP,-0.86
+N0,Reactome Gene Sets,6,R-HSA-416476,G alpha (q) signalling events,,-2.4,9.8,4.9,30211,216,43,3,7,3.9,2911|3062|6866,GRM1|HCRTR2|TAC3,-0.85
+N0,GO Biological Processes,19,GO:0050769,positive regulation of neurogenesis,19_GO:0032502 developmental process,-2.4,9.5,4.8,30211,222,43,3,7,3.9,2670|4311|23440,GFAP|MME|OTP,-0.82
+N0,GO Biological Processes,19,GO:0048812,neuron projection morphogenesis,19_GO:0032502 developmental process,-2.4,6.2,4.2,30211,455,43,4,9.3,4.4,2823|4009|4914|6456,GPM6A|LMX1A|NTRK1|SH3GL2,-0.82
+N0,GO Biological Processes,19,GO:0055082,cellular chemical homeostasis,19_GO:0065007 biological regulation,-2.4,4.7,3.9,30211,746,43,5,12,4.9,796|1356|2911|3062|6550,CALCA|CP|GRM1|HCRTR2|SLC9A3,-0.81
+N0,GO Biological Processes,19,GO:0120039,plasma membrane bounded cell projection morphogenesis,19_GO:0032502 developmental process,-2.4,6.1,4.2,30211,459,43,4,9.3,4.4,2823|4009|4914|6456,GPM6A|LMX1A|NTRK1|SH3GL2,-0.81
+N0,Canonical Pathways,11,M5885,NABA MATRISOME ASSOCIATED,,-2.4,4.7,3.9,30211,751,43,5,12,4.9,4588|5473|7053|78989|727897,MUC6|PPBP|TGM3|COLEC11|MUC5B,-0.8
+N0,GO Biological Processes,19,GO:0098656,anion transmembrane transport,19_GO:0051179 localization,-2.4,9.3,4.7,30211,227,43,3,7,3.9,2670|2911|6550,GFAP|GRM1|SLC9A3,-0.8
+N0,GO Biological Processes,19,GO:0048858,cell projection morphogenesis,19_GO:0032502 developmental process,-2.4,6.1,4.2,30211,463,43,4,9.3,4.4,2823|4009|4914|6456,GPM6A|LMX1A|NTRK1|SH3GL2,-0.8
+N0,GO Biological Processes,19,GO:0050801,ion homeostasis,19_GO:0065007 biological regulation,-2.4,4.7,3.8,30211,754,43,5,12,4.9,796|1356|2911|3062|6550,CALCA|CP|GRM1|HCRTR2|SLC9A3,-0.8
+N0,Reactome Gene Sets,6,R-HSA-6798695,Neutrophil degranulation,,-2.3,5.9,4,30211,480,43,4,9.3,4.4,4311|5473|8993|10562,MME|PPBP|PGLYRP1|OLFM4,-0.75
+N0,GO Biological Processes,19,GO:0032990,cell part morphogenesis,19_GO:0032502 developmental process,-2.3,5.8,4,30211,482,43,4,9.3,4.4,2823|4009|4914|6456,GPM6A|LMX1A|NTRK1|SH3GL2,-0.75
+N0,Reactome Gene Sets,6,R-HSA-425407,SLC-mediated transmembrane transport,,-2.3,8.4,4.5,30211,250,43,3,7,3.9,1356|3933|6550,CP|LCN1|SLC9A3,-0.71
+N0,GO Biological Processes,19,GO:0060284,regulation of cell development,19_GO:0032502 developmental process,-2.3,5.6,3.9,30211,500,43,4,9.3,4.4,2670|4311|10562|23440,GFAP|MME|OLFM4|OTP,-0.71
+N0,Reactome Gene Sets,6,R-HSA-9658195,Leishmania infection,,-2.2,8.3,4.4,30211,254,43,3,7,3.9,796|2691|7253,CALCA|GHRH|TSHR,-0.7
+N0,GO Biological Processes,19,GO:0006935,chemotaxis,19_GO:0040011 locomotion,-2.2,5.6,3.9,30211,506,43,4,9.3,4.4,796|4009|4914|5473,CALCA|LMX1A|NTRK1|PPBP,-0.69
+N0,GO Biological Processes,19,GO:0042330,taxis,19_GO:0040011 locomotion,-2.2,5.5,3.9,30211,510,43,4,9.3,4.4,796|4009|4914|5473,CALCA|LMX1A|NTRK1|PPBP,-0.69
+N0,GO Biological Processes,19,GO:0048511,rhythmic process,19_GO:0048511 rhythmic process,-2.2,7.9,4.3,30211,267,43,3,7,3.9,3062|4914|55124,HCRTR2|NTRK1|PIWIL2,-0.66
+N0,GO Biological Processes,19,GO:0007568,aging,19_GO:0032502 developmental process,-2.2,7.9,4.3,30211,267,43,3,7,3.9,796|4311|4914,CALCA|MME|NTRK1,-0.66
+N0,GO Biological Processes,19,GO:0006875,cellular metal ion homeostasis,19_GO:0065007 biological regulation,-2.1,5.1,3.7,30211,550,43,4,9.3,4.4,796|1356|2911|3062,CALCA|CP|GRM1|HCRTR2,-0.6
+N0,GO Biological Processes,19,GO:0050808,synapse organization,19_GO:0009987 cellular process,-2.1,7.4,4.1,30211,284,43,3,7,3.9,2823|4009|63827,GPM6A|LMX1A|BCAN,-0.6
+N0,GO Biological Processes,19,GO:0006959,humoral immune response,19_GO:0002376 immune system process,-2.1,7.3,4,30211,290,43,3,7,3.9,5473|8993|78989,PPBP|PGLYRP1|COLEC11,-0.58
+N0,Reactome Gene Sets,6,R-HSA-71387,Metabolism of carbohydrates,,-2.1,7.1,4,30211,295,43,3,7,3.9,1463|8534|63827,NCAN|CHST1|BCAN,-0.57
+N0,GO Biological Processes,19,GO:0032989,cellular component morphogenesis,19_GO:0032502 developmental process,-2.1,4.9,3.6,30211,573,43,4,9.3,4.4,2823|4009|4914|6456,GPM6A|LMX1A|NTRK1|SH3GL2,-0.56
+N0,Reactome Gene Sets,6,R-HSA-9006931,Signaling by Nuclear Receptors,,-2.1,7,4,30211,299,43,3,7,3.9,126|7031|7033,ADH1C|TFF1|TFF3,-0.56
+N0,GO Biological Processes,19,GO:0071214,cellular response to abiotic stimulus,19_GO:0050896 response to stimulus,-2,6.9,3.9,30211,307,43,3,7,3.9,359|2911|4311,AQP2|GRM1|MME,-0.53
+N0,GO Biological Processes,19,GO:0104004,cellular response to environmental stimulus,19_GO:0050896 response to stimulus,-2,6.9,3.9,30211,307,43,3,7,3.9,359|2911|4311,AQP2|GRM1|MME,-0.53
+N0_MCODE_ALL,Reactome Gene Sets,6,R-HSA-9660821,ADORA2B mediated anti-inflammatory cytokines production,,-7.1,2.3e+02,26,30211,134,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.3
+N0_MCODE_ALL,GO Biological Processes,19,GO:0007189,adenylate cyclase-activating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-7,2.1e+02,25,30211,141,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.3
+N0_MCODE_ALL,Reactome Gene Sets,6,R-HSA-418555,G alpha (s) signalling events,,-7,2.1e+02,25,30211,145,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.3
+N0_MCODE_ALL,Reactome Gene Sets,6,R-HSA-9664433,Leishmania parasite growth and survival,,-6.8,1.8e+02,23,30211,169,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.2
+N0_MCODE_ALL,Reactome Gene Sets,6,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,,-6.8,1.8e+02,23,30211,169,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.2
+N0_MCODE_ALL,GO Biological Processes,19,GO:0007188,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-6.4,1.3e+02,20,30211,229,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.9
+N0_MCODE_ALL,Reactome Gene Sets,6,R-HSA-9658195,Leishmania infection,,-6.2,1.2e+02,19,30211,254,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.8
+N0_MCODE_ALL,KEGG Pathway,24,hsa04080,Neuroactive ligand-receptor interaction,,-5.8,86,16,30211,353,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.5
+N0_MCODE_ALL,Reactome Gene Sets,6,R-HSA-500792,GPCR ligand binding,,-5.4,65,14,30211,467,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.2
+N0_MCODE_ALL,Reactome Gene Sets,6,R-HSA-388396,GPCR downstream signalling,,-5,48,12,30211,629,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-2.9
+N0_MCODE_ALL,Reactome Gene Sets,6,R-HSA-372790,Signaling by GPCR,,-4.9,43,11,30211,704,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-2.8
+N0_SUB6_MCODE_1,Reactome Gene Sets,6,R-HSA-9660821,ADORA2B mediated anti-inflammatory cytokines production,,-7.1,2.3e+02,26,30211,134,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.3
+N0_SUB6_MCODE_1,GO Biological Processes,19,GO:0007189,adenylate cyclase-activating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-7,2.1e+02,25,30211,141,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.3
+N0_SUB6_MCODE_1,Reactome Gene Sets,6,R-HSA-418555,G alpha (s) signalling events,,-7,2.1e+02,25,30211,145,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.3
+N0_SUB6_MCODE_1,Reactome Gene Sets,6,R-HSA-9664433,Leishmania parasite growth and survival,,-6.8,1.8e+02,23,30211,169,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.2
+N0_SUB6_MCODE_1,Reactome Gene Sets,6,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,,-6.8,1.8e+02,23,30211,169,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.2
+N0_SUB6_MCODE_1,GO Biological Processes,19,GO:0007188,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-6.4,1.3e+02,20,30211,229,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.9
+N0_SUB6_MCODE_1,Reactome Gene Sets,6,R-HSA-9658195,Leishmania infection,,-6.2,1.2e+02,19,30211,254,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.8
+N0_SUB6_MCODE_1,KEGG Pathway,24,hsa04080,Neuroactive ligand-receptor interaction,,-5.8,86,16,30211,353,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.5
+N0_SUB6_MCODE_1,Reactome Gene Sets,6,R-HSA-500792,GPCR ligand binding,,-5.4,65,14,30211,467,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.2
+N0_SUB6_MCODE_1,Reactome Gene Sets,6,R-HSA-388396,GPCR downstream signalling,,-5,48,12,30211,629,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-2.9
+N0_SUB6_MCODE_1,Reactome Gene Sets,6,R-HSA-372790,Signaling by GPCR,,-4.9,43,11,30211,704,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-2.8
+_FINAL,GO Biological Processes,19,GO:0044057,regulation of system process,19_GO:0032501 multicellular organismal process,-6.8,5,7.3,30211,573,168,16,9.5,2.3,335|337|487|796|2017|2693|2911|3814|4624|4634|4635|5024|51083|56853|219537|387129,APOA1|APOA4|ATP2A1|CALCA|CTTN|GHSR|GRM1|KISS1|MYH6|MYL3|MYL4|P2RX3|GAL|CELF4|SMTNL1|NPSR1,-4.2
+_FINAL,Reactome Gene Sets,6,R-HSA-500792,GPCR ligand binding,,-6.4,5.4,7.2,30211,467,168,14,8.3,2.1,796|2691|2693|2911|3062|3814|5473|6469|6866|7253|7475|8643|51083|387129,CALCA|GHRH|GHSR|GRM1|HCRTR2|KISS1|PPBP|SHH|TAC3|TSHR|WNT6|PTCH2|GAL|NPSR1,-3.9
+_FINAL,GO Biological Processes,19,GO:0032989,cellular component morphogenesis,19_GO:0032502 developmental process,-6.1,4.7,6.7,30211,573,168,15,8.9,2.2,2017|2045|2823|4009|4624|4629|4914|6456|6469|9576|51473|54910|84631|91807|644168,CTTN|EPHA7|GPM6A|LMX1A|MYH6|MYH11|NTRK1|SH3GL2|SHH|SPAG6|DCDC2|SEMA4C|SLITRK2|MYLK3|DRGX,-3.7
+_FINAL,KEGG Pathway,24,hsa04020,Calcium signaling pathway,,-6,7.5,7.6,30211,240,168,10,6,1.8,487|2248|2911|4914|5024|5260|9127|91807|163688|219931,ATP2A1|FGF3|GRM1|NTRK1|P2RX3|PHKG1|P2RX6|MYLK3|CALML6|TPCN2,-3.6
+_FINAL,Reactome Gene Sets,6,R-HSA-397014,Muscle contraction,,-5.8,8.2,7.6,30211,197,168,9,5.4,1.7,72|487|4624|4626|4629|4634|4635|4880|58498,ACTG2|ATP2A1|MYH6|MYH8|MYH11|MYL3|MYL4|NPPC|MYL7,-3.4
+_FINAL,GO Biological Processes,19,GO:0031175,neuron projection development,19_GO:0032502 developmental process,-5.5,4.2,6.2,30211,639,168,15,8.9,2.2,337|2017|2045|2670|2823|4009|4914|5923|6456|6469|9576|51473|54910|84631|644168,APOA4|CTTN|EPHA7|GFAP|GPM6A|LMX1A|NTRK1|RASGRF1|SH3GL2|SHH|SPAG6|DCDC2|SEMA4C|SLITRK2|DRGX,-3.2
+_FINAL,GO Biological Processes,19,GO:0007610,behavior,19_GO:0007610 behavior,-5.5,4.5,6.2,30211,563,168,14,8.3,2.1,796|2693|2911|3062|4009|4311|4914|5024|5923|8772|51083|64478|347730|387129,CALCA|GHSR|GRM1|HCRTR2|LMX1A|MME|NTRK1|P2RX3|RASGRF1|FADD|GAL|CSMD1|LRRTM1|NPSR1,-3.2
+_FINAL,KEGG Pathway,24,hsa04080,Neuroactive ligand-receptor interaction,,-5.3,5.6,6.5,30211,353,168,11,6.5,1.9,796|2691|2693|2911|3062|3814|5024|6866|7253|9127|51083,CALCA|GHRH|GHSR|GRM1|HCRTR2|KISS1|P2RX3|TAC3|TSHR|P2RX6|GAL,-3.1
+_FINAL,GO Biological Processes,19,GO:0016048,detection of temperature stimulus,19_GO:0050896 response to stimulus,-5,30,11,30211,24,168,4,2.4,1.2,796|4914|80036|644168,CALCA|NTRK1|TRPM3|DRGX,-2.9
+_FINAL,GO Biological Processes,19,GO:0048812,neuron projection morphogenesis,19_GO:0032502 developmental process,-5,4.7,6,30211,455,168,12,7.1,2,2017|2045|2823|4009|4914|6456|6469|9576|51473|54910|84631|644168,CTTN|EPHA7|GPM6A|LMX1A|NTRK1|SH3GL2|SHH|SPAG6|DCDC2|SEMA4C|SLITRK2|DRGX,-2.8
+_FINAL,GO Biological Processes,19,GO:0120039,plasma membrane bounded cell projection morphogenesis,19_GO:0032502 developmental process,-5,4.7,6,30211,459,168,12,7.1,2,2017|2045|2823|4009|4914|6456|6469|9576|51473|54910|84631|644168,CTTN|EPHA7|GPM6A|LMX1A|NTRK1|SH3GL2|SHH|SPAG6|DCDC2|SEMA4C|SLITRK2|DRGX,-2.8
+_FINAL,GO Biological Processes,19,GO:0048858,cell projection morphogenesis,19_GO:0032502 developmental process,-4.9,4.7,5.9,30211,463,168,12,7.1,2,2017|2045|2823|4009|4914|6456|6469|9576|51473|54910|84631|644168,CTTN|EPHA7|GPM6A|LMX1A|NTRK1|SH3GL2|SHH|SPAG6|DCDC2|SEMA4C|SLITRK2|DRGX,-2.8
+_FINAL,GO Biological Processes,19,GO:0032990,cell part morphogenesis,19_GO:0032502 developmental process,-4.8,4.5,5.8,30211,482,168,12,7.1,2,2017|2045|2823|4009|4914|6456|6469|9576|51473|54910|84631|644168,CTTN|EPHA7|GPM6A|LMX1A|NTRK1|SH3GL2|SHH|SPAG6|DCDC2|SEMA4C|SLITRK2|DRGX,-2.6
+_FINAL,GO Biological Processes,19,GO:0010817,regulation of hormone levels,19_GO:0065007 biological regulation,-4.6,4.4,5.6,30211,496,168,12,7.1,2,126|2691|2693|3814|5126|6447|6469|6822|7364|51083|64577|91608,ADH1C|GHRH|GHSR|KISS1|PCSK2|SCG5|SHH|SULT2A1|UGT2B7|GAL|ALDH8A1|RASL10B,-2.5
+_FINAL,GO Biological Processes,19,GO:0000902,cell morphogenesis,19_GO:0032502 developmental process,-4.6,3.7,5.4,30211,673,168,14,8.3,2.1,2017|2045|2823|4009|4914|6456|6469|6760|9576|22798|51473|54910|84631|644168,CTTN|EPHA7|GPM6A|LMX1A|NTRK1|SH3GL2|SHH|SS18|SPAG6|LAMB4|DCDC2|SEMA4C|SLITRK2|DRGX,-2.5
+_FINAL,GO Biological Processes,19,GO:0003012,muscle system process,19_GO:0032501 multicellular organismal process,-4.5,5.8,6,30211,281,168,9,5.4,1.7,487|4624|4626|4629|4634|4635|5024|9127|219931,ATP2A1|MYH6|MYH8|MYH11|MYL3|MYL4|P2RX3|P2RX6|TPCN2,-2.5
+_FINAL,GO Biological Processes,19,GO:0050804,modulation of chemical synaptic transmission,19_GO:0023052 signaling,-4.5,4.6,5.6,30211,428,168,11,6.5,1.9,2670|2693|2911|3814|4311|4914|5024|5923|9148|56853|347730,GFAP|GHSR|GRM1|KISS1|MME|NTRK1|P2RX3|RASGRF1|NEURL1|CELF4|LRRTM1,-2.5
+_FINAL,GO Biological Processes,19,GO:0099177,regulation of trans-synaptic signaling,19_GO:0023052 signaling,-4.5,4.6,5.6,30211,429,168,11,6.5,1.9,2670|2693|2911|3814|4311|4914|5024|5923|9148|56853|347730,GFAP|GHSR|GRM1|KISS1|MME|NTRK1|P2RX3|RASGRF1|NEURL1|CELF4|LRRTM1,-2.4
+_FINAL,GO Biological Processes,19,GO:0007218,neuropeptide signaling pathway,19_GO:0023052 signaling,-4.5,10,7,30211,108,168,6,3.6,1.4,796|3062|6447|6866|51083|387129,CALCA|HCRTR2|SCG5|TAC3|GAL|NPSR1,-2.4
+_FINAL,GO Biological Processes,19,GO:0060123,regulation of growth hormone secretion,19_GO:0023052 signaling,-4.4,45,11,30211,12,168,3,1.8,1,2691|2693|3814,GHRH|GHSR|KISS1,-2.4
+_FINAL,KEGG Pathway,24,hsa00010,Glycolysis / Gluconeogenesis,,-4.4,13,7.6,30211,67,168,5,3,1.3,126|229|2027|5105|8789,ADH1C|ALDOB|ENO3|PCK1|FBP2,-2.4
+_FINAL,Reactome Gene Sets,6,R-HSA-70263,Gluconeogenesis,,-4.4,21,8.8,30211,34,168,4,2.4,1.2,229|2027|5105|8789,ALDOB|ENO3|PCK1|FBP2,-2.4
+_FINAL,GO Biological Processes,19,GO:0051960,regulation of nervous system development,19_GO:0032502 developmental process,-4.4,4.5,5.5,30211,439,168,11,6.5,1.9,2045|2670|4311|4914|6469|9148|23440|54910|79727|84631|347730,EPHA7|GFAP|MME|NTRK1|SHH|NEURL1|OTP|SEMA4C|LIN28A|SLITRK2|LRRTM1,-2.4
+_FINAL,Reactome Gene Sets,6,R-HSA-372790,Signaling by GPCR,,-4.4,3.6,5.2,30211,704,168,14,8.3,2.1,796|2691|2693|2911|3062|3814|5473|6469|6866|7253|7475|8643|51083|387129,CALCA|GHRH|GHSR|GRM1|HCRTR2|KISS1|PPBP|SHH|TAC3|TSHR|WNT6|PTCH2|GAL|NPSR1,-2.3
+_FINAL,GO Biological Processes,19,GO:0006936,muscle contraction,19_GO:0032501 multicellular organismal process,-4.4,6.3,6,30211,227,168,8,4.8,1.6,4624|4626|4629|4634|4635|5024|9127|219931,MYH6|MYH8|MYH11|MYL3|MYL4|P2RX3|P2RX6|TPCN2,-2.3
+_FINAL,Reactome Gene Sets,6,R-HSA-71387,Metabolism of carbohydrates,,-4.4,5.5,5.8,30211,295,168,9,5.4,1.7,229|1463|2027|5105|5260|5837|8534|8789|63827,ALDOB|NCAN|ENO3|PCK1|PHKG1|PYGM|CHST1|FBP2|BCAN,-2.3
+_FINAL,Reactome Gene Sets,6,R-HSA-2168880,Scavenging of heme from plasma,,-4.3,41,11,30211,13,168,3,1.8,1,213|335|3250,ALB|APOA1|HPR,-2.3
+_FINAL,Reactome Gene Sets,6,R-HSA-390522,Striated Muscle Contraction,,-4.3,20,8.5,30211,36,168,4,2.4,1.2,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-2.3
+_FINAL,GO Biological Processes,19,GO:0043462,regulation of ATP-dependent activity,19_GO:0065007 biological regulation,-4.3,12,7.2,30211,73,168,5,3,1.3,229|487|4624|4634|4635,ALDOB|ATP2A1|MYH6|MYL3|MYL4,-2.3
+_FINAL,WikiPathways,27,WP383,Striated muscle contraction pathway,,-4.2,19,8.3,30211,38,168,4,2.4,1.2,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-2.2
+_FINAL,GO Biological Processes,19,GO:0051604,protein maturation,19_GO:0008152 metabolic process,-4.1,5.7,5.6,30211,251,168,8,4.8,1.6,3250|4311|5126|6447|6469|8260|8772|10549,HPR|MME|PCSK2|SCG5|SHH|NAA10|FADD|PRDX4,-2.1
+_FINAL,GO Biological Processes,19,GO:0008015,blood circulation,19_GO:0032501 multicellular organismal process,-4.1,4.5,5.3,30211,400,168,10,6,1.8,796|4624|4634|4635|6456|6866|58498|91608|91807|219537,CALCA|MYH6|MYL3|MYL4|SH3GL2|TAC3|MYL7|RASL10B|MYLK3|SMTNL1,-2.1
+_FINAL,Reactome Gene Sets,6,R-HSA-2173782,Binding and Uptake of Ligands by Scavenger Receptors,,-4.1,17,7.8,30211,42,168,4,2.4,1.2,213|335|3250|78989,ALB|APOA1|HPR|COLEC11,-2.1
+_FINAL,GO Biological Processes,19,GO:0007635,chemosensory behavior,19_GO:0007610 behavior,-4,34,9.8,30211,16,168,3,1.8,1,4009|4914|5024,LMX1A|NTRK1|P2RX3,-2.1
+_FINAL,GO Biological Processes,19,GO:0003013,circulatory system process,19_GO:0032501 multicellular organismal process,-4,4,5.1,30211,492,168,11,6.5,1.9,796|1244|4624|4634|4635|6456|6866|58498|91608|91807|219537,CALCA|ABCC2|MYH6|MYL3|MYL4|SH3GL2|TAC3|MYL7|RASL10B|MYLK3|SMTNL1,-2
+_FINAL,KEGG Pathway,24,hsa04270,Vascular smooth muscle contraction,,-4,8.1,6.1,30211,134,168,6,3.6,1.4,72|796|4629|4880|91807|163688,ACTG2|CALCA|MYH11|NPPC|MYLK3|CALML6,-2
+_FINAL,GO Biological Processes,19,GO:0043691,reverse cholesterol transport,19_GO:0051179 localization,-4,32,9.5,30211,17,168,3,1.8,1,335|337|1066,APOA1|APOA4|CES1,-2
+_FINAL,Reactome Gene Sets,6,R-HSA-5083625,Defective GALNT3 causes HFTC,,-4,32,9.5,30211,17,168,3,1.8,1,4588|10071|727897,MUC6|MUC12|MUC5B,-2
+_FINAL,Reactome Gene Sets,6,R-HSA-5083636,Defective GALNT12 causes CRCS1,,-4,32,9.5,30211,17,168,3,1.8,1,4588|10071|727897,MUC6|MUC12|MUC5B,-2
+_FINAL,WikiPathways,27,WP534,Glycolysis and gluconeogenesis,,-3.9,16,7.5,30211,45,168,4,2.4,1.2,229|2027|5105|8789,ALDOB|ENO3|PCK1|FBP2,-2
+_FINAL,Canonical Pathways,11,M106,PID HNF3B PATHWAY,,-3.9,16,7.5,30211,45,168,4,2.4,1.2,213|229|335|5105,ALB|ALDOB|APOA1|PCK1,-2
+_FINAL,GO Biological Processes,19,GO:0032781,positive regulation of ATP-dependent activity,19_GO:0065007 biological regulation,-3.9,16,7.5,30211,45,168,4,2.4,1.2,229|487|4634|4635,ALDOB|ATP2A1|MYL3|MYL4,-2
+_FINAL,GO Biological Processes,19,GO:0060284,regulation of cell development,19_GO:0032502 developmental process,-3.9,4,5,30211,500,168,11,6.5,1.9,335|2045|2670|4311|4880|6469|9148|10562|23440|54910|79727,APOA1|EPHA7|GFAP|MME|NPPC|SHH|NEURL1|OLFM4|OTP|SEMA4C|LIN28A,-2
+_FINAL,GO Biological Processes,19,GO:0042445,hormone metabolic process,19_GO:0008152 metabolic process,-3.9,6.4,5.7,30211,198,168,7,4.2,1.5,126|5126|6447|6469|6822|7364|64577,ADH1C|PCSK2|SCG5|SHH|SULT2A1|UGT2B7|ALDH8A1,-2
+_FINAL,Reactome Gene Sets,6,R-HSA-5083632,Defective C1GALT1C1 causes TNPS,,-3.9,30,9.2,30211,18,168,3,1.8,1,4588|10071|727897,MUC6|MUC12|MUC5B,-2
+_FINAL,GO Biological Processes,19,GO:0051962,positive regulation of nervous system development,19_GO:0032502 developmental process,-3.9,5.3,5.4,30211,269,168,8,4.8,1.6,2670|4311|4914|6469|9148|23440|84631|347730,GFAP|MME|NTRK1|SHH|NEURL1|OTP|SLITRK2|LRRTM1,-2
+_FINAL,Reactome Gene Sets,6,R-HSA-375276,Peptide ligand-binding receptors,,-3.9,6.3,5.6,30211,201,168,7,4.2,1.5,2693|3062|3814|5473|6866|51083|387129,GHSR|HCRTR2|KISS1|PPBP|TAC3|GAL|NPSR1,-2
+_FINAL,KEGG Pathway,24,hsa04510,Focal adhesion,,-3.9,6.3,5.6,30211,201,168,7,4.2,1.5,1101|1297|1299|5923|22798|58498|91807,CHAD|COL9A1|COL9A3|RASGRF1|LAMB4|MYL7|MYLK3,-2
+_FINAL,GO Biological Processes,19,GO:0019318,hexose metabolic process,19_GO:0008152 metabolic process,-3.8,7.7,5.9,30211,141,168,6,3.6,1.4,229|2819|5105|8277|8534|8789,ALDOB|GPD1|PCK1|TKTL1|CHST1|FBP2,-1.9
+_FINAL,GO Biological Processes,19,GO:0007631,feeding behavior,19_GO:0007610 behavior,-3.8,10,6.4,30211,90,168,5,3,1.3,796|2693|3062|51083|387129,CALCA|GHSR|HCRTR2|GAL|NPSR1,-1.9
+_FINAL,Canonical Pathways,11,M5884,NABA CORE MATRISOME,,-3.8,5.2,5.3,30211,275,168,8,4.8,1.6,1101|1297|1299|1463|22798|63827|220001|343637,CHAD|COL9A1|COL9A3|NCAN|LAMB4|BCAN|VWCE|RSPO4,-1.9
+_FINAL,GO Biological Processes,19,GO:0050807,regulation of synapse organization,19_GO:0050789 regulation of biological process,-3.8,6.1,5.5,30211,207,168,7,4.2,1.5,2045|2693|2823|4914|9148|84631|347730,EPHA7|GHSR|GPM6A|NTRK1|NEURL1|SLITRK2|LRRTM1,-1.9
+_FINAL,GO Biological Processes,19,GO:0030277,maintenance of gastrointestinal epithelium,19_GO:0032501 multicellular organismal process,-3.7,27,8.7,30211,20,168,3,1.8,1,4588|7031|7033,MUC6|TFF1|TFF3,-1.9
+_FINAL,Reactome Gene Sets,6,R-HSA-373080,Class B/2 (Secretin family receptors),,-3.7,9.5,6.2,30211,95,168,5,3,1.3,796|2691|6469|7475|8643,CALCA|GHRH|SHH|WNT6|PTCH2,-1.8
+_FINAL,GO Biological Processes,19,GO:0050803,regulation of synapse structure or activity,19_GO:0065007 biological regulation,-3.7,5.9,5.4,30211,213,168,7,4.2,1.5,2045|2693|2823|4914|9148|84631|347730,EPHA7|GHSR|GPM6A|NTRK1|NEURL1|SLITRK2|LRRTM1,-1.8
+_FINAL,GO Biological Processes,19,GO:0007281,germ cell development,19_GO:0022414 reproductive process,-3.7,5,5.1,30211,287,168,8,4.8,1.6,9148|9576|55124|56853|79727|171484|100129278|101928601,NEURL1|SPAG6|PIWIL2|CELF4|LIN28A|FAM9C|TDRD15|MEI4,-1.8
+_FINAL,GO Biological Processes,19,GO:0015850,organic hydroxy compound transport,19_GO:0051179 localization,-3.6,7,5.6,30211,155,168,6,3.6,1.4,335|337|359|1066|1244|219931,APOA1|APOA4|AQP2|CES1|ABCC2|TPCN2,-1.8
+_FINAL,Canonical Pathways,11,M211,PID HEDGEHOG 2PATHWAY,,-3.6,25,8.3,30211,22,168,3,1.8,1,6469|8643|64399,SHH|PTCH2|HHIP,-1.8
+_FINAL,GO Biological Processes,19,GO:0046661,male sex differentiation,19_GO:0022414 reproductive process,-3.6,6.8,5.5,30211,159,168,6,3.6,1.4,1299|4914|6469|10549|29844|64478,COL9A3|NTRK1|SHH|PRDX4|TFPT|CSMD1,-1.7
+_FINAL,GO Biological Processes,19,GO:0034587,piRNA metabolic process,19_GO:0008152 metabolic process,-3.6,23,8.1,30211,23,168,3,1.8,1,55124|91646|100129278,PIWIL2|TDRD12|TDRD15,-1.7
+_FINAL,GO Biological Processes,19,GO:0005975,carbohydrate metabolic process,19_GO:0008152 metabolic process,-3.6,3.9,4.7,30211,462,168,10,6,1.8,229|2027|2819|5105|5260|5837|7031|8277|8534|8789,ALDOB|ENO3|GPD1|PCK1|PHKG1|PYGM|TFF1|TKTL1|CHST1|FBP2,-1.7
+_FINAL,GO Biological Processes,19,GO:0051963,regulation of synapse assembly,19_GO:0032502 developmental process,-3.5,8.7,5.9,30211,103,168,5,3,1.3,2045|2693|4914|84631|347730,EPHA7|GHSR|NTRK1|SLITRK2|LRRTM1,-1.7
+_FINAL,Canonical Pathways,11,M5885,NABA MATRISOME ASSOCIATED,,-3.5,3.1,4.4,30211,751,168,13,7.7,2.1,2248|4588|5473|6469|7053|7475|10071|54910|56891|64399|78989|83888|727897,FGF3|MUC6|PPBP|SHH|TGM3|WNT6|MUC12|SEMA4C|LGALS14|HHIP|COLEC11|FGFBP2|MUC5B,-1.7
+_FINAL,GO Biological Processes,19,GO:0005996,monosaccharide metabolic process,19_GO:0008152 metabolic process,-3.5,6.6,5.4,30211,163,168,6,3.6,1.4,229|2819|5105|8277|8534|8789,ALDOB|GPD1|PCK1|TKTL1|CHST1|FBP2,-1.7
+_FINAL,Reactome Gene Sets,6,R-HSA-977068,Termination of O-glycan biosynthesis,,-3.5,22,7.9,30211,24,168,3,1.8,1,4588|10071|727897,MUC6|MUC12|MUC5B,-1.7
+_FINAL,KEGG Pathway,24,hsa04977,Vitamin digestion and absorption,,-3.5,22,7.9,30211,24,168,3,1.8,1,335|337|2346,APOA1|APOA4|FOLH1,-1.7
+_FINAL,GO Biological Processes,19,GO:0009991,response to extracellular stimulus,19_GO:0050896 response to stimulus,-3.5,3.8,4.6,30211,470,168,10,6,1.8,158|213|359|2691|2693|4914|5105|9506|54474|57535,ADSL|ALB|AQP2|GHRH|GHSR|NTRK1|PCK1|PAGE4|KRT20|ELAPOR1,-1.7
+_FINAL,KEGG Pathway,24,hsa04922,Glucagon signaling pathway,,-3.5,8.4,5.7,30211,107,168,5,3,1.3,5105|5260|5837|8789|163688,PCK1|PHKG1|PYGM|FBP2|CALML6,-1.6
+_FINAL,GO Biological Processes,19,GO:0006091,generation of precursor metabolites and energy,19_GO:0008152 metabolic process,-3.5,4.2,4.7,30211,388,168,9,5.4,1.7,126|158|229|2027|2819|4715|4726|5260|5837,ADH1C|ADSL|ALDOB|ENO3|GPD1|NDUFB9|NDUFS6|PHKG1|PYGM,-1.6
+_FINAL,GO Biological Processes,19,GO:0040008,regulation of growth,19_GO:0040007 growth,-3.5,3.3,4.4,30211,660,168,12,7.1,2,2017|2045|2691|2693|4009|4624|4880|7429|8643|10071|54910|85453,CTTN|EPHA7|GHRH|GHSR|LMX1A|MYH6|NPPC|VIL1|PTCH2|MUC12|SEMA4C|TSPYL5,-1.6
+_FINAL,GO Biological Processes,19,GO:0001894,tissue homeostasis,19_GO:0032501 multicellular organismal process,-3.5,5.4,5,30211,234,168,7,4.2,1.5,213|3933|4588|6456|7031|7033|124220,ALB|LCN1|MUC6|SH3GL2|TFF1|TFF3|ZG16B,-1.6
+_FINAL,GO Biological Processes,19,GO:0030301,cholesterol transport,19_GO:0051179 localization,-3.5,12,6.4,30211,60,168,4,2.4,1.2,335|337|1066|219931,APOA1|APOA4|CES1|TPCN2,-1.6
+_FINAL,GO Biological Processes,19,GO:0022412,cellular process involved in reproduction in multicellular organism,19_GO:0022414 reproductive process,-3.4,4.1,4.7,30211,391,168,9,5.4,1.7,9148|9576|55124|56853|79727|91646|171484|100129278|101928601,NEURL1|SPAG6|PIWIL2|CELF4|LIN28A|TDRD12|FAM9C|TDRD15|MEI4,-1.6
+_FINAL,Canonical Pathways,11,M5880,NABA ECM AFFILIATED,,-3.4,6.3,5.2,30211,170,168,6,3.6,1.4,4588|10071|54910|56891|78989|727897,MUC6|MUC12|SEMA4C|LGALS14|COLEC11|MUC5B,-1.6
+_FINAL,GO Biological Processes,19,GO:0050951,sensory perception of temperature stimulus,19_GO:0032501 multicellular organismal process,-3.4,21,7.5,30211,26,168,3,1.8,1,796|4914|80036,CALCA|NTRK1|TRPM3,-1.6
+_FINAL,GO Biological Processes,19,GO:0002026,regulation of the force of heart contraction,19_GO:0032501 multicellular organismal process,-3.4,21,7.5,30211,26,168,3,1.8,1,4624|4634|4635,MYH6|MYL3|MYL4,-1.6
+_FINAL,GO Biological Processes,19,GO:0006066,alcohol metabolic process,19_GO:0008152 metabolic process,-3.4,4.6,4.7,30211,316,168,8,4.8,1.6,126|335|337|1066|2819|5105|6822|8277,ADH1C|APOA1|APOA4|CES1|GPD1|PCK1|SULT2A1|TKTL1,-1.6
+_FINAL,KEGG Pathway,24,hsa05217,Basal cell carcinoma,,-3.4,11,6.2,30211,63,168,4,2.4,1.2,6469|7475|8643|64399,SHH|WNT6|PTCH2|HHIP,-1.6
+_FINAL,GO Biological Processes,19,GO:0048732,gland development,19_GO:0032502 developmental process,-3.4,4,4.6,30211,401,168,9,5.4,1.7,335|2691|5105|6469|8772|9148|23440|51350|64478,APOA1|GHRH|PCK1|SHH|FADD|NEURL1|OTP|KRT76|CSMD1,-1.5
+_FINAL,Reactome Gene Sets,6,R-HSA-5621480,Dectin-2 family,,-3.3,20,7.4,30211,27,168,3,1.8,1,4588|10071|727897,MUC6|MUC12|MUC5B,-1.5
+_FINAL,GO Biological Processes,19,GO:0040014,regulation of multicellular organism growth,19_GO:0040007 growth,-3.3,11,6.1,30211,64,168,4,2.4,1.2,2691|2693|4880|7429,GHRH|GHSR|NPPC|VIL1,-1.5
+_FINAL,GO Biological Processes,19,GO:0014823,response to activity,19_GO:0050896 response to stimulus,-3.3,11,6.1,30211,65,168,4,2.4,1.2,158|5105|219537|252995,ADSL|PCK1|SMTNL1|FNDC5,-1.5
+_FINAL,GO Biological Processes,19,GO:0048638,regulation of developmental growth,19_GO:0040007 growth,-3.3,4.4,4.6,30211,329,168,8,4.8,1.6,2017|2045|2691|2693|4624|4880|7429|54910,CTTN|EPHA7|GHRH|GHSR|MYH6|NPPC|VIL1|SEMA4C,-1.5
+_FINAL,GO Biological Processes,19,GO:0048265,response to pain,19_GO:0032501 multicellular organismal process,-3.3,19,7.1,30211,29,168,3,1.8,1,796|4914|5024,CALCA|NTRK1|P2RX3,-1.5
+_FINAL,GO Biological Processes,19,GO:0016485,protein processing,19_GO:0008152 metabolic process,-3.3,5.9,5,30211,182,168,6,3.6,1.4,3250|4311|5126|6447|6469|8772,HPR|MME|PCSK2|SCG5|SHH|FADD,-1.5
+_FINAL,GO Biological Processes,19,GO:0050795,regulation of behavior,19_GO:0007610 behavior,-3.2,10,5.9,30211,69,168,4,2.4,1.2,2691|2693|3062|387129,GHRH|GHSR|HCRTR2|NPSR1,-1.4
+_FINAL,Reactome Gene Sets,6,R-HSA-373076,Class A/1 (Rhodopsin-like receptors),,-3.2,4.3,4.5,30211,335,168,8,4.8,1.6,2693|3062|3814|5473|6866|7253|51083|387129,GHSR|HCRTR2|KISS1|PPBP|TAC3|TSHR|GAL|NPSR1,-1.4
+_FINAL,GO Biological Processes,19,GO:0051046,regulation of secretion,19_GO:0051179 localization,-3.2,3.3,4.2,30211,606,168,11,6.5,1.9,1066|2691|2693|3598|3814|6447|51083|54474|91608|219931|387129,CES1|GHRH|GHSR|IL13RA2|KISS1|SCG5|GAL|KRT20|RASL10B|TPCN2|NPSR1,-1.4
+_FINAL,Reactome Gene Sets,6,R-HSA-418360,Platelet calcium homeostasis,,-3.2,18,7,30211,30,168,3,1.8,1,487|5024|9127,ATP2A1|P2RX3|P2RX6,-1.4
+_FINAL,KEGG Pathway,24,hsa00030,Pentose phosphate pathway,,-3.2,18,7,30211,30,168,3,1.8,1,229|8277|8789,ALDOB|TKTL1|FBP2,-1.4
+_FINAL,GO Biological Processes,19,GO:0040018,positive regulation of multicellular organism growth,19_GO:0040007 growth,-3.2,18,7,30211,30,168,3,1.8,1,2691|2693|7429,GHRH|GHSR|VIL1,-1.4
+_FINAL,GO Biological Processes,19,GO:0010669,epithelial structure maintenance,19_GO:0032501 multicellular organismal process,-3.2,18,7,30211,30,168,3,1.8,1,4588|7031|7033,MUC6|TFF1|TFF3,-1.4
+_FINAL,GO Biological Processes,19,GO:0006094,gluconeogenesis,19_GO:0008152 metabolic process,-3.2,17,6.8,30211,31,168,3,1.8,1,2819|5105|8789,GPD1|PCK1|FBP2,-1.4
+_FINAL,GO Biological Processes,19,GO:0022600,digestive system process,19_GO:0032501 multicellular organismal process,-3.2,10,5.7,30211,72,168,4,2.4,1.2,4588|7031|7033|7429,MUC6|TFF1|TFF3|VIL1,-1.4
+_FINAL,GO Biological Processes,19,GO:0051482,positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway,19_GO:0023052 signaling,-3.1,17,6.7,30211,32,168,3,1.8,1,796|2911|3814,CALCA|GRM1|KISS1,-1.4
+_FINAL,GO Biological Processes,19,GO:0007276,gamete generation,19_GO:0022414 reproductive process,-3.1,3,4,30211,725,168,12,7.1,2,2693|9148|9576|10549|54457|55124|56853|79727|91646|171484|100129278|101928601,GHSR|NEURL1|SPAG6|PRDX4|TAF7L|PIWIL2|CELF4|LIN28A|TDRD12|FAM9C|TDRD15|MEI4,-1.4
+_FINAL,GO Biological Processes,19,GO:0019233,sensory perception of pain,19_GO:0032501 multicellular organismal process,-3.1,9.7,5.6,30211,74,168,4,2.4,1.2,796|2911|4311|4914,CALCA|GRM1|MME|NTRK1,-1.4
+_FINAL,GO Biological Processes,19,GO:0031667,response to nutrient levels,19_GO:0050896 response to stimulus,-3.1,3.7,4.3,30211,437,168,9,5.4,1.7,158|213|2691|2693|4914|5105|9506|54474|57535,ADSL|ALB|GHRH|GHSR|NTRK1|PCK1|PAGE4|KRT20|ELAPOR1,-1.3
+_FINAL,GO Biological Processes,19,GO:0045229,external encapsulating structure organization,19_GO:0009987 cellular process,-3.1,4.7,4.5,30211,269,168,7,4.2,1.5,1297|1299|2670|4629|7053|10549|22798,COL9A1|COL9A3|GFAP|MYH11|TGM3|PRDX4|LAMB4,-1.3
+_FINAL,GO Biological Processes,19,GO:0046034,ATP metabolic process,19_GO:0008152 metabolic process,-3.1,5.5,4.7,30211,195,168,6,3.6,1.4,229|2027|4624|4626|4715|4726,ALDOB|ENO3|MYH6|MYH8|NDUFB9|NDUFS6,-1.3
+_FINAL,Reactome Gene Sets,6,R-HSA-8963899,Plasma lipoprotein remodeling,,-3.1,16,6.6,30211,33,168,3,1.8,1,213|335|337,ALB|APOA1|APOA4,-1.3
+_FINAL,GO Biological Processes,19,GO:0045940,positive regulation of steroid metabolic process,19_GO:0048518 positive regulation of biological process,-3.1,16,6.6,30211,33,168,3,1.8,1,335|337|1066,APOA1|APOA4|CES1,-1.3
+_FINAL,GO Biological Processes,19,GO:0042594,response to starvation,19_GO:0050896 response to stimulus,-3.1,5.5,4.7,30211,196,168,6,3.6,1.4,158|213|5105|9506|54474|57535,ADSL|ALB|PCK1|PAGE4|KRT20|ELAPOR1,-1.3
+_FINAL,Reactome Gene Sets,6,R-HSA-388396,GPCR downstream signalling,,-3.1,3.1,4.1,30211,629,168,11,6.5,1.9,796|2691|2693|2911|3062|3814|5473|6866|7253|51083|387129,CALCA|GHRH|GHSR|GRM1|HCRTR2|KISS1|PPBP|TAC3|TSHR|GAL|NPSR1,-1.3
+_FINAL,GO Biological Processes,19,GO:0048167,regulation of synaptic plasticity,19_GO:0023052 signaling,-3.1,5.5,4.7,30211,197,168,6,3.6,1.4,2670|4311|5024|5923|9148|347730,GFAP|MME|P2RX3|RASGRF1|NEURL1|LRRTM1,-1.3
+_FINAL,Reactome Gene Sets,6,R-HSA-3000178,ECM proteoglycans,,-3.1,9.5,5.5,30211,76,168,4,2.4,1.2,1297|1299|1463|63827,COL9A1|COL9A3|NCAN|BCAN,-1.3
+_FINAL,GO Biological Processes,19,GO:0019319,hexose biosynthetic process,19_GO:0008152 metabolic process,-3.1,16,6.5,30211,34,168,3,1.8,1,2819|5105|8789,GPD1|PCK1|FBP2,-1.3
+_FINAL,GO Biological Processes,19,GO:0015918,sterol transport,19_GO:0051179 localization,-3,9.3,5.5,30211,77,168,4,2.4,1.2,335|337|1066|219931,APOA1|APOA4|CES1|TPCN2,-1.3
+_FINAL,GO Biological Processes,19,GO:0048871,multicellular organismal homeostasis,19_GO:0032501 multicellular organismal process,-3,4,4.3,30211,359,168,8,4.8,1.6,213|359|3933|4588|6456|7031|7033|124220,ALB|AQP2|LCN1|MUC6|SH3GL2|TFF1|TFF3|ZG16B,-1.3
+_FINAL,Canonical Pathways,11,M5882,NABA PROTEOGLYCANS,,-3,15,6.4,30211,35,168,3,1.8,1,1101|1463|63827,CHAD|NCAN|BCAN,-1.3
+_FINAL,GO Biological Processes,19,GO:0008584,male gonad development,19_GO:0022414 reproductive process,-3,6.7,4.9,30211,135,168,5,3,1.3,1299|4914|10549|29844|64478,COL9A3|NTRK1|PRDX4|TFPT|CSMD1,-1.3
+_FINAL,GO Biological Processes,19,GO:0050767,regulation of neurogenesis,19_GO:0032502 developmental process,-3,4,4.3,30211,361,168,8,4.8,1.6,2045|2670|4311|6469|9148|23440|54910|79727,EPHA7|GFAP|MME|SHH|NEURL1|OTP|SEMA4C|LIN28A,-1.3
+_FINAL,GO Biological Processes,19,GO:0055082,cellular chemical homeostasis,19_GO:0065007 biological regulation,-3,2.9,3.9,30211,746,168,12,7.1,2,487|796|1356|2911|3062|3814|5024|5105|6550|79727|219931|387129,ATP2A1|CALCA|CP|GRM1|HCRTR2|KISS1|P2RX3|PCK1|SLC9A3|LIN28A|TPCN2|NPSR1,-1.3
+_FINAL,GO Biological Processes,19,GO:0046546,development of primary male sexual characteristics,19_GO:0022414 reproductive process,-3,6.6,4.9,30211,136,168,5,3,1.3,1299|4914|10549|29844|64478,COL9A3|NTRK1|PRDX4|TFPT|CSMD1,-1.3
+_FINAL,GO Biological Processes,19,GO:0060249,anatomical structure homeostasis,19_GO:0065007 biological regulation,-3,4.5,4.4,30211,281,168,7,4.2,1.5,213|3933|4588|6456|7031|7033|124220,ALB|LCN1|MUC6|SH3GL2|TFF1|TFF3|ZG16B,-1.3
+_FINAL,KEGG Pathway,24,hsa04910,Insulin signaling pathway,,-3,6.6,4.9,30211,137,168,5,3,1.3,5105|5260|5837|8789|163688,PCK1|PHKG1|PYGM|FBP2|CALML6,-1.3
+_FINAL,GO Biological Processes,19,GO:0032371,regulation of sterol transport,19_GO:0051179 localization,-3,9,5.4,30211,80,168,4,2.4,1.2,335|337|1066|6469,APOA1|APOA4|CES1|SHH,-1.3
+_FINAL,GO Biological Processes,19,GO:0032374,regulation of cholesterol transport,19_GO:0051179 localization,-3,9,5.4,30211,80,168,4,2.4,1.2,335|337|1066|6469,APOA1|APOA4|CES1|SHH,-1.3
+_FINAL,GO Biological Processes,19,GO:0140448,signaling receptor ligand precursor processing,19_GO:0008152 metabolic process,-3,15,6.3,30211,36,168,3,1.8,1,4311|5126|6447,MME|PCSK2|SCG5,-1.3
+_FINAL,GO Biological Processes,19,GO:0048729,tissue morphogenesis,19_GO:0032502 developmental process,-2.9,3.2,4,30211,554,168,10,6,1.8,72|2045|4624|4634|6469|7053|7475|54910|64399|64478,ACTG2|EPHA7|MYH6|MYL3|SHH|TGM3|WNT6|SEMA4C|HHIP|CSMD1,-1.2
+_FINAL,GO Biological Processes,19,GO:0006695,cholesterol biosynthetic process,19_GO:0008152 metabolic process,-2.9,15,6.2,30211,37,168,3,1.8,1,335|337|1066,APOA1|APOA4|CES1,-1.2
+_FINAL,GO Biological Processes,19,GO:1902653,secondary alcohol biosynthetic process,19_GO:0008152 metabolic process,-2.9,15,6.2,30211,37,168,3,1.8,1,335|337|1066,APOA1|APOA4|CES1,-1.2
+_FINAL,GO Biological Processes,19,GO:0008589,regulation of smoothened signaling pathway,19_GO:0023052 signaling,-2.9,8.8,5.3,30211,82,168,4,2.4,1.2,6469|8643|51473|64399,SHH|PTCH2|DCDC2|HHIP,-1.2
+_FINAL,GO Biological Processes,19,GO:0014706,striated muscle tissue development,19_GO:0032502 developmental process,-2.9,4.4,4.3,30211,287,168,7,4.2,1.5,4624|4629|4634|6469|9148|58498|91807,MYH6|MYH11|MYL3|SHH|NEURL1|MYL7|MYLK3,-1.2
+_FINAL,GO Biological Processes,19,GO:0050806,positive regulation of synaptic transmission,19_GO:0023052 signaling,-2.9,6.4,4.8,30211,141,168,5,3,1.3,2670|3814|4311|4914|347730,GFAP|KISS1|MME|NTRK1|LRRTM1,-1.2
+_FINAL,GO Biological Processes,19,GO:0046364,monosaccharide biosynthetic process,19_GO:0008152 metabolic process,-2.9,14,6.1,30211,38,168,3,1.8,1,2819|5105|8789,GPD1|PCK1|FBP2,-1.2
+_FINAL,Reactome Gene Sets,6,R-HSA-3781865,Diseases of glycosylation,,-2.9,6.3,4.7,30211,143,168,5,3,1.3,1463|4588|10071|63827|727897,NCAN|MUC6|MUC12|BCAN|MUC5B,-1.2
+_FINAL,GO Biological Processes,19,GO:1901615,organic hydroxy compound metabolic process,19_GO:0008152 metabolic process,-2.9,3.5,4,30211,467,168,9,5.4,1.7,126|335|337|1066|2819|3067|5105|6822|8277,ADH1C|APOA1|APOA4|CES1|GPD1|HDC|PCK1|SULT2A1|TKTL1,-1.2
+_FINAL,GO Biological Processes,19,GO:0045923,positive regulation of fatty acid metabolic process,19_GO:0048518 positive regulation of biological process,-2.9,14,6,30211,39,168,3,1.8,1,335|337|2693,APOA1|APOA4|GHSR,-1.2
+_FINAL,GO Biological Processes,19,GO:0061564,axon development,19_GO:0032502 developmental process,-2.9,3.8,4.1,30211,380,168,8,4.8,1.6,337|2045|4009|4914|6469|54910|84631|644168,APOA4|EPHA7|LMX1A|NTRK1|SHH|SEMA4C|SLITRK2|DRGX,-1.2
+_FINAL,Reactome Gene Sets,6,R-HSA-416476,G alpha (q) signalling events,,-2.9,5,4.4,30211,216,168,6,3.6,1.4,2693|2911|3062|3814|6866|387129,GHSR|GRM1|HCRTR2|KISS1|TAC3|NPSR1,-1.2
+_FINAL,GO Biological Processes,19,GO:0062013,positive regulation of small molecule metabolic process,19_GO:0048518 positive regulation of biological process,-2.9,6.2,4.7,30211,146,168,5,3,1.3,335|337|1066|2693|2819,APOA1|APOA4|CES1|GHSR|GPD1,-1.2
+_FINAL,GO Biological Processes,19,GO:0010720,positive regulation of cell development,19_GO:0032502 developmental process,-2.8,4.2,4.2,30211,297,168,7,4.2,1.5,335|2670|4311|6469|9148|10562|23440,APOA1|GFAP|MME|SHH|NEURL1|OLFM4|OTP,-1.2
+_FINAL,KEGG Pathway,24,hsa04260,Cardiac muscle contraction,,-2.8,8.3,5.1,30211,87,168,4,2.4,1.2,487|4624|4634|4635,ATP2A1|MYH6|MYL3|MYL4,-1.1
+_FINAL,Reactome Gene Sets,6,R-HSA-445355,Smooth Muscle Contraction,,-2.8,13,5.9,30211,40,168,3,1.8,1,72|4629|58498,ACTG2|MYH11|MYL7,-1.1
+_FINAL,KEGG Pathway,24,hsa04512,ECM-receptor interaction,,-2.8,8.2,5,30211,88,168,4,2.4,1.2,1101|1297|1299|22798,CHAD|COL9A1|COL9A3|LAMB4,-1.1
+_FINAL,KEGG Pathway,24,hsa04261,Adrenergic signaling in cardiomyocytes,,-2.8,6,4.6,30211,150,168,5,3,1.3,487|4624|4634|4635|163688,ATP2A1|MYH6|MYL3|MYL4|CALML6,-1.1
+_FINAL,KEGG Pathway,24,hsa04976,Bile secretion,,-2.8,8.1,5,30211,89,168,4,2.4,1.2,1244|6550|6822|7364,ABCC2|SLC9A3|SULT2A1|UGT2B7,-1.1
+_FINAL,Reactome Gene Sets,6,R-HSA-419037,NCAM1 interactions,,-2.8,13,5.7,30211,42,168,3,1.8,1,1297|1299|1463,COL9A1|COL9A3|NCAN,-1.1
+_FINAL,GO Biological Processes,19,GO:0044058,regulation of digestive system process,19_GO:0032501 multicellular organismal process,-2.8,13,5.7,30211,42,168,3,1.8,1,335|337|2693,APOA1|APOA4|GHSR,-1.1
+_FINAL,GO Biological Processes,19,GO:0045109,intermediate filament organization,19_GO:0009987 cellular process,-2.8,13,5.7,30211,42,168,3,1.8,1,2670|6469|54474,GFAP|SHH|KRT20,-1.1
+_FINAL,GO Biological Processes,19,GO:0060537,muscle tissue development,19_GO:0032502 developmental process,-2.8,4.1,4.1,30211,306,168,7,4.2,1.5,4624|4629|4634|6469|9148|58498|91807,MYH6|MYH11|MYL3|SHH|NEURL1|MYL7|MYLK3,-1.1
+_FINAL,GO Biological Processes,19,GO:0032368,regulation of lipid transport,19_GO:0051179 localization,-2.8,5.9,4.5,30211,153,168,5,3,1.3,335|337|1066|6469|51083,APOA1|APOA4|CES1|SHH|GAL,-1.1
+_FINAL,Reactome Gene Sets,6,R-HSA-70326,Glucose metabolism,,-2.8,7.9,4.9,30211,91,168,4,2.4,1.2,229|2027|5105|8789,ALDOB|ENO3|PCK1|FBP2,-1.1
+_FINAL,WikiPathways,27,WP3925,Amino acid metabolism,,-2.8,7.9,4.9,30211,91,168,4,2.4,1.2,126|3067|5105|6611,ADH1C|HDC|PCK1|SMS,-1.1
+_FINAL,GO Biological Processes,19,GO:0007411,axon guidance,19_GO:0040011 locomotion,-2.8,4.8,4.2,30211,227,168,6,3.6,1.4,2045|4009|4914|6469|54910|644168,EPHA7|LMX1A|NTRK1|SHH|SEMA4C|DRGX,-1.1
+_FINAL,GO Biological Processes,19,GO:0060047,heart contraction,19_GO:0032501 multicellular organismal process,-2.8,7.8,4.9,30211,92,168,4,2.4,1.2,4624|4634|4635|58498,MYH6|MYL3|MYL4|MYL7,-1.1
+_FINAL,GO Biological Processes,19,GO:0097485,neuron projection guidance,19_GO:0040011 locomotion,-2.7,4.7,4.2,30211,228,168,6,3.6,1.4,2045|4009|4914|6469|54910|644168,EPHA7|LMX1A|NTRK1|SHH|SEMA4C|DRGX,-1.1
+_FINAL,KEGG Pathway,24,hsa04970,Salivary secretion,,-2.7,7.7,4.9,30211,93,168,4,2.4,1.2,3347|163688|653247|727897,HTN3|CALML6|PRB2|MUC5B,-1.1
+_FINAL,GO Biological Processes,19,GO:0044089,positive regulation of cellular component biogenesis,19_GO:0048518 positive regulation of biological process,-2.7,3.3,3.8,30211,493,168,9,5.4,1.7,335|2017|2823|4914|7429|9148|57535|84631|347730,APOA1|CTTN|GPM6A|NTRK1|VIL1|NEURL1|ELAPOR1|SLITRK2|LRRTM1,-1.1
+_FINAL,GO Biological Processes,19,GO:0016126,sterol biosynthetic process,19_GO:0008152 metabolic process,-2.7,12,5.6,30211,44,168,3,1.8,1,335|337|1066,APOA1|APOA4|CES1,-1.1
+_FINAL,WikiPathways,27,WP4249,Hedgehog signaling pathway,,-2.7,12,5.6,30211,44,168,3,1.8,1,6469|8643|64399,SHH|PTCH2|HHIP,-1.1
+_FINAL,GO Biological Processes,19,GO:0046883,regulation of hormone secretion,19_GO:0023052 signaling,-2.7,4.7,4.2,30211,231,168,6,3.6,1.4,2691|2693|3814|6447|51083|91608,GHRH|GHSR|KISS1|SCG5|GAL|RASL10B,-1.1
+_FINAL,GO Biological Processes,19,GO:0046165,alcohol biosynthetic process,19_GO:0008152 metabolic process,-2.7,7.6,4.8,30211,95,168,4,2.4,1.2,335|337|1066|5105,APOA1|APOA4|CES1|PCK1,-1
+_FINAL,GO Biological Processes,19,GO:0034308,primary alcohol metabolic process,19_GO:0008152 metabolic process,-2.7,7.6,4.8,30211,95,168,4,2.4,1.2,126|2819|6822|8277,ADH1C|GPD1|SULT2A1|TKTL1,-1
+_FINAL,GO Biological Processes,19,GO:0045933,positive regulation of muscle contraction,19_GO:0048518 positive regulation of biological process,-2.7,12,5.5,30211,45,168,3,1.8,1,487|2017|2693,ATP2A1|CTTN|GHSR,-1
+_FINAL,GO Biological Processes,19,GO:1990090,cellular response to nerve growth factor stimulus,19_GO:0050896 response to stimulus,-2.7,12,5.5,30211,45,168,3,1.8,1,796|4914|6456,CALCA|NTRK1|SH3GL2,-1
+_FINAL,GO Biological Processes,19,GO:0051480,regulation of cytosolic calcium ion concentration,19_GO:0065007 biological regulation,-2.7,4,4,30211,316,168,7,4.2,1.5,796|2911|3062|3814|5024|219931|387129,CALCA|GRM1|HCRTR2|KISS1|P2RX3|TPCN2|NPSR1,-1
+_FINAL,GO Biological Processes,19,GO:0050919,negative chemotaxis,19_GO:0040011 locomotion,-2.7,12,5.4,30211,46,168,3,1.8,1,335|2045|54910,APOA1|EPHA7|SEMA4C,-1
+_FINAL,GO Biological Processes,19,GO:0006935,chemotaxis,19_GO:0040011 locomotion,-2.7,3.2,3.7,30211,506,168,9,5.4,1.7,335|796|2045|4009|4914|5473|6469|54910|644168,APOA1|CALCA|EPHA7|LMX1A|NTRK1|PPBP|SHH|SEMA4C|DRGX,-1
+_FINAL,GO Biological Processes,19,GO:0048667,cell morphogenesis involved in neuron differentiation,19_GO:0032502 developmental process,-2.7,3.5,3.8,30211,411,168,8,4.8,1.6,2045|4009|4914|6469|51473|54910|84631|644168,EPHA7|LMX1A|NTRK1|SHH|DCDC2|SEMA4C|SLITRK2|DRGX,-1
+_FINAL,GO Biological Processes,19,GO:1990089,response to nerve growth factor,19_GO:0050896 response to stimulus,-2.6,11,5.4,30211,47,168,3,1.8,1,796|4914|6456,CALCA|NTRK1|SH3GL2,-1
+_FINAL,GO Biological Processes,19,GO:0007200,phospholipase C-activating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-2.6,7.3,4.7,30211,99,168,4,2.4,1.2,796|2911|3062|3814,CALCA|GRM1|HCRTR2|KISS1,-1
+_FINAL,GO Biological Processes,19,GO:0006006,glucose metabolic process,19_GO:0008152 metabolic process,-2.6,7.3,4.7,30211,99,168,4,2.4,1.2,2819|5105|8277|8789,GPD1|PCK1|TKTL1|FBP2,-1
+_FINAL,GO Biological Processes,19,GO:0042330,taxis,19_GO:0040011 locomotion,-2.6,3.2,3.7,30211,510,168,9,5.4,1.7,335|796|2045|4009|4914|5473|6469|54910|644168,APOA1|CALCA|EPHA7|LMX1A|NTRK1|PPBP|SHH|SEMA4C|DRGX,-1
+_FINAL,GO Biological Processes,19,GO:0009266,response to temperature stimulus,19_GO:0050896 response to stimulus,-2.6,5.4,4.3,30211,165,168,5,3,1.3,796|4914|5024|80036|644168,CALCA|NTRK1|P2RX3|TRPM3|DRGX,-0.99
+_FINAL,GO Biological Processes,19,GO:0015980,energy derivation by oxidation of organic compounds,19_GO:0008152 metabolic process,-2.6,4.4,4,30211,243,168,6,3.6,1.4,158|2819|4715|4726|5260|5837,ADSL|GPD1|NDUFB9|NDUFS6|PHKG1|PYGM,-0.97
+_FINAL,KEGG Pathway,24,hsa04022,cGMP-PKG signaling pathway,,-2.6,5.4,4.2,30211,167,168,5,3,1.3,487|4624|4880|91807|163688,ATP2A1|MYH6|NPPC|MYLK3|CALML6,-0.97
+_FINAL,GO Biological Processes,19,GO:0048608,reproductive structure development,19_GO:0022414 reproductive process,-2.6,3.4,3.8,30211,419,168,8,4.8,1.6,1299|2693|4311|4914|6469|10549|29844|64478,COL9A3|GHSR|MME|NTRK1|SHH|PRDX4|TFPT|CSMD1,-0.97
+_FINAL,Reactome Gene Sets,6,R-HSA-5668914,Diseases of metabolism,,-2.6,4.4,4,30211,245,168,6,3.6,1.4,229|1463|4588|10071|63827|727897,ALDOB|NCAN|MUC6|MUC12|BCAN|MUC5B,-0.96
+_FINAL,GO Biological Processes,19,GO:0030003,cellular cation homeostasis,19_GO:0065007 biological regulation,-2.6,2.9,3.6,30211,620,168,10,6,1.8,487|796|1356|2911|3062|3814|5024|6550|219931|387129,ATP2A1|CALCA|CP|GRM1|HCRTR2|KISS1|P2RX3|SLC9A3|TPCN2|NPSR1,-0.96
+_FINAL,GO Biological Processes,19,GO:0016052,carbohydrate catabolic process,19_GO:0008152 metabolic process,-2.6,7.1,4.6,30211,102,168,4,2.4,1.2,229|2027|5837|8277,ALDOB|ENO3|PYGM|TKTL1,-0.96
+_FINAL,GO Biological Processes,19,GO:0006874,cellular calcium ion homeostasis,19_GO:0065007 biological regulation,-2.6,3.4,3.7,30211,422,168,8,4.8,1.6,487|796|2911|3062|3814|5024|219931|387129,ATP2A1|CALCA|GRM1|HCRTR2|KISS1|P2RX3|TPCN2|NPSR1,-0.96
+_FINAL,GO Biological Processes,19,GO:0061458,reproductive system development,19_GO:0032502 developmental process,-2.6,3.4,3.7,30211,422,168,8,4.8,1.6,1299|2693|4311|4914|6469|10549|29844|64478,COL9A3|GHSR|MME|NTRK1|SHH|PRDX4|TFPT|CSMD1,-0.96
+_FINAL,Reactome Gene Sets,6,R-HSA-382551,Transport of small molecules,,-2.6,2.7,3.5,30211,729,168,11,6.5,1.9,213|335|337|359|487|1244|1356|3933|6550|80036|219931,ALB|APOA1|APOA4|AQP2|ATP2A1|ABCC2|CP|LCN1|SLC9A3|TRPM3|TPCN2,-0.95
+_FINAL,KEGG Pathway,24,hsa04974,Protein digestion and absorption,,-2.6,7,4.5,30211,103,168,4,2.4,1.2,1297|1299|4311|6550,COL9A1|COL9A3|MME|SLC9A3,-0.95
+_FINAL,GO Biological Processes,19,GO:1901617,organic hydroxy compound biosynthetic process,19_GO:0008152 metabolic process,-2.6,5.3,4.2,30211,170,168,5,3,1.3,335|337|1066|3067|5105,APOA1|APOA4|CES1|HDC|PCK1,-0.95
+_FINAL,GO Biological Processes,19,GO:0006937,regulation of muscle contraction,19_GO:0032501 multicellular organismal process,-2.6,5.3,4.2,30211,170,168,5,3,1.3,487|796|2017|2693|4634,ATP2A1|CALCA|CTTN|GHSR|MYL3,-0.95
+_FINAL,GO Biological Processes,19,GO:0000904,cell morphogenesis involved in differentiation,19_GO:0032502 developmental process,-2.6,3.1,3.6,30211,522,168,9,5.4,1.7,2045|4009|4914|6469|22798|51473|54910|84631|644168,EPHA7|LMX1A|NTRK1|SHH|LAMB4|DCDC2|SEMA4C|SLITRK2|DRGX,-0.95
+_FINAL,GO Biological Processes,19,GO:0097435,supramolecular fiber organization,19_GO:0009987 cellular process,-2.6,3.1,3.6,30211,522,168,9,5.4,1.7,2017|2670|2693|4624|4629|6469|7429|54474|91807,CTTN|GFAP|GHSR|MYH6|MYH11|SHH|VIL1|KRT20|MYLK3,-0.95
+_FINAL,GO Biological Processes,19,GO:0048013,ephrin receptor signaling pathway,19_GO:0023052 signaling,-2.6,11,5.2,30211,50,168,3,1.8,1,2045|4914|6760,EPHA7|NTRK1|SS18,-0.94
+_FINAL,GO Biological Processes,19,GO:0001763,morphogenesis of a branching structure,19_GO:0032502 developmental process,-2.6,5.3,4.2,30211,171,168,5,3,1.3,2045|6469|7475|64399|64478,EPHA7|SHH|WNT6|HHIP|CSMD1,-0.94
+_FINAL,GO Biological Processes,19,GO:0019218,regulation of steroid metabolic process,19_GO:0008152 metabolic process,-2.6,6.9,4.5,30211,104,168,4,2.4,1.2,335|337|1066|51083,APOA1|APOA4|CES1|GAL,-0.94
+_FINAL,GO Biological Processes,19,GO:0048738,cardiac muscle tissue development,19_GO:0032502 developmental process,-2.5,5.2,4.1,30211,173,168,5,3,1.3,4624|4629|4634|58498|91807,MYH6|MYH11|MYL3|MYL7|MYLK3,-0.92
+_FINAL,GO Biological Processes,19,GO:0034637,cellular carbohydrate biosynthetic process,19_GO:0008152 metabolic process,-2.5,11,5.1,30211,51,168,3,1.8,1,5105|5260|8789,PCK1|PHKG1|FBP2,-0.92
+_FINAL,GO Biological Processes,19,GO:0006941,striated muscle contraction,19_GO:0032501 multicellular organismal process,-2.5,6.8,4.5,30211,106,168,4,2.4,1.2,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-0.92
+_FINAL,GO Biological Processes,19,GO:0007586,digestion,19_GO:0032501 multicellular organismal process,-2.5,6.8,4.5,30211,106,168,4,2.4,1.2,4588|7031|7033|7429,MUC6|TFF1|TFF3|VIL1,-0.92
+_FINAL,GO Biological Processes,19,GO:0008202,steroid metabolic process,19_GO:0008152 metabolic process,-2.5,4.3,3.9,30211,253,168,6,3.6,1.4,335|337|1066|6469|6822|7364,APOA1|APOA4|CES1|SHH|SULT2A1|UGT2B7,-0.91
+_FINAL,KEGG Pathway,24,hsa05200,Pathways in cancer,,-2.5,3,3.6,30211,531,168,9,5.4,1.7,2248|4914|6469|7475|8643|8772|22798|64399|163688,FGF3|NTRK1|SHH|WNT6|PTCH2|FADD|LAMB4|HHIP|CALML6,-0.91
+_FINAL,GO Biological Processes,19,GO:0006873,cellular ion homeostasis,19_GO:0065007 biological regulation,-2.5,2.8,3.5,30211,635,168,10,6,1.8,487|796|1356|2911|3062|3814|5024|6550|219931|387129,ATP2A1|CALCA|CP|GRM1|HCRTR2|KISS1|P2RX3|SLC9A3|TPCN2|NPSR1,-0.91
+_FINAL,GO Biological Processes,19,GO:0010874,regulation of cholesterol efflux,19_GO:0051179 localization,-2.5,10,5.1,30211,52,168,3,1.8,1,335|1066|6469,APOA1|CES1|SHH,-0.91
+_FINAL,GO Biological Processes,19,GO:0055074,calcium ion homeostasis,19_GO:0065007 biological regulation,-2.5,3.3,3.6,30211,435,168,8,4.8,1.6,487|796|2911|3062|3814|5024|219931|387129,ATP2A1|CALCA|GRM1|HCRTR2|KISS1|P2RX3|TPCN2|NPSR1,-0.9
+_FINAL,GO Biological Processes,19,GO:0007409,axonogenesis,19_GO:0032502 developmental process,-2.5,3.7,3.7,30211,342,168,7,4.2,1.5,2045|4009|4914|6469|54910|84631|644168,EPHA7|LMX1A|NTRK1|SHH|SEMA4C|SLITRK2|DRGX,-0.9
+_FINAL,GO Biological Processes,19,GO:0003015,heart process,19_GO:0032501 multicellular organismal process,-2.5,6.7,4.4,30211,108,168,4,2.4,1.2,4624|4634|4635|58498,MYH6|MYL3|MYL4|MYL7,-0.9
+_FINAL,GO Biological Processes,19,GO:1903522,regulation of blood circulation,19_GO:0032501 multicellular organismal process,-2.5,4.2,3.9,30211,256,168,6,3.6,1.4,487|796|4624|4634|4635|219537,ATP2A1|CALCA|MYH6|MYL3|MYL4|SMTNL1,-0.9
+_FINAL,WikiPathways,27,WP2406,Cardiac progenitor differentiation,,-2.5,10,5,30211,53,168,3,1.8,1,4624|79727|91807,MYH6|LIN28A|MYLK3,-0.89
+_FINAL,WikiPathways,27,WP4172,PI3K-Akt signaling pathway,,-2.5,3.6,3.7,30211,345,168,7,4.2,1.5,1101|1297|1299|2248|4914|5105|22798,CHAD|COL9A1|COL9A3|FGF3|NTRK1|PCK1|LAMB4,-0.88
+_FINAL,Reactome Gene Sets,6,R-HSA-977225,Amyloid fiber formation,,-2.5,6.5,4.3,30211,111,168,4,2.4,1.2,335|337|796|8331,APOA1|APOA4|CALCA|H2AC14,-0.86
+_FINAL,GO Biological Processes,19,GO:0006939,smooth muscle contraction,19_GO:0032501 multicellular organismal process,-2.4,9.8,4.9,30211,55,168,3,1.8,1,4629|5024|219931,MYH11|P2RX3|TPCN2,-0.85
+_FINAL,GO Biological Processes,19,GO:1905952,regulation of lipid localization,19_GO:0051179 localization,-2.4,4.9,4,30211,183,168,5,3,1.3,335|337|1066|6469|51083,APOA1|APOA4|CES1|SHH|GAL,-0.84
+_FINAL,GO Biological Processes,19,GO:0007611,learning or memory,19_GO:0007610 behavior,-2.4,4.1,3.8,30211,264,168,6,3.6,1.4,2693|4009|4311|4914|5923|64478,GHSR|LMX1A|MME|NTRK1|RASGRF1|CSMD1,-0.84
+_FINAL,GO Biological Processes,19,GO:1903530,regulation of secretion by cell,19_GO:0051179 localization,-2.4,2.9,3.4,30211,549,168,9,5.4,1.7,2691|2693|3598|3814|6447|51083|54474|91608|219931,GHRH|GHSR|IL13RA2|KISS1|SCG5|GAL|KRT20|RASL10B|TPCN2,-0.84
+_FINAL,KEGG Pathway,24,hsa04340,Hedgehog signaling pathway,,-2.4,9.6,4.8,30211,56,168,3,1.8,1,6469|8643|64399,SHH|PTCH2|HHIP,-0.83
+_FINAL,KEGG Pathway,24,hsa04151,PI3K-Akt signaling pathway,,-2.4,3.6,3.6,30211,354,168,7,4.2,1.5,1101|1297|1299|2248|4914|5105|22798,CHAD|COL9A1|COL9A3|FGF3|NTRK1|PCK1|LAMB4,-0.83
+_FINAL,GO Biological Processes,19,GO:0006875,cellular metal ion homeostasis,19_GO:0065007 biological regulation,-2.4,2.9,3.4,30211,550,168,9,5.4,1.7,487|796|1356|2911|3062|3814|5024|219931|387129,ATP2A1|CALCA|CP|GRM1|HCRTR2|KISS1|P2RX3|TPCN2|NPSR1,-0.83
+_FINAL,GO Biological Processes,19,GO:0030198,extracellular matrix organization,19_GO:0009987 cellular process,-2.4,4.1,3.7,30211,266,168,6,3.6,1.4,1297|1299|2670|4629|10549|22798,COL9A1|COL9A3|GFAP|MYH11|PRDX4|LAMB4,-0.83
+_FINAL,GO Biological Processes,19,GO:0043062,extracellular structure organization,19_GO:0009987 cellular process,-2.4,4,3.7,30211,267,168,6,3.6,1.4,1297|1299|2670|4629|10549|22798,COL9A1|COL9A3|GFAP|MYH11|PRDX4|LAMB4,-0.82
+_FINAL,KEGG Pathway,24,hsa01200,Carbon metabolism,,-2.4,6.3,4.2,30211,115,168,4,2.4,1.2,229|2027|8277|8789,ALDOB|ENO3|TKTL1|FBP2,-0.82
+_FINAL,GO Biological Processes,19,GO:0072503,cellular divalent inorganic cation homeostasis,19_GO:0065007 biological regulation,-2.4,3.2,3.5,30211,456,168,8,4.8,1.6,487|796|2911|3062|3814|5024|219931|387129,ATP2A1|CALCA|GRM1|HCRTR2|KISS1|P2RX3|TPCN2|NPSR1,-0.8
+_FINAL,GO Biological Processes,19,GO:0016051,carbohydrate biosynthetic process,19_GO:0008152 metabolic process,-2.4,6.1,4.2,30211,117,168,4,2.4,1.2,2819|5105|5260|8789,GPD1|PCK1|PHKG1|FBP2,-0.8
+_FINAL,GO Biological Processes,19,GO:0008203,cholesterol metabolic process,19_GO:0008152 metabolic process,-2.4,6.1,4.1,30211,118,168,4,2.4,1.2,335|337|1066|6822,APOA1|APOA4|CES1|SULT2A1,-0.79
+_FINAL,GO Biological Processes,19,GO:0007548,sex differentiation,19_GO:0022414 reproductive process,-2.4,4,3.7,30211,273,168,6,3.6,1.4,1299|4914|6469|10549|29844|64478,COL9A3|NTRK1|SHH|PRDX4|TFPT|CSMD1,-0.79
+_FINAL,GO Biological Processes,19,GO:0030072,peptide hormone secretion,19_GO:0023052 signaling,-2.4,9.1,4.7,30211,59,168,3,1.8,1,2691|2693|51083,GHRH|GHSR|GAL,-0.79
+_FINAL,GO Biological Processes,19,GO:0006090,pyruvate metabolic process,19_GO:0008152 metabolic process,-2.3,9,4.6,30211,60,168,3,1.8,1,229|2027|5105,ALDOB|ENO3|PCK1,-0.77
+_FINAL,GO Biological Processes,19,GO:0007283,spermatogenesis,19_GO:0022414 reproductive process,-2.3,2.8,3.3,30211,569,168,9,5.4,1.7,2693|9148|9576|10549|54457|55124|91646|171484|101928601,GHSR|NEURL1|SPAG6|PRDX4|TAF7L|PIWIL2|TDRD12|FAM9C|MEI4,-0.75
+_FINAL,GO Biological Processes,19,GO:0002790,peptide secretion,19_GO:0051179 localization,-2.3,8.8,4.6,30211,61,168,3,1.8,1,2691|2693|51083,GHRH|GHSR|GAL,-0.75
+_FINAL,GO Biological Processes,19,GO:0055013,cardiac muscle cell development,19_GO:0032502 developmental process,-2.3,8.8,4.6,30211,61,168,3,1.8,1,4624|4629|91807,MYH6|MYH11|MYLK3,-0.75
+_FINAL,GO Biological Processes,19,GO:0008154,actin polymerization or depolymerization,19_GO:0009987 cellular process,-2.3,8.8,4.6,30211,61,168,3,1.8,1,2017|2693|7429,CTTN|GHSR|VIL1,-0.75
+_FINAL,GO Biological Processes,19,GO:0030239,myofibril assembly,19_GO:0032502 developmental process,-2.3,8.8,4.6,30211,61,168,3,1.8,1,4624|4629|91807,MYH6|MYH11|MYLK3,-0.75
+_FINAL,GO Biological Processes,19,GO:0046887,positive regulation of hormone secretion,19_GO:0023052 signaling,-2.3,5.9,4.1,30211,122,168,4,2.4,1.2,2691|3814|51083|91608,GHRH|KISS1|GAL|RASL10B,-0.75
+_FINAL,GO Biological Processes,19,GO:0007204,positive regulation of cytosolic calcium ion concentration,19_GO:0065007 biological regulation,-2.3,3.8,3.6,30211,281,168,6,3.6,1.4,796|2911|3814|5024|219931|387129,CALCA|GRM1|KISS1|P2RX3|TPCN2|NPSR1,-0.74
+_FINAL,GO Biological Processes,19,GO:0051965,positive regulation of synapse assembly,19_GO:0032502 developmental process,-2.3,8.7,4.5,30211,62,168,3,1.8,1,4914|84631|347730,NTRK1|SLITRK2|LRRTM1,-0.74
+_FINAL,GO Biological Processes,19,GO:0046579,positive regulation of Ras protein signal transduction,19_GO:0023052 signaling,-2.3,8.7,4.5,30211,62,168,3,1.8,1,335|4914|5923,APOA1|NTRK1|RASGRF1,-0.74
+_FINAL,GO Biological Processes,19,GO:0055002,striated muscle cell development,19_GO:0032502 developmental process,-2.3,8.7,4.5,30211,62,168,3,1.8,1,4624|4629|91807,MYH6|MYH11|MYLK3,-0.74
+_FINAL,GO Biological Processes,19,GO:0046683,response to organophosphorus,19_GO:0050896 response to stimulus,-2.3,5.8,4,30211,124,168,4,2.4,1.2,2819|5024|5105|9127,GPD1|P2RX3|PCK1|P2RX6,-0.73
+_FINAL,GO Biological Processes,19,GO:0035270,endocrine system development,19_GO:0032502 developmental process,-2.3,5.8,4,30211,124,168,4,2.4,1.2,335|2691|6469|23440,APOA1|GHRH|SHH|OTP,-0.73
+_FINAL,Reactome Gene Sets,6,R-HSA-913709,O-linked glycosylation of mucins,,-2.3,8.6,4.5,30211,63,168,3,1.8,1,4588|10071|727897,MUC6|MUC12|MUC5B,-0.72
+_FINAL,Reactome Gene Sets,6,R-HSA-375165,NCAM signaling for neurite out-growth,,-2.3,8.6,4.5,30211,63,168,3,1.8,1,1297|1299|1463,COL9A1|COL9A3|NCAN,-0.72
+_FINAL,GO Biological Processes,19,GO:0050808,synapse organization,19_GO:0009987 cellular process,-2.3,3.8,3.5,30211,284,168,6,3.6,1.4,2017|2823|4009|63827|84631|347730,CTTN|GPM6A|LMX1A|BCAN|SLITRK2|LRRTM1,-0.72
+_FINAL,GO Biological Processes,19,GO:1901888,regulation of cell junction assembly,19_GO:0050789 regulation of biological process,-2.3,4.5,3.7,30211,201,168,5,3,1.3,2045|2693|4914|84631|347730,EPHA7|GHSR|NTRK1|SLITRK2|LRRTM1,-0.71
+_FINAL,GO Biological Processes,19,GO:0034754,cellular hormone metabolic process,19_GO:0008152 metabolic process,-2.3,5.7,4,30211,126,168,4,2.4,1.2,126|6469|7364|64577,ADH1C|SHH|UGT2B7|ALDH8A1,-0.71
+_FINAL,GO Biological Processes,19,GO:0072507,divalent inorganic cation homeostasis,19_GO:0065007 biological regulation,-2.3,3,3.3,30211,478,168,8,4.8,1.6,487|796|2911|3062|3814|5024|219931|387129,ATP2A1|CALCA|GRM1|HCRTR2|KISS1|P2RX3|TPCN2|NPSR1,-0.71
+_FINAL,GO Biological Processes,19,GO:0055080,cation homeostasis,19_GO:0065007 biological regulation,-2.3,2.6,3.2,30211,692,168,10,6,1.8,487|796|1356|2911|3062|3814|5024|6550|219931|387129,ATP2A1|CALCA|CP|GRM1|HCRTR2|KISS1|P2RX3|SLC9A3|TPCN2|NPSR1,-0.7
+_FINAL,GO Biological Processes,19,GO:0061061,muscle structure development,19_GO:0032502 developmental process,-2.3,3,3.3,30211,480,168,8,4.8,1.6,4624|4629|4634|6469|9148|54910|91807|219537,MYH6|MYH11|MYL3|SHH|NEURL1|SEMA4C|MYLK3|SMTNL1,-0.7
+_FINAL,GO Biological Processes,19,GO:0001822,kidney development,19_GO:0032502 developmental process,-2.3,3.7,3.5,30211,288,168,6,3.6,1.4,359|2045|4311|6469|7475|8772,AQP2|EPHA7|MME|SHH|WNT6|FADD,-0.7
+_FINAL,GO Biological Processes,19,GO:0006940,regulation of smooth muscle contraction,19_GO:0032501 multicellular organismal process,-2.2,8.3,4.4,30211,65,168,3,1.8,1,796|2017|2693,CALCA|CTTN|GHSR,-0.69
+_FINAL,GO Biological Processes,19,GO:1902652,secondary alcohol metabolic process,19_GO:0008152 metabolic process,-2.2,5.6,3.9,30211,128,168,4,2.4,1.2,335|337|1066|6822,APOA1|APOA4|CES1|SULT2A1,-0.69
+_FINAL,GO Biological Processes,19,GO:0048232,male gamete generation,19_GO:0022414 reproductive process,-2.2,2.8,3.2,30211,588,168,9,5.4,1.7,2693|9148|9576|10549|54457|55124|91646|171484|101928601,GHSR|NEURL1|SPAG6|PRDX4|TAF7L|PIWIL2|TDRD12|FAM9C|MEI4,-0.69
+_FINAL,KEGG Pathway,24,hsa05010,Alzheimer disease,,-2.2,3.3,3.4,30211,384,168,7,4.2,1.5,487|4311|4715|4726|7475|8772|163688,ATP2A1|MME|NDUFB9|NDUFS6|WNT6|FADD|CALML6,-0.69
+_FINAL,GO Biological Processes,19,GO:0001101,response to acid chemical,19_GO:0050896 response to stimulus,-2.2,5.6,3.9,30211,129,168,4,2.4,1.2,359|4914|5105|9148,AQP2|NTRK1|PCK1|NEURL1,-0.68
+_FINAL,GO Biological Processes,19,GO:0045104,intermediate filament cytoskeleton organization,19_GO:0009987 cellular process,-2.2,8.2,4.4,30211,66,168,3,1.8,1,2670|6469|54474,GFAP|SHH|KRT20,-0.68
+_FINAL,Reactome Gene Sets,6,R-HSA-6809371,Formation of the cornified envelope,,-2.2,5.5,3.9,30211,130,168,4,2.4,1.2,3887|51350|54474|374454,KRT81|KRT76|KRT20|KRT77,-0.68
+_FINAL,GO Biological Processes,19,GO:0009581,detection of external stimulus,19_GO:0050896 response to stimulus,-2.2,5.5,3.9,30211,130,168,4,2.4,1.2,796|4914|80036|644168,CALCA|NTRK1|TRPM3|DRGX,-0.68
+_FINAL,GO Biological Processes,19,GO:0098771,inorganic ion homeostasis,19_GO:0065007 biological regulation,-2.2,2.6,3.1,30211,702,168,10,6,1.8,487|796|1356|2911|3062|3814|5024|6550|219931|387129,ATP2A1|CALCA|CP|GRM1|HCRTR2|KISS1|P2RX3|SLC9A3|TPCN2|NPSR1,-0.68
+_FINAL,GO Biological Processes,19,GO:0008016,regulation of heart contraction,19_GO:0032501 multicellular organismal process,-2.2,4.3,3.6,30211,207,168,5,3,1.3,487|796|4624|4634|4635,ATP2A1|CALCA|MYH6|MYL3|MYL4,-0.67
+_FINAL,GO Biological Processes,19,GO:0045103,intermediate filament-based process,19_GO:0009987 cellular process,-2.2,8.1,4.3,30211,67,168,3,1.8,1,2670|6469|54474,GFAP|SHH|KRT20,-0.67
+_FINAL,GO Biological Processes,19,GO:0070252,actin-mediated cell contraction,19_GO:0009987 cellular process,-2.2,8.1,4.3,30211,67,168,3,1.8,1,4624|4626|7429,MYH6|MYH8|VIL1,-0.67
+_FINAL,GO Biological Processes,19,GO:0006835,dicarboxylic acid transport,19_GO:0051179 localization,-2.2,8.1,4.3,30211,67,168,3,1.8,1,1244|2670|2911,ABCC2|GFAP|GRM1,-0.67
+_FINAL,GO Biological Processes,19,GO:0055006,cardiac cell development,19_GO:0032502 developmental process,-2.2,8.1,4.3,30211,67,168,3,1.8,1,4624|4629|91807,MYH6|MYH11|MYLK3,-0.67
+_FINAL,GO Biological Processes,19,GO:0032787,monocarboxylic acid metabolic process,19_GO:0008152 metabolic process,-2.2,2.9,3.2,30211,491,168,8,4.8,1.6,126|229|1066|2027|5105|6822|7364|64577,ADH1C|ALDOB|CES1|ENO3|PCK1|SULT2A1|UGT2B7|ALDH8A1,-0.66
+_FINAL,GO Biological Processes,19,GO:0010565,regulation of cellular ketone metabolic process,19_GO:0008152 metabolic process,-2.2,5.4,3.8,30211,132,168,4,2.4,1.2,335|337|1066|2693,APOA1|APOA4|CES1|GHSR,-0.66
+_FINAL,GO Biological Processes,19,GO:0033555,multicellular organismal response to stress,19_GO:0032501 multicellular organismal process,-2.2,7.9,4.3,30211,68,168,3,1.8,1,796|4914|5024,CALCA|NTRK1|P2RX3,-0.66
+_FINAL,Reactome Gene Sets,6,R-HSA-3906995,Diseases associated with O-glycosylation of proteins,,-2.2,7.9,4.3,30211,68,168,3,1.8,1,4588|10071|727897,MUC6|MUC12|MUC5B,-0.66
+_FINAL,GO Biological Processes,19,GO:0072001,renal system development,19_GO:0032502 developmental process,-2.2,3.6,3.4,30211,297,168,6,3.6,1.4,359|2045|4311|6469|7475|8772,AQP2|EPHA7|MME|SHH|WNT6|FADD,-0.66
+_FINAL,GO Biological Processes,19,GO:0009582,detection of abiotic stimulus,19_GO:0050896 response to stimulus,-2.2,5.4,3.8,30211,133,168,4,2.4,1.2,796|4914|80036|644168,CALCA|NTRK1|TRPM3|DRGX,-0.66
+_FINAL,GO Biological Processes,19,GO:0016125,sterol metabolic process,19_GO:0008152 metabolic process,-2.2,5.4,3.8,30211,133,168,4,2.4,1.2,335|337|1066|6822,APOA1|APOA4|CES1|SULT2A1,-0.66
+_FINAL,GO Biological Processes,19,GO:0048754,branching morphogenesis of an epithelial tube,19_GO:0032502 developmental process,-2.2,5.4,3.8,30211,133,168,4,2.4,1.2,6469|7475|64399|64478,SHH|WNT6|HHIP|CSMD1,-0.66
+_FINAL,Reactome Gene Sets,6,R-HSA-9006931,Signaling by Nuclear Receptors,,-2.2,3.6,3.4,30211,299,168,6,3.6,1.4,126|5105|7031|7033|8331|64577,ADH1C|PCK1|TFF1|TFF3|H2AC14|ALDH8A1,-0.65
+_FINAL,GO Biological Processes,19,GO:0014074,response to purine-containing compound,19_GO:0050896 response to stimulus,-2.2,5.4,3.8,30211,134,168,4,2.4,1.2,2819|5024|5105|9127,GPD1|P2RX3|PCK1|P2RX6,-0.65
+_FINAL,Reactome Gene Sets,6,R-HSA-9660821,ADORA2B mediated anti-inflammatory cytokines production,,-2.2,5.4,3.8,30211,134,168,4,2.4,1.2,796|2691|7253|387129,CALCA|GHRH|TSHR|NPSR1,-0.65
+_FINAL,GO Biological Processes,19,GO:0071496,cellular response to external stimulus,19_GO:0050896 response to stimulus,-2.2,3.6,3.4,30211,301,168,6,3.6,1.4,213|359|5105|8772|54474|57535,ALB|AQP2|PCK1|FADD|KRT20|ELAPOR1,-0.64
+_FINAL,Reactome Gene Sets,6,R-HSA-174824,"Plasma lipoprotein assembly, remodeling, and clearance",,-2.2,7.7,4.2,30211,70,168,3,1.8,1,213|335|337,ALB|APOA1|APOA4,-0.63
+_FINAL,GO Biological Processes,19,GO:0051057,positive regulation of small GTPase mediated signal transduction,19_GO:0023052 signaling,-2.2,7.7,4.2,30211,70,168,3,1.8,1,335|4914|5923,APOA1|NTRK1|RASGRF1,-0.63
+_FINAL,GO Biological Processes,19,GO:0008406,gonad development,19_GO:0022414 reproductive process,-2.1,4.1,3.5,30211,217,168,5,3,1.3,1299|4914|10549|29844|64478,COL9A3|NTRK1|PRDX4|TFPT|CSMD1,-0.61
+_FINAL,GO Biological Processes,19,GO:0050890,cognition,19_GO:0032501 multicellular organismal process,-2.1,3.5,3.3,30211,306,168,6,3.6,1.4,2693|4009|4311|4914|5923|64478,GHSR|LMX1A|MME|NTRK1|RASGRF1|CSMD1,-0.61
+_FINAL,GO Biological Processes,19,GO:0031644,regulation of nervous system process,19_GO:0032501 multicellular organismal process,-2.1,5.2,3.7,30211,138,168,4,2.4,1.2,2693|2911|5024|56853,GHSR|GRM1|P2RX3|CELF4,-0.61
+_FINAL,KEGG Pathway,24,hsa04915,Estrogen signaling pathway,,-2.1,5.2,3.7,30211,138,168,4,2.4,1.2,2911|7031|54474|163688,GRM1|TFF1|KRT20|CALML6,-0.61
+_FINAL,GO Biological Processes,19,GO:0060562,epithelial tube morphogenesis,19_GO:0032502 developmental process,-2.1,3.5,3.3,30211,307,168,6,3.6,1.4,2045|6469|7475|54910|64399|64478,EPHA7|SHH|WNT6|SEMA4C|HHIP|CSMD1,-0.61
+_FINAL,GO Biological Processes,19,GO:0071214,cellular response to abiotic stimulus,19_GO:0050896 response to stimulus,-2.1,3.5,3.3,30211,307,168,6,3.6,1.4,359|2911|4311|5105|8772|85453,AQP2|GRM1|MME|PCK1|FADD|TSPYL5,-0.61
+_FINAL,GO Biological Processes,19,GO:0104004,cellular response to environmental stimulus,19_GO:0050896 response to stimulus,-2.1,3.5,3.3,30211,307,168,6,3.6,1.4,359|2911|4311|5105|8772|85453,AQP2|GRM1|MME|PCK1|FADD|TSPYL5,-0.61
+_FINAL,KEGG Pathway,24,hsa04371,Apelin signaling pathway,,-2.1,5.2,3.7,30211,139,168,4,2.4,1.2,4634|4635|91807|163688,MYL3|MYL4|MYLK3|CALML6,-0.6
+_FINAL,GO Biological Processes,19,GO:0046395,carboxylic acid catabolic process,19_GO:0008152 metabolic process,-2.1,4.1,3.4,30211,220,168,5,3,1.3,3067|5105|6822|23464|64577,HDC|PCK1|SULT2A1|GCAT|ALDH8A1,-0.59
+_FINAL,GO Biological Processes,19,GO:0055065,metal ion homeostasis,19_GO:0065007 biological regulation,-2.1,2.6,3,30211,618,168,9,5.4,1.7,487|796|1356|2911|3062|3814|5024|219931|387129,ATP2A1|CALCA|CP|GRM1|HCRTR2|KISS1|P2RX3|TPCN2|NPSR1,-0.59
+_FINAL,KEGG Pathway,24,hsa04024,cAMP signaling pathway,,-2.1,4.1,3.4,30211,221,168,5,3,1.3,487|2693|7253|64399|163688,ATP2A1|GHSR|TSHR|HHIP|CALML6,-0.59
+_FINAL,GO Biological Processes,19,GO:0045137,development of primary sexual characteristics,19_GO:0022414 reproductive process,-2.1,4.1,3.4,30211,222,168,5,3,1.3,1299|4914|10549|29844|64478,COL9A3|NTRK1|PRDX4|TFPT|CSMD1,-0.58
+_FINAL,GO Biological Processes,19,GO:0050769,positive regulation of neurogenesis,19_GO:0032502 developmental process,-2.1,4.1,3.4,30211,222,168,5,3,1.3,2670|4311|6469|9148|23440,GFAP|MME|SHH|NEURL1|OTP,-0.58
+_FINAL,GO Biological Processes,19,GO:0016054,organic acid catabolic process,19_GO:0008152 metabolic process,-2.1,4,3.4,30211,224,168,5,3,1.3,3067|5105|6822|23464|64577,HDC|PCK1|SULT2A1|GCAT|ALDH8A1,-0.57
+_FINAL,GO Biological Processes,19,GO:0021536,diencephalon development,19_GO:0032502 developmental process,-2.1,7.2,4,30211,75,168,3,1.8,1,2691|6469|23440,GHRH|SHH|OTP,-0.57
+_FINAL,GO Biological Processes,19,GO:0060048,cardiac muscle contraction,19_GO:0032501 multicellular organismal process,-2.1,7.2,4,30211,75,168,3,1.8,1,4624|4634|4635,MYH6|MYL3|MYL4,-0.57
+_FINAL,WikiPathways,27,WP24,Peptide GPCRs,,-2.1,7.2,4,30211,75,168,3,1.8,1,2693|3062|7253,GHSR|HCRTR2|TSHR,-0.57
+_FINAL,GO Biological Processes,19,GO:0046879,hormone secretion,19_GO:0023052 signaling,-2.1,7.2,4,30211,75,168,3,1.8,1,2691|2693|51083,GHRH|GHSR|GAL,-0.57
+_FINAL,KEGG Pathway,24,hsa01230,Biosynthesis of amino acids,,-2.1,7.2,4,30211,75,168,3,1.8,1,229|2027|8277,ALDOB|ENO3|TKTL1,-0.57
+_FINAL,GO Biological Processes,19,GO:0005976,polysaccharide metabolic process,19_GO:0008152 metabolic process,-2.1,7.1,4,30211,76,168,3,1.8,1,5260|5837|8534,PHKG1|PYGM|CHST1,-0.56
+_FINAL,Reactome Gene Sets,6,R-HSA-418555,G alpha (s) signalling events,,-2.1,5,3.6,30211,145,168,4,2.4,1.2,796|2691|7253|387129,CALCA|GHRH|TSHR|NPSR1,-0.55
+_FINAL,KEGG Pathway,24,hsa00980,Metabolism of xenobiotics by cytochrome P450,,-2,6.9,3.9,30211,78,168,3,1.8,1,126|6822|7364,ADH1C|SULT2A1|UGT2B7,-0.53
+_FINAL,WikiPathways,27,WP2882,Nuclear receptors meta-pathway,,-2,3.4,3.2,30211,322,168,6,3.6,1.4,335|1066|1244|5105|6822|7364,APOA1|CES1|ABCC2|PCK1|SULT2A1|UGT2B7,-0.53
+_FINAL,GO Biological Processes,19,GO:0044283,small molecule biosynthetic process,19_GO:0008152 metabolic process,-2,3,3.1,30211,423,168,7,4.2,1.5,335|337|1066|2819|5105|8789|64577,APOA1|APOA4|CES1|GPD1|PCK1|FBP2|ALDH8A1,-0.52
+_FINAL,GO Biological Processes,19,GO:0050801,ion homeostasis,19_GO:0065007 biological regulation,-2,2.4,2.9,30211,754,168,10,6,1.8,487|796|1356|2911|3062|3814|5024|6550|219931|387129,ATP2A1|CALCA|CP|GRM1|HCRTR2|KISS1|P2RX3|SLC9A3|TPCN2|NPSR1,-0.52
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0044057,regulation of system process,19_GO:0032501 multicellular organismal process,-10,18,13,30211,573,29,10,34,8.8,335|796|2693|2911|3814|4624|4634|4635|219537|387129,APOA1|CALCA|GHSR|GRM1|KISS1|MYH6|MYL3|MYL4|SMTNL1|NPSR1,-6.7
+_FINAL_MCODE_ALL,KEGG Pathway,24,hsa04080,Neuroactive ligand-receptor interaction,,-9,24,13,30211,353,29,8,28,8.3,796|2691|2693|2911|3062|3814|7253|9127,CALCA|GHRH|GHSR|GRM1|HCRTR2|KISS1|TSHR|P2RX6,-5.9
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-500792,GPCR ligand binding,,-8,18,11,30211,467,29,8,28,8.3,796|2691|2693|2911|3062|3814|7253|387129,CALCA|GHRH|GHSR|GRM1|HCRTR2|KISS1|TSHR|NPSR1,-5.1
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-397014,Muscle contraction,,-7.5,32,13,30211,197,29,6,21,7.5,72|4624|4626|4629|4634|4635,ACTG2|MYH6|MYH8|MYH11|MYL3|MYL4,-4.7
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-390522,Striated Muscle Contraction,,-7.4,1.2e+02,21,30211,36,29,4,14,6.4,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-4.6
+_FINAL_MCODE_ALL,WikiPathways,27,WP383,Striated muscle contraction pathway,,-7.3,1.1e+02,21,30211,38,29,4,14,6.4,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-4.5
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0006936,muscle contraction,19_GO:0032501 multicellular organismal process,-7.2,28,12,30211,227,29,6,21,7.5,4624|4626|4629|4634|4635|9127,MYH6|MYH8|MYH11|MYL3|MYL4|P2RX6,-4.4
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-388396,GPCR downstream signalling,,-7,13,9.6,30211,629,29,8,28,8.3,796|2691|2693|2911|3062|3814|7253|387129,CALCA|GHRH|GHSR|GRM1|HCRTR2|KISS1|TSHR|NPSR1,-4.3
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0060123,regulation of growth hormone secretion,19_GO:0023052 signaling,-6.8,2.6e+02,28,30211,12,29,3,10,5.7,2691|2693|3814,GHRH|GHSR|KISS1,-4.2
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-372790,Signaling by GPCR,,-6.6,12,9,30211,704,29,8,28,8.3,796|2691|2693|2911|3062|3814|7253|387129,CALCA|GHRH|GHSR|GRM1|HCRTR2|KISS1|TSHR|NPSR1,-4.1
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0003012,muscle system process,19_GO:0032501 multicellular organismal process,-6.6,22,11,30211,281,29,6,21,7.5,4624|4626|4629|4634|4635|9127,MYH6|MYH8|MYH11|MYL3|MYL4|P2RX6,-4.1
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0050795,regulation of behavior,19_GO:0007610 behavior,-6.2,60,15,30211,69,29,4,14,6.4,2691|2693|3062|387129,GHRH|GHSR|HCRTR2|NPSR1,-3.8
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0007631,feeding behavior,19_GO:0007610 behavior,-5.8,46,13,30211,90,29,4,14,6.4,796|2693|3062|387129,CALCA|GHSR|HCRTR2|NPSR1,-3.5
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-416476,G alpha (q) signalling events,,-5.7,24,11,30211,216,29,5,17,7,2693|2911|3062|3814|387129,GHSR|GRM1|HCRTR2|KISS1|NPSR1,-3.4
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0002026,regulation of the force of heart contraction,19_GO:0032501 multicellular organismal process,-5.7,1.2e+02,19,30211,26,29,3,10,5.7,4624|4634|4635,MYH6|MYL3|MYL4,-3.4
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0007200,phospholipase C-activating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-5.6,42,13,30211,99,29,4,14,6.4,796|2911|3062|3814,CALCA|GRM1|HCRTR2|KISS1,-3.3
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0006941,striated muscle contraction,19_GO:0032501 multicellular organismal process,-5.5,39,12,30211,106,29,4,14,6.4,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-3.2
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0051482,positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway,19_GO:0023052 signaling,-5.4,98,17,30211,32,29,3,10,5.7,796|2911|3814,CALCA|GRM1|KISS1,-3.2
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:1903522,regulation of blood circulation,19_GO:0032501 multicellular organismal process,-5.4,20,9.6,30211,256,29,5,17,7,796|4624|4634|4635|219537,CALCA|MYH6|MYL3|MYL4|SMTNL1,-3.2
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-6809371,Formation of the cornified envelope,,-5.1,32,11,30211,130,29,4,14,6.4,3887|51350|54474|374454,KRT81|KRT76|KRT20|KRT77,-3
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-9660821,ADORA2B mediated anti-inflammatory cytokines production,,-5.1,31,11,30211,134,29,4,14,6.4,796|2691|7253|387129,CALCA|GHRH|TSHR|NPSR1,-2.9
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-418555,G alpha (s) signalling events,,-5,29,10,30211,145,29,4,14,6.4,796|2691|7253|387129,CALCA|GHRH|TSHR|NPSR1,-2.8
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0051480,regulation of cytosolic calcium ion concentration,19_GO:0065007 biological regulation,-4.9,16,8.6,30211,316,29,5,17,7,796|2911|3062|3814|387129,CALCA|GRM1|HCRTR2|KISS1|NPSR1,-2.8
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0006875,cellular metal ion homeostasis,19_GO:0065007 biological regulation,-4.9,11,7.6,30211,550,29,6,21,7.5,796|1356|2911|3062|3814|387129,CALCA|CP|GRM1|HCRTR2|KISS1|NPSR1,-2.8
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-373076,Class A/1 (Rhodopsin-like receptors),,-4.8,16,8.3,30211,335,29,5,17,7,2693|3062|3814|7253|387129,GHSR|HCRTR2|KISS1|TSHR|NPSR1,-2.7
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,,-4.7,25,9.6,30211,169,29,4,14,6.4,796|2691|7253|387129,CALCA|GHRH|TSHR|NPSR1,-2.6
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-9664433,Leishmania parasite growth and survival,,-4.7,25,9.6,30211,169,29,4,14,6.4,796|2691|7253|387129,CALCA|GHRH|TSHR|NPSR1,-2.6
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0055065,metal ion homeostasis,19_GO:0065007 biological regulation,-4.6,10,7.1,30211,618,29,6,21,7.5,796|1356|2911|3062|3814|387129,CALCA|CP|GRM1|HCRTR2|KISS1|NPSR1,-2.6
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0030003,cellular cation homeostasis,19_GO:0065007 biological regulation,-4.6,10,7.1,30211,620,29,6,21,7.5,796|1356|2911|3062|3814|387129,CALCA|CP|GRM1|HCRTR2|KISS1|NPSR1,-2.5
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0006873,cellular ion homeostasis,19_GO:0065007 biological regulation,-4.6,9.8,7,30211,635,29,6,21,7.5,796|1356|2911|3062|3814|387129,CALCA|CP|GRM1|HCRTR2|KISS1|NPSR1,-2.5
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0008015,blood circulation,19_GO:0032501 multicellular organismal process,-4.4,13,7.5,30211,400,29,5,17,7,796|4624|4634|4635|219537,CALCA|MYH6|MYL3|MYL4|SMTNL1,-2.4
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-375276,Peptide ligand-binding receptors,,-4.4,21,8.7,30211,201,29,4,14,6.4,2693|3062|3814|387129,GHSR|HCRTR2|KISS1|NPSR1,-2.4
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0055080,cation homeostasis,19_GO:0065007 biological regulation,-4.4,9,6.6,30211,692,29,6,21,7.5,796|1356|2911|3062|3814|387129,CALCA|CP|GRM1|HCRTR2|KISS1|NPSR1,-2.3
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0008016,regulation of heart contraction,19_GO:0032501 multicellular organismal process,-4.4,20,8.6,30211,207,29,4,14,6.4,796|4624|4634|4635,CALCA|MYH6|MYL3|MYL4,-2.3
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0098771,inorganic ion homeostasis,19_GO:0065007 biological regulation,-4.3,8.9,6.6,30211,702,29,6,21,7.5,796|1356|2911|3062|3814|387129,CALCA|CP|GRM1|HCRTR2|KISS1|NPSR1,-2.3
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0006874,cellular calcium ion homeostasis,19_GO:0065007 biological regulation,-4.3,12,7.3,30211,422,29,5,17,7,796|2911|3062|3814|387129,CALCA|GRM1|HCRTR2|KISS1|NPSR1,-2.3
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0043462,regulation of ATP-dependent activity,19_GO:0065007 biological regulation,-4.3,43,11,30211,73,29,3,10,5.7,4624|4634|4635,MYH6|MYL3|MYL4,-2.3
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-6805567,Keratinization,,-4.3,19,8.4,30211,214,29,4,14,6.4,3887|51350|54474|374454,KRT81|KRT76|KRT20|KRT77,-2.3
+_FINAL_MCODE_ALL,WikiPathways,27,WP24,Peptide GPCRs,,-4.3,42,11,30211,75,29,3,10,5.7,2693|3062|7253,GHSR|HCRTR2|TSHR,-2.3
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0060048,cardiac muscle contraction,19_GO:0032501 multicellular organismal process,-4.3,42,11,30211,75,29,3,10,5.7,4624|4634|4635,MYH6|MYL3|MYL4,-2.3
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0055074,calcium ion homeostasis,19_GO:0065007 biological regulation,-4.3,12,7.1,30211,435,29,5,17,7,796|2911|3062|3814|387129,CALCA|GRM1|HCRTR2|KISS1|NPSR1,-2.3
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0048644,muscle organ morphogenesis,19_GO:0032502 developmental process,-4.2,39,11,30211,80,29,3,10,5.7,4624|4634|219537,MYH6|MYL3|SMTNL1,-2.2
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0055082,cellular chemical homeostasis,19_GO:0065007 biological regulation,-4.2,8.4,6.3,30211,746,29,6,21,7.5,796|1356|2911|3062|3814|387129,CALCA|CP|GRM1|HCRTR2|KISS1|NPSR1,-2.2
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0007188,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-4.2,18,8.1,30211,229,29,4,14,6.4,796|2691|2911|7253,CALCA|GHRH|GRM1|TSHR,-2.2
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0072503,cellular divalent inorganic cation homeostasis,19_GO:0065007 biological regulation,-4.2,11,7,30211,456,29,5,17,7,796|2911|3062|3814|387129,CALCA|GRM1|HCRTR2|KISS1|NPSR1,-2.2
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0050801,ion homeostasis,19_GO:0065007 biological regulation,-4.2,8.3,6.3,30211,754,29,6,21,7.5,796|1356|2911|3062|3814|387129,CALCA|CP|GRM1|HCRTR2|KISS1|NPSR1,-2.2
+_FINAL_MCODE_ALL,KEGG Pathway,24,hsa04260,Cardiac muscle contraction,,-4.1,36,10,30211,87,29,3,10,5.7,4624|4634|4635,MYH6|MYL3|MYL4,-2.1
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0072507,divalent inorganic cation homeostasis,19_GO:0065007 biological regulation,-4.1,11,6.8,30211,478,29,5,17,7,796|2911|3062|3814|387129,CALCA|GRM1|HCRTR2|KISS1|NPSR1,-2.1
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0060047,heart contraction,19_GO:0032501 multicellular organismal process,-4,34,9.8,30211,92,29,3,10,5.7,4624|4634|4635,MYH6|MYL3|MYL4,-2.1
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0003013,circulatory system process,19_GO:0032501 multicellular organismal process,-4,11,6.6,30211,492,29,5,17,7,796|4624|4634|4635|219537,CALCA|MYH6|MYL3|MYL4|SMTNL1,-2.1
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-9658195,Leishmania infection,,-4,16,7.6,30211,254,29,4,14,6.4,796|2691|7253|387129,CALCA|GHRH|TSHR|NPSR1,-2.1
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0007204,positive regulation of cytosolic calcium ion concentration,19_GO:0065007 biological regulation,-3.8,15,7.2,30211,281,29,4,14,6.4,796|2911|3814|387129,CALCA|GRM1|KISS1|NPSR1,-1.9
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0003015,heart process,19_GO:0032501 multicellular organismal process,-3.8,29,9,30211,108,29,3,10,5.7,4624|4634|4635,MYH6|MYL3|MYL4,-1.9
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0007218,neuropeptide signaling pathway,19_GO:0023052 signaling,-3.8,29,9,30211,108,29,3,10,5.7,796|3062|387129,CALCA|HCRTR2|NPSR1,-1.9
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-8957275,Post-translational protein phosphorylation,,-3.8,29,9,30211,108,29,3,10,5.7,213|335|1356,ALB|APOA1|CP,-1.9
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-977225,Amyloid fiber formation,,-3.8,28,8.9,30211,111,29,3,10,5.7,335|796|8331,APOA1|CALCA|H2AC14,-1.9
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0007610,behavior,19_GO:0007610 behavior,-3.7,9.3,6.1,30211,563,29,5,17,7,796|2693|2911|3062|387129,CALCA|GHSR|GRM1|HCRTR2|NPSR1,-1.9
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),,-3.6,25,8.3,30211,125,29,3,10,5.7,213|335|1356,ALB|APOA1|CP,-1.8
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0030029,actin filament-based process,19_GO:0009987 cellular process,-3.6,8.7,5.9,30211,602,29,5,17,7,2693|4624|4626|4629|219537,GHSR|MYH6|MYH8|MYH11|SMTNL1,-1.7
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0051046,regulation of secretion,19_GO:0051179 localization,-3.6,8.6,5.9,30211,606,29,5,17,7,2691|2693|3814|54474|387129,GHRH|GHSR|KISS1|KRT20|NPSR1,-1.7
+_FINAL_MCODE_ALL,KEGG Pathway,24,hsa04270,Vascular smooth muscle contraction,,-3.5,23,8,30211,134,29,3,10,5.7,72|796|4629,ACTG2|CALCA|MYH11,-1.7
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0007189,adenylate cyclase-activating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-3.5,22,7.8,30211,141,29,3,10,5.7,796|2691|7253,CALCA|GHRH|TSHR,-1.6
+_FINAL_MCODE_ALL,KEGG Pathway,24,hsa04261,Adrenergic signaling in cardiomyocytes,,-3.4,21,7.5,30211,150,29,3,10,5.7,4624|4634|4635,MYH6|MYL3|MYL4,-1.6
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0006937,regulation of muscle contraction,19_GO:0032501 multicellular organismal process,-3.2,18,7,30211,170,29,3,10,5.7,796|2693|4634,CALCA|GHSR|MYL3,-1.4
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0048738,cardiac muscle tissue development,19_GO:0032502 developmental process,-3.2,18,7,30211,173,29,3,10,5.7,4624|4629|4634,MYH6|MYH11|MYL3,-1.4
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0090276,regulation of peptide hormone secretion,19_GO:0023052 signaling,-3.2,18,6.9,30211,177,29,3,10,5.7,2691|2693|3814,GHRH|GHSR|KISS1,-1.4
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0002791,regulation of peptide secretion,19_GO:0051179 localization,-3.2,17,6.8,30211,180,29,3,10,5.7,2691|2693|3814,GHRH|GHSR|KISS1,-1.4
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0090087,regulation of peptide transport,19_GO:0051179 localization,-3.1,17,6.8,30211,183,29,3,10,5.7,2691|2693|3814,GHRH|GHSR|KISS1,-1.4
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0031667,response to nutrient levels,19_GO:0050896 response to stimulus,-3.1,9.5,5.6,30211,437,29,4,14,6.4,213|2691|2693|54474,ALB|GHRH|GHSR|KRT20,-1.4
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0009991,response to extracellular stimulus,19_GO:0050896 response to stimulus,-3,8.9,5.3,30211,470,29,4,14,6.4,213|2691|2693|54474,ALB|GHRH|GHSR|KRT20,-1.3
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0061061,muscle structure development,19_GO:0032502 developmental process,-3,8.7,5.3,30211,480,29,4,14,6.4,4624|4629|4634|219537,MYH6|MYH11|MYL3|SMTNL1,-1.2
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0010817,regulation of hormone levels,19_GO:0065007 biological regulation,-2.9,8.4,5.2,30211,496,29,4,14,6.4,126|2691|2693|3814,ADH1C|GHRH|GHSR|KISS1,-1.2
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0046883,regulation of hormone secretion,19_GO:0023052 signaling,-2.9,14,5.9,30211,231,29,3,10,5.7,2691|2693|3814,GHRH|GHSR|KISS1,-1.2
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0097435,supramolecular fiber organization,19_GO:0009987 cellular process,-2.8,8,5,30211,522,29,4,14,6.4,2693|4624|4629|54474,GHSR|MYH6|MYH11|KRT20,-1.1
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0030036,actin cytoskeleton organization,19_GO:0009987 cellular process,-2.8,7.7,4.9,30211,540,29,4,14,6.4,2693|4624|4629|219537,GHSR|MYH6|MYH11|SMTNL1,-1.1
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0090257,regulation of muscle system process,19_GO:0032501 multicellular organismal process,-2.8,13,5.7,30211,250,29,3,10,5.7,796|2693|4634,CALCA|GHSR|MYL3,-1.1
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:1903530,regulation of secretion by cell,19_GO:0051179 localization,-2.7,7.6,4.8,30211,549,29,4,14,6.4,2691|2693|3814|54474,GHRH|GHSR|KISS1|KRT20,-1.1
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0048729,tissue morphogenesis,19_GO:0032502 developmental process,-2.7,7.5,4.8,30211,554,29,4,14,6.4,72|4624|4634|7053,ACTG2|MYH6|MYL3|TGM3,-1.1
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0007517,muscle organ development,19_GO:0032502 developmental process,-2.6,11,5.2,30211,285,29,3,10,5.7,4624|4634|219537,MYH6|MYL3|SMTNL1,-0.96
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0014706,striated muscle tissue development,19_GO:0032502 developmental process,-2.6,11,5.2,30211,287,29,3,10,5.7,4624|4629|4634,MYH6|MYH11|MYL3,-0.96
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0060537,muscle tissue development,19_GO:0032502 developmental process,-2.5,10,5,30211,306,29,3,10,5.7,4624|4629|4634,MYH6|MYH11|MYL3,-0.9
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0048638,regulation of developmental growth,19_GO:0040007 growth,-2.4,9.5,4.8,30211,329,29,3,10,5.7,2691|2693|4624,GHRH|GHSR|MYH6,-0.83
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-2262752,Cellular responses to stress,,-2.2,5.5,3.9,30211,757,29,4,14,6.4,213|335|6132|8331,ALB|APOA1|RPL8|H2AC14,-0.7
+_FINAL_MCODE_ALL,Reactome Gene Sets,6,R-HSA-8953897,Cellular responses to stimuli,,-2.2,5.4,3.8,30211,771,29,4,14,6.4,213|335|6132|8331,ALB|APOA1|RPL8|H2AC14,-0.68
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0007268,chemical synaptic transmission,19_GO:0023052 signaling,-2.2,7.9,4.3,30211,396,29,3,10,5.7,2911|3062|9127,GRM1|HCRTR2|P2RX6,-0.66
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0098916,anterograde trans-synaptic signaling,19_GO:0023052 signaling,-2.2,7.9,4.3,30211,396,29,3,10,5.7,2911|3062|9127,GRM1|HCRTR2|P2RX6,-0.66
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0048732,gland development,19_GO:0032502 developmental process,-2.2,7.8,4.2,30211,401,29,3,10,5.7,335|2691|51350,APOA1|GHRH|KRT76,-0.66
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0099537,trans-synaptic signaling,19_GO:0023052 signaling,-2.1,7.6,4.2,30211,413,29,3,10,5.7,2911|3062|9127,GRM1|HCRTR2|P2RX6,-0.63
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0050804,modulation of chemical synaptic transmission,19_GO:0023052 signaling,-2.1,7.3,4.1,30211,428,29,3,10,5.7,2693|2911|3814,GHSR|GRM1|KISS1,-0.6
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0099177,regulation of trans-synaptic signaling,19_GO:0023052 signaling,-2.1,7.3,4.1,30211,429,29,3,10,5.7,2693|2911|3814,GHSR|GRM1|KISS1,-0.59
+_FINAL_MCODE_ALL,GO Biological Processes,19,GO:0099536,synaptic signaling,19_GO:0023052 signaling,-2.1,7.1,4,30211,442,29,3,10,5.7,2911|3062|9127,GRM1|HCRTR2|P2RX6,-0.57
+_FINAL_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-397014,Muscle contraction,,-13,1.5e+02,30,30211,197,6,6,1e+02,15,72|4624|4626|4629|4634|4635,ACTG2|MYH6|MYH8|MYH11|MYL3|MYL4,-9.1
+_FINAL_SUB1_MCODE_1,Reactome Gene Sets,6,R-HSA-390522,Striated Muscle Contraction,,-11,5.6e+02,47,30211,36,6,4,67,19,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-7.1
+_FINAL_SUB1_MCODE_1,WikiPathways,27,WP383,Striated muscle contraction pathway,,-10,5.3e+02,46,30211,38,6,4,67,19,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-7.1
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0006936,muscle contraction,19_GO:0032501 multicellular organismal process,-9.9,1.1e+02,23,30211,227,6,5,83,15,4624|4626|4629|4634|4635,MYH6|MYH8|MYH11|MYL3|MYL4,-6.6
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0003012,muscle system process,19_GO:0032501 multicellular organismal process,-9.4,90,21,30211,281,6,5,83,15,4624|4626|4629|4634|4635,MYH6|MYH8|MYH11|MYL3|MYL4,-6.2
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0006941,striated muscle contraction,19_GO:0032501 multicellular organismal process,-8.7,1.9e+02,27,30211,106,6,4,67,19,4624|4626|4634|4635,MYH6|MYH8|MYL3|MYL4,-5.6
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0002026,regulation of the force of heart contraction,19_GO:0032501 multicellular organismal process,-7.9,5.8e+02,42,30211,26,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-5
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0043462,regulation of ATP-dependent activity,19_GO:0065007 biological regulation,-6.6,2.1e+02,25,30211,73,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-4
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0060048,cardiac muscle contraction,19_GO:0032501 multicellular organismal process,-6.5,2e+02,24,30211,75,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-4
+_FINAL_SUB1_MCODE_1,KEGG Pathway,24,hsa04260,Cardiac muscle contraction,,-6.3,1.7e+02,23,30211,87,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-3.9
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0060047,heart contraction,19_GO:0032501 multicellular organismal process,-6.3,1.6e+02,22,30211,92,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-3.8
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0003015,heart process,19_GO:0032501 multicellular organismal process,-6.1,1.4e+02,20,30211,108,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-3.7
+_FINAL_SUB1_MCODE_1,KEGG Pathway,24,hsa04261,Adrenergic signaling in cardiomyocytes,,-5.6,1e+02,17,30211,150,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-3.3
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0048738,cardiac muscle tissue development,19_GO:0032502 developmental process,-5.4,87,16,30211,173,6,3,50,20,4624|4629|4634,MYH6|MYH11|MYL3,-3.2
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0008016,regulation of heart contraction,19_GO:0032501 multicellular organismal process,-5.2,73,15,30211,207,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-3
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:1903522,regulation of blood circulation,19_GO:0032501 multicellular organismal process,-4.9,59,13,30211,256,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-2.8
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0014706,striated muscle tissue development,19_GO:0032502 developmental process,-4.8,53,12,30211,287,6,3,50,20,4624|4629|4634,MYH6|MYH11|MYL3,-2.7
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0060537,muscle tissue development,19_GO:0032502 developmental process,-4.7,49,12,30211,306,6,3,50,20,4624|4629|4634,MYH6|MYH11|MYL3,-2.6
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0008015,blood circulation,19_GO:0032501 multicellular organismal process,-4.3,38,10,30211,400,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-2.3
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0061061,muscle structure development,19_GO:0032502 developmental process,-4.1,31,9.5,30211,480,6,3,50,20,4624|4629|4634,MYH6|MYH11|MYL3,-2.1
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0003013,circulatory system process,19_GO:0032501 multicellular organismal process,-4.1,31,9.4,30211,492,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-2.1
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0007507,heart development,19_GO:0032502 developmental process,-4,28,8.9,30211,542,6,3,50,20,4624|4629|4634,MYH6|MYH11|MYL3,-2
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0048729,tissue morphogenesis,19_GO:0032502 developmental process,-3.9,27,8.8,30211,554,6,3,50,20,72|4624|4634,ACTG2|MYH6|MYL3,-2
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0044057,regulation of system process,19_GO:0032501 multicellular organismal process,-3.9,26,8.6,30211,573,6,3,50,20,4624|4634|4635,MYH6|MYL3|MYL4,-2
+_FINAL_SUB1_MCODE_1,GO Biological Processes,19,GO:0030029,actin filament-based process,19_GO:0009987 cellular process,-3.8,25,8.4,30211,602,6,3,50,20,4624|4626|4629,MYH6|MYH8|MYH11,-1.9
+_FINAL_SUB1_MCODE_2,Reactome Gene Sets,6,R-HSA-416476,G alpha (q) signalling events,,-11,1.4e+02,26,30211,216,5,5,1e+02,18,2693|2911|3062|3814|387129,GHSR|GRM1|HCRTR2|KISS1|NPSR1,-7.1
+_FINAL_SUB1_MCODE_2,Reactome Gene Sets,6,R-HSA-500792,GPCR ligand binding,,-9.1,65,18,30211,467,5,5,1e+02,18,2693|2911|3062|3814|387129,GHSR|GRM1|HCRTR2|KISS1|NPSR1,-5.9
+_FINAL_SUB1_MCODE_2,Reactome Gene Sets,6,R-HSA-388396,GPCR downstream signalling,,-8.4,48,15,30211,629,5,5,1e+02,18,2693|2911|3062|3814|387129,GHSR|GRM1|HCRTR2|KISS1|NPSR1,-5.4
+_FINAL_SUB1_MCODE_2,Reactome Gene Sets,6,R-HSA-372790,Signaling by GPCR,,-8.2,43,14,30211,704,5,5,1e+02,18,2693|2911|3062|3814|387129,GHSR|GRM1|HCRTR2|KISS1|NPSR1,-5.2
+_FINAL_SUB1_MCODE_2,Reactome Gene Sets,6,R-HSA-375276,Peptide ligand-binding receptors,,-8,1.2e+02,22,30211,201,5,4,80,18,2693|3062|3814|387129,GHSR|HCRTR2|KISS1|NPSR1,-5.1
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0051480,regulation of cytosolic calcium ion concentration,19_GO:0065007 biological regulation,-7.2,76,17,30211,316,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-4.4
+_FINAL_SUB1_MCODE_2,Reactome Gene Sets,6,R-HSA-373076,Class A/1 (Rhodopsin-like receptors),,-7.1,72,17,30211,335,5,4,80,18,2693|3062|3814|387129,GHSR|HCRTR2|KISS1|NPSR1,-4.4
+_FINAL_SUB1_MCODE_2,KEGG Pathway,24,hsa04080,Neuroactive ligand-receptor interaction,,-7,68,16,30211,353,5,4,80,18,2693|2911|3062|3814,GHSR|GRM1|HCRTR2|KISS1,-4.3
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0050795,regulation of behavior,19_GO:0007610 behavior,-6.9,2.6e+02,28,30211,69,5,3,60,22,2693|3062|387129,GHSR|HCRTR2|NPSR1,-4.3
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0006874,cellular calcium ion homeostasis,19_GO:0065007 biological regulation,-6.7,57,15,30211,422,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-4.2
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0055074,calcium ion homeostasis,19_GO:0065007 biological regulation,-6.7,56,15,30211,435,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-4.1
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0072503,cellular divalent inorganic cation homeostasis,19_GO:0065007 biological regulation,-6.6,53,14,30211,456,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-4.1
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0007631,feeding behavior,19_GO:0007610 behavior,-6.6,2e+02,24,30211,90,5,3,60,22,2693|3062|387129,GHSR|HCRTR2|NPSR1,-4.1
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0072507,divalent inorganic cation homeostasis,19_GO:0065007 biological regulation,-6.5,51,14,30211,478,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-4
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0007200,phospholipase C-activating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-6.5,1.8e+02,23,30211,99,5,3,60,22,2911|3062|3814,GRM1|HCRTR2|KISS1,-4
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0006875,cellular metal ion homeostasis,19_GO:0065007 biological regulation,-6.3,44,13,30211,550,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-3.8
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0007610,behavior,19_GO:0007610 behavior,-6.2,43,13,30211,563,5,4,80,18,2693|2911|3062|387129,GHSR|GRM1|HCRTR2|NPSR1,-3.8
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0044057,regulation of system process,19_GO:0032501 multicellular organismal process,-6.2,42,13,30211,573,5,4,80,18,2693|2911|3814|387129,GHSR|GRM1|KISS1|NPSR1,-3.8
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0055065,metal ion homeostasis,19_GO:0065007 biological regulation,-6.1,39,12,30211,618,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-3.7
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0030003,cellular cation homeostasis,19_GO:0065007 biological regulation,-6.1,39,12,30211,620,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-3.7
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0006873,cellular ion homeostasis,19_GO:0065007 biological regulation,-6,38,12,30211,635,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-3.7
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0055080,cation homeostasis,19_GO:0065007 biological regulation,-5.9,35,12,30211,692,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-3.5
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0098771,inorganic ion homeostasis,19_GO:0065007 biological regulation,-5.8,34,12,30211,702,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-3.5
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0055082,cellular chemical homeostasis,19_GO:0065007 biological regulation,-5.7,32,11,30211,746,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-3.4
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0050801,ion homeostasis,19_GO:0065007 biological regulation,-5.7,32,11,30211,754,5,4,80,18,2911|3062|3814|387129,GRM1|HCRTR2|KISS1|NPSR1,-3.4
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0007204,positive regulation of cytosolic calcium ion concentration,19_GO:0065007 biological regulation,-5.1,65,14,30211,281,5,3,60,22,2911|3814|387129,GRM1|KISS1|NPSR1,-2.9
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0050804,modulation of chemical synaptic transmission,19_GO:0023052 signaling,-4.6,42,11,30211,428,5,3,60,22,2693|2911|3814,GHSR|GRM1|KISS1,-2.5
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0099177,regulation of trans-synaptic signaling,19_GO:0023052 signaling,-4.6,42,11,30211,429,5,3,60,22,2693|2911|3814,GHSR|GRM1|KISS1,-2.5
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0043410,positive regulation of MAPK cascade,19_GO:0023052 signaling,-4.4,37,10,30211,490,5,3,60,22,2911|3814|387129,GRM1|KISS1|NPSR1,-2.3
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0051046,regulation of secretion,19_GO:0051179 localization,-4.1,30,9.3,30211,606,5,3,60,22,2693|3814|387129,GHSR|KISS1|NPSR1,-2.1
+_FINAL_SUB1_MCODE_2,GO Biological Processes,19,GO:0043408,regulation of MAPK cascade,19_GO:0023052 signaling,-3.9,26,8.7,30211,686,5,3,60,22,2911|3814|387129,GRM1|KISS1|NPSR1,-2
+_FINAL_SUB1_MCODE_3,Reactome Gene Sets,6,R-HSA-8957275,Post-translational protein phosphorylation,,-6.4,1.7e+02,22,30211,108,5,3,60,22,213|335|1356,ALB|APOA1|CP,-3.9
+_FINAL_SUB1_MCODE_3,Reactome Gene Sets,6,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),,-6.2,1.5e+02,21,30211,125,5,3,60,22,213|335|1356,ALB|APOA1|CP,-3.8
+_FINAL_SUB1_MCODE_3,Reactome Gene Sets,6,R-HSA-109582,Hemostasis,,-4.1,29,9.1,30211,621,5,3,60,22,213|335|9127,ALB|APOA1|P2RX6,-2.1
+_FINAL_SUB1_MCODE_3,Reactome Gene Sets,6,R-HSA-382551,Transport of small molecules,,-3.9,25,8.4,30211,729,5,3,60,22,213|335|1356,ALB|APOA1|CP,-2
+_FINAL_SUB1_MCODE_3,Reactome Gene Sets,6,R-HSA-2262752,Cellular responses to stress,,-3.8,24,8.2,30211,757,5,3,60,22,213|335|8331,ALB|APOA1|H2AC14,-1.9
+_FINAL_SUB1_MCODE_3,Reactome Gene Sets,6,R-HSA-8953897,Cellular responses to stimuli,,-3.8,24,8.1,30211,771,5,3,60,22,213|335|8331,ALB|APOA1|H2AC14,-1.9
+_FINAL_SUB4_MCODE_4,Reactome Gene Sets,6,R-HSA-6809371,Formation of the cornified envelope,,-9.5,2.3e+02,30,30211,130,4,4,1e+02,22,3887|51350|54474|374454,KRT81|KRT76|KRT20|KRT77,-6.2
+_FINAL_SUB4_MCODE_4,Reactome Gene Sets,6,R-HSA-6805567,Keratinization,,-8.6,1.4e+02,24,30211,214,4,4,1e+02,22,3887|51350|54474|374454,KRT81|KRT76|KRT20|KRT77,-5.6
+_FINAL_SUB1_MCODE_6,Reactome Gene Sets,6,R-HSA-9660821,ADORA2B mediated anti-inflammatory cytokines production,,-7.1,2.3e+02,26,30211,134,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.3
+_FINAL_SUB1_MCODE_6,GO Biological Processes,19,GO:0007189,adenylate cyclase-activating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-7,2.1e+02,25,30211,141,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.3
+_FINAL_SUB1_MCODE_6,Reactome Gene Sets,6,R-HSA-418555,G alpha (s) signalling events,,-7,2.1e+02,25,30211,145,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.3
+_FINAL_SUB1_MCODE_6,Reactome Gene Sets,6,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,,-6.8,1.8e+02,23,30211,169,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.2
+_FINAL_SUB1_MCODE_6,Reactome Gene Sets,6,R-HSA-9664433,Leishmania parasite growth and survival,,-6.8,1.8e+02,23,30211,169,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-4.2
+_FINAL_SUB1_MCODE_6,GO Biological Processes,19,GO:0007188,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,19_GO:0023052 signaling,-6.4,1.3e+02,20,30211,229,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.9
+_FINAL_SUB1_MCODE_6,Reactome Gene Sets,6,R-HSA-9658195,Leishmania infection,,-6.2,1.2e+02,19,30211,254,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.8
+_FINAL_SUB1_MCODE_6,KEGG Pathway,24,hsa04080,Neuroactive ligand-receptor interaction,,-5.8,86,16,30211,353,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.5
+_FINAL_SUB1_MCODE_6,Reactome Gene Sets,6,R-HSA-500792,GPCR ligand binding,,-5.4,65,14,30211,467,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-3.2
+_FINAL_SUB1_MCODE_6,Reactome Gene Sets,6,R-HSA-388396,GPCR downstream signalling,,-5,48,12,30211,629,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-2.9
+_FINAL_SUB1_MCODE_6,Reactome Gene Sets,6,R-HSA-372790,Signaling by GPCR,,-4.9,43,11,30211,704,3,3,1e+02,27,796|2691|7253,CALCA|GHRH|TSHR,-2.8
