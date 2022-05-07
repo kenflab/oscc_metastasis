@@ -10,6 +10,8 @@ The documentation and source code can be found at [https://github.com/kenflab/os
 
 [Spatial data summary](https://kenflab.github.io/oscc_metastasis/summary.html)
 
+[Bulk metascape results](https://kenflab.github.io/oscc_metastasis/data/bulk_RNAseq_metascape/AnalysisReport.html)
+
 ```markdown
 arviz 0.9.0
 numpy 1.19.5
