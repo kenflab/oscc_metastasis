@@ -8,9 +8,7 @@ The documentation and source code can be found at [https://github.com/kenflab/os
 
 
 
-[Spatial data summary](https://github.com/kenflab/oscc_metastasis/blob/main/summary.html)
-
-[Sample A](https://github.com/kenflab/oscc_metastasis/blob/main/data/A2_web_summary.html)
+[Spatial data summary](https://kenflab.github.io/oscc_metastasis//summary.html)
 
 ```markdown
 arviz 0.9.0
