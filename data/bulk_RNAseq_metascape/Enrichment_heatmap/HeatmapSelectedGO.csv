@@ -1,0 +1,21 @@
+GO,Description,_LogP_LN_meta,_LogP_N0
+hsa05200,Pathways in cancer ,-10.126385784488546,-5.536139753871609
+R-HSA-382551,Transport of small molecules,-10.945000074527982,-3.329059459206389
+R-HSA-9675108,Nervous system development,-25.304931907788777,-6.2136897279986805
+hsa04145,Phagosome,-5.579642803027891,-2.7634956301475104
+hsa04530,Tight junction ,-9.783485107845443,-2.7061001752780256
+hsa04640,Hematopoietic cell lineage ,-2.1815904356810365,-6.617622469892731
+hsa04810,Regulation of actin cytoskeleton ,-3.628874268580844,-7.728376563229576
+hsa04514,Cell adhesion molecules (CAMs) ,-5.441877090796269,-11.490067381551825
+R-HSA-109582,Hemostasis,-6.6284279774482995,-14.797498684510634
+R-HSA-390522,Striated Muscle Contraction,-12.00768975767868,0.0
+R-HSA-397014,Muscle contraction,-13.87883057687765,0.0
+hsa05418,Fluid shear stress and atherosclerosis,-10.272501550291418,0.0
+R-HSA-1474244,Extracellular matrix organization,-16.522295453588168,0.0
+R-HSA-8957275,Post-translational protein phosphorylation,-9.286956265904498,0.0
+hsa04650,Natural killer cell mediated cytotoxicity ,0.0,-16.60033084063583
+ko04658,Th1 and Th2 cell differentiation,0.0,-11.781121079505597
+hsa04060,Cytokine-cytokine receptor interaction ,0.0,-16.599840963125093
+hsa04660,T cell receptor signaling pathway ,0.0,-16.76598790242807
+R-HSA-1280215,Cytokine Signaling in Immune system,0.0,-28.15873177352303
+R-HSA-1280218,Adaptive Immune System,0.0,-29.671777029333448

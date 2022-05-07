@@ -1,0 +1,101 @@
+GO,Description,_LogP_LN_meta,_LogP_N0
+R-HSA-109582,Hemostasis,-6.6284279774482995,-14.797498684510634
+R-HSA-6798695,Neutrophil degranulation,-8.647238792014432,-8.57741981318014
+hsa04514,Cell adhesion molecules (CAMs) ,-5.441877090796269,-11.490067381551825
+R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",-5.789554122988304,-12.601922825656848
+R-HSA-5653656,Vesicle-mediated transport,-5.023801140481315,-7.3206225948484445
+hsa04666,Fc gamma R-mediated phagocytosis ,-5.224963952250212,-5.037662753599359
+R-HSA-9658195,Leishmania infection,-2.6498155549772866,-8.395775757259871
+R-HSA-2029480,Fcgamma receptor (FCGR) dependent phagocytosis,-2.768976443584046,-6.758812378051788
+hsa04640,Hematopoietic cell lineage ,-2.1815904356810365,-6.617622469892731
+hsa04010,MAPK signaling pathway ,-2.374554762760831,-4.553746027950014
+hsa05144,Malaria,-2.1714992737979344,-4.906293295578138
+hsa04810,Regulation of actin cytoskeleton ,-3.628874268580844,-7.728376563229576
+hsa05132,Salmonella infection,-3.4678243875982973,-6.079978590879702
+ko05202,Transcriptional misregulation in cancer,-3.7526875084594686,-4.063335563084042
+R-HSA-1500931,Cell-Cell communication,-5.609445088718286,-3.1902085216299736
+ko05146,Amoebiasis,-3.4025698025212905,-3.5799297959472067
+hsa04390,Hippo signaling pathway,-4.420327551403029,-2.594823877855023
+hsa04145,Phagosome,-5.579642803027891,-2.7634956301475104
+R-HSA-2173782,Binding and Uptake of Ligands by Scavenger Receptors,-5.210455961649713,-2.37575812477025
+hsa04530,Tight junction ,-9.783485107845443,-2.7061001752780256
+R-HSA-157118,Signaling by NOTCH,-2.218503772028634,-2.1553593110315843
+R-HSA-352230,Amino acid transport across the plasma membrane,-2.4123016362180665,-2.2938208076299813
+R-HSA-73887,Death Receptor Signalling,-2.530596475404473,-3.671591664601735
+hsa04520,Adherens junction ,-3.7528469436279344,-2.555433407066647
+hsa05205,Proteoglycans in cancer,-6.2021028331294135,-4.072423635213029
+hsa05200,Pathways in cancer ,-10.126385784488546,-5.536139753871609
+R-HSA-382551,Transport of small molecules,-10.945000074527982,-3.329059459206389
+R-HSA-9675108,Nervous system development,-25.304931907788777,-6.2136897279986805
+R-HSA-5357801,Programmed Cell Death,0.0,-5.731798585740129
+R-HSA-416476,G alpha (q) signalling events,0.0,-5.0209247302784545
+R-HSA-5668541,TNFR2 non-canonical NF-kB pathway,0.0,-4.397408615231872
+R-HSA-6783783,Interleukin-10 signaling,0.0,-5.671185262704819
+hsa04611,Platelet activation,0.0,-4.127823559918973
+R-HSA-168928,DDX58/IFIH1-mediated induction of interferon-alpha/beta,0.0,-5.044808793682084
+hsa04064,NF-kappa B signaling pathway,0.0,-4.707865975345761
+R-HSA-5675221,Negative regulation of MAPK pathway,0.0,-4.438452274160511
+R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,0.0,-5.536139753871609
+R-HSA-8877330,RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs),0.0,-5.591347884324468
+R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane,0.0,-4.332067331695805
+R-HSA-5218859,Regulated Necrosis,0.0,-4.026049686437268
+R-HSA-4086398,Ca2+ pathway,0.0,-3.684232158425965
+R-HSA-168898,Toll-like Receptor Cascades,0.0,-3.537960362718788
+R-HSA-9679506,SARS-CoV Infections,0.0,-3.9135821563792526
+R-HSA-983705,Signaling by the B Cell Receptor (BCR),0.0,-3.898267122358543
+hsa04114,Oocyte meiosis ,0.0,-3.8788732686932184
+R-HSA-3700989,Transcriptional Regulation by TP53,0.0,-3.810986598946515
+ko04024,cAMP signaling pathway,0.0,-2.6953340361793616
+R-HSA-9607240,FLT3 Signaling,0.0,-2.6311964306180906
+hsa04060,Cytokine-cytokine receptor interaction ,0.0,-16.599840963125093
+R-HSA-372790,Signaling by GPCR,0.0,-11.405147853975274
+hsa05169,Epstein-Barr virus infection,0.0,-11.667891374971704
+ko04658,Th1 and Th2 cell differentiation,0.0,-11.781121079505597
+hsa04660,T cell receptor signaling pathway ,0.0,-16.76598790242807
+hsa04650,Natural killer cell mediated cytotoxicity ,0.0,-16.60033084063583
+R-HSA-1280218,Adaptive Immune System,0.0,-29.671777029333448
+R-HSA-1280215,Cytokine Signaling in Immune system,0.0,-28.15873177352303
+R-HSA-9020591,Interleukin-12 signaling,0.0,-9.383328056964874
+R-HSA-451927,Interleukin-2 family signaling,0.0,-8.845703464128748
+R-HSA-180024,DARPP-32 events,0.0,-6.661828588864912
+R-HSA-202733,Cell surface interactions at the vascular wall,0.0,-7.840556710051959
+hsa04144,Endocytosis ,0.0,-7.6013104627612
+R-HSA-164952,The role of Nef in HIV-1 replication and disease pathogenesis,0.0,-6.308459272141638
+hsa01521,EGFR tyrosine kinase inhibitor resistance,-3.222077397539326,0.0
+hsanan03,glycosphingolipid biosynthesis,-3.418756405678949,0.0
+hsa04211,Longevity regulating pathway,-3.8474174226356714,0.0
+R-HSA-156584,Cytosolic sulfonation of small molecules,-3.5259712966921537,0.0
+R-HSA-9006931,Signaling by Nuclear Receptors,-3.5070451222394907,0.0
+R-HSA-6794362,Protein-protein interactions at synapses,-3.640406798095976,0.0
+M00004,Pentose phosphate pathway (Pentose phosphate cycle),-3.2895365763533047,0.0
+R-HSA-425397,"Transport of vitamins, nucleosides, and related molecules",-3.045967742778353,0.0
+R-HSA-8951671,RUNX3 regulates YAP1-mediated transcription,-3.3845510375962458,0.0
+R-HSA-2142850,Hyaluronan biosynthesis and export,-3.3533122038258947,0.0
+R-HSA-373752,Netrin-1 signaling,-3.0396191711204645,0.0
+hsa04668,TNF signaling pathway,-2.0439865762522587,0.0
+R-HSA-445355,Smooth Muscle Contraction,-2.326197582961246,0.0
+hsa04911,Insulin secretion,-2.4317736126691134,0.0
+R-HSA-3772470,Negative regulation of TCF-dependent signaling by WNT ligand antagonists,-4.505141784827554,0.0
+R-HSA-9663891,Selective autophagy,-4.021311639888068,0.0
+ko05224,Breast cancer,-4.57845539219806,0.0
+R-HSA-71387,Metabolism of carbohydrates,-5.14953785849306,0.0
+R-HSA-5668914,Diseases of metabolism,-4.774763355082451,0.0
+R-HSA-373760,L1CAM interactions,-5.913056534673516,0.0
+R-HSA-186797,Signaling by PDGF,-5.130725140270502,0.0
+hsa00565,Ether lipid metabolism ,-4.791800941221019,0.0
+hsa00590,Arachidonic acid metabolism ,-5.290640705204499,0.0
+R-HSA-196854,Metabolism of vitamins and cofactors,-5.4579879134221345,0.0
+hsa00010,Glycolysis / Gluconeogenesis ,-4.189721419103419,0.0
+hsa04931,insulin resistance,-4.922871490919156,0.0
+hsa04310,Wnt signaling pathway ,-5.972260717922657,0.0
+hsa05150,Staphylococcus aureus infection,-5.160793462694403,0.0
+R-HSA-2129379,Molecules associated with elastic fibres,-6.659078829086935,0.0
+R-HSA-556833,Metabolism of lipids,-7.895104082007274,0.0
+hsa05410,Hypertrophic cardiomyopathy (HCM) ,-7.85971950477678,0.0
+hsa03320,PPAR signaling pathway ,-6.001116145771361,0.0
+R-HSA-211945,Phase I - Functionalization of compounds,-6.540021487377572,0.0
+R-HSA-8957275,Post-translational protein phosphorylation,-9.286956265904498,0.0
+R-HSA-397014,Muscle contraction,-13.87883057687765,0.0
+R-HSA-390522,Striated Muscle Contraction,-12.00768975767868,0.0
+hsa05418,Fluid shear stress and atherosclerosis,-10.272501550291418,0.0
+R-HSA-1474244,Extracellular matrix organization,-16.522295453588168,0.0

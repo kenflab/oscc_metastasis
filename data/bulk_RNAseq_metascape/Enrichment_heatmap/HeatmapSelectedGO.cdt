@@ -1,0 +1,23 @@
+GID	GENE	NAME	GWEIGHT	LN_meta	N0
+AID				ARRY1X	ARRY2X
+EWEIGHT				1	1
+GENE3X	R-HSA-1280218	R-HSA-1280218: Adaptive Immune System	1	-0.000	1.000
+GENE16X	R-HSA-1280215	R-HSA-1280215: Cytokine Signaling in Immune system	1	-0.000	1.000
+GENE20X	hsa04660	hsa04660: T cell receptor signaling pathway 	1	-0.000	0.838
+GENE11X	hsa04060	hsa04060: Cytokine-cytokine receptor interaction 	1	-0.000	0.830
+GENE1X	ko04658	ko04658: Th1 and Th2 cell differentiation	1	-0.000	0.589
+GENE9X	hsa04650	hsa04650: Natural killer cell mediated cytotoxicity 	1	-0.000	0.830
+GENE19X	R-HSA-8957275	R-HSA-8957275: Post-translational protein phosphorylation	1	0.464	-0.000
+GENE18X	R-HSA-1474244	R-HSA-1474244: Extracellular matrix organization	1	0.826	-0.000
+GENE12X	hsa05418	hsa05418: Fluid shear stress and atherosclerosis	1	0.514	-0.000
+GENE6X	R-HSA-397014	R-HSA-397014: Muscle contraction	1	0.694	-0.000
+GENE8X	R-HSA-390522	R-HSA-390522: Striated Muscle Contraction	1	0.600	-0.000
+GENE5X	R-HSA-109582	R-HSA-109582: Hemostasis	1	0.331	0.740
+GENE10X	hsa04514	hsa04514: Cell adhesion molecules (CAMs) 	1	0.272	0.575
+GENE14X	hsa04810	hsa04810: Regulation of actin cytoskeleton 	1	0.181	0.386
+GENE17X	hsa04640	hsa04640: Hematopoietic cell lineage 	1	0.109	0.331
+GENE4X	hsa04530	hsa04530: Tight junction 	1	0.489	0.135
+GENE7X	hsa04145	hsa04145: Phagosome	1	0.279	0.138
+GENE2X	R-HSA-9675108	R-HSA-9675108: Nervous system development	1	1.000	0.311
+GENE13X	R-HSA-382551	R-HSA-382551: Transport of small molecules	1	0.547	0.166
+GENE15X	hsa05200	hsa05200: Pathways in cancer 	1	0.506	0.277

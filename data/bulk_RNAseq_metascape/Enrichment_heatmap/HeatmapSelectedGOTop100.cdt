@@ -1,0 +1,103 @@
+GID	GENE	NAME	GWEIGHT	LN_meta	N0
+AID				ARRY1X	ARRY2X
+EWEIGHT				1	1
+GENE100X	R-HSA-1474244	R-HSA-1474244: Extracellular matrix organization	1	0.826	-0.000
+GENE95X	hsa05418	hsa05418: Fluid shear stress and atherosclerosis	1	0.514	-0.000
+GENE9X	R-HSA-390522	R-HSA-390522: Striated Muscle Contraction	1	0.600	-0.000
+GENE30X	R-HSA-397014	R-HSA-397014: Muscle contraction	1	0.694	-0.000
+GENE72X	R-HSA-8957275	R-HSA-8957275: Post-translational protein phosphorylation	1	0.464	-0.000
+GENE64X	R-HSA-211945	R-HSA-211945: Phase I - Functionalization of compounds	1	0.327	-0.000
+GENE57X	hsa03320	hsa03320: PPAR signaling pathway 	1	0.300	-0.000
+GENE45X	hsa05410	hsa05410: Hypertrophic cardiomyopathy (HCM) 	1	0.393	-0.000
+GENE12X	R-HSA-556833	R-HSA-556833: Metabolism of lipids	1	0.395	-0.000
+GENE34X	R-HSA-2129379	R-HSA-2129379: Molecules associated with elastic fibres	1	0.333	-0.000
+GENE94X	hsa05150	hsa05150: Staphylococcus aureus infection	1	0.258	-0.000
+GENE93X	hsa04310	hsa04310: Wnt signaling pathway 	1	0.299	-0.000
+GENE92X	hsa04931	hsa04931: insulin resistance	1	0.246	-0.000
+GENE89X	hsa00010	hsa00010: Glycolysis / Gluconeogenesis 	1	0.209	-0.000
+GENE87X	R-HSA-196854	R-HSA-196854: Metabolism of vitamins and cofactors	1	0.273	-0.000
+GENE70X	hsa00590	hsa00590: Arachidonic acid metabolism 	1	0.265	-0.000
+GENE61X	hsa00565	hsa00565: Ether lipid metabolism 	1	0.240	-0.000
+GENE46X	R-HSA-186797	R-HSA-186797: Signaling by PDGF	1	0.257	-0.000
+GENE41X	R-HSA-373760	R-HSA-373760: L1CAM interactions	1	0.296	-0.000
+GENE31X	R-HSA-5668914	R-HSA-5668914: Diseases of metabolism	1	0.239	-0.000
+GENE29X	R-HSA-71387	R-HSA-71387: Metabolism of carbohydrates	1	0.257	-0.000
+GENE23X	ko05224	ko05224: Breast cancer	1	0.229	-0.000
+GENE2X	R-HSA-9663891	R-HSA-9663891: Selective autophagy	1	0.201	-0.000
+GENE3X	R-HSA-3772470	R-HSA-3772470: Negative regulation of TCF-dependent signaling by WNT ligand antagonists	1	0.225	-0.000
+GENE75X	hsa04911	hsa04911: Insulin secretion	1	0.122	-0.000
+GENE65X	R-HSA-445355	R-HSA-445355: Smooth Muscle Contraction	1	0.116	-0.000
+GENE69X	hsa04668	hsa04668: TNF signaling pathway	1	0.102	-0.000
+GENE99X	R-HSA-373752	R-HSA-373752: Netrin-1 signaling	1	0.152	-0.000
+GENE88X	R-HSA-2142850	R-HSA-2142850: Hyaluronan biosynthesis and export	1	0.168	-0.000
+GENE79X	R-HSA-8951671	R-HSA-8951671: RUNX3 regulates YAP1-mediated transcription	1	0.169	-0.000
+GENE54X	R-HSA-425397	R-HSA-425397: Transport of vitamins, nucleosides, and related molecules	1	0.152	-0.000
+GENE51X	M00004	M00004: Pentose phosphate pathway (Pentose phosphate cycle)	1	0.164	-0.000
+GENE48X	R-HSA-6794362	R-HSA-6794362: Protein-protein interactions at synapses	1	0.182	-0.000
+GENE26X	R-HSA-9006931	R-HSA-9006931: Signaling by Nuclear Receptors	1	0.175	-0.000
+GENE24X	R-HSA-156584	R-HSA-156584: Cytosolic sulfonation of small molecules	1	0.176	-0.000
+GENE13X	hsa04211	hsa04211: Longevity regulating pathway	1	0.192	-0.000
+GENE6X	hsanan03	hsanan03: glycosphingolipid biosynthesis	1	0.171	-0.000
+GENE11X	hsa01521	hsa01521: EGFR tyrosine kinase inhibitor resistance	1	0.161	-0.000
+GENE97X	R-HSA-164952	R-HSA-164952: The role of Nef in HIV-1 replication and disease pathogenesis	1	-0.000	0.315
+GENE86X	hsa04144	hsa04144: Endocytosis 	1	-0.000	0.380
+GENE85X	R-HSA-202733	R-HSA-202733: Cell surface interactions at the vascular wall	1	-0.000	0.392
+GENE56X	R-HSA-180024	R-HSA-180024: DARPP-32 events	1	-0.000	0.333
+GENE22X	R-HSA-451927	R-HSA-451927: Interleukin-2 family signaling	1	-0.000	0.442
+GENE43X	R-HSA-9020591	R-HSA-9020591: Interleukin-12 signaling	1	-0.000	0.469
+GENE17X	R-HSA-1280215	R-HSA-1280215: Cytokine Signaling in Immune system	1	-0.000	1.000
+GENE80X	R-HSA-1280218	R-HSA-1280218: Adaptive Immune System	1	-0.000	1.000
+GENE90X	hsa04650	hsa04650: Natural killer cell mediated cytotoxicity 	1	-0.000	0.830
+GENE73X	hsa04660	hsa04660: T cell receptor signaling pathway 	1	-0.000	0.838
+GENE47X	ko04658	ko04658: Th1 and Th2 cell differentiation	1	-0.000	0.589
+GENE44X	hsa05169	hsa05169: Epstein-Barr virus infection	1	-0.000	0.583
+GENE18X	R-HSA-372790	R-HSA-372790: Signaling by GPCR	1	-0.000	0.570
+GENE37X	hsa04060	hsa04060: Cytokine-cytokine receptor interaction 	1	-0.000	0.830
+GENE4X	R-HSA-9607240	R-HSA-9607240: FLT3 Signaling	1	-0.000	0.132
+GENE91X	ko04024	ko04024: cAMP signaling pathway	1	-0.000	0.135
+GENE66X	R-HSA-3700989	R-HSA-3700989: Transcriptional Regulation by TP53	1	-0.000	0.191
+GENE53X	hsa04114	hsa04114: Oocyte meiosis 	1	-0.000	0.194
+GENE52X	R-HSA-983705	R-HSA-983705: Signaling by the B Cell Receptor (BCR)	1	-0.000	0.195
+GENE40X	R-HSA-9679506	R-HSA-9679506: SARS-CoV Infections	1	-0.000	0.196
+GENE28X	R-HSA-168898	R-HSA-168898: Toll-like Receptor Cascades	1	-0.000	0.177
+GENE32X	R-HSA-4086398	R-HSA-4086398: Ca2+ pathway	1	-0.000	0.184
+GENE81X	R-HSA-5218859	R-HSA-5218859: Regulated Necrosis	1	-0.000	0.201
+GENE78X	R-HSA-1445148	R-HSA-1445148: Translocation of SLC2A4 (GLUT4) to the plasma membrane	1	-0.000	0.217
+GENE77X	R-HSA-8877330	R-HSA-8877330: RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)	1	-0.000	0.280
+GENE76X	R-HSA-5663202	R-HSA-5663202: Diseases of signal transduction by growth factor receptors and second messengers	1	-0.000	0.277
+GENE49X	R-HSA-5675221	R-HSA-5675221: Negative regulation of MAPK pathway	1	-0.000	0.222
+GENE38X	hsa04064	hsa04064: NF-kappa B signaling pathway	1	-0.000	0.235
+GENE36X	R-HSA-168928	R-HSA-168928: DDX58/IFIH1-mediated induction of interferon-alpha/beta	1	-0.000	0.252
+GENE20X	hsa04611	hsa04611: Platelet activation	1	-0.000	0.206
+GENE19X	R-HSA-6783783	R-HSA-6783783: Interleukin-10 signaling	1	-0.000	0.284
+GENE15X	R-HSA-5668541	R-HSA-5668541: TNFR2 non-canonical NF-kB pathway	1	-0.000	0.220
+GENE1X	R-HSA-416476	R-HSA-416476: G alpha (q) signalling events	1	-0.000	0.251
+GENE10X	R-HSA-5357801	R-HSA-5357801: Programmed Cell Death	1	-0.000	0.287
+GENE21X	R-HSA-9675108	R-HSA-9675108: Nervous system development	1	1.000	0.311
+GENE98X	R-HSA-382551	R-HSA-382551: Transport of small molecules	1	0.547	0.166
+GENE39X	hsa05200	hsa05200: Pathways in cancer 	1	0.506	0.277
+GENE60X	hsa05205	hsa05205: Proteoglycans in cancer	1	0.310	0.204
+GENE82X	hsa04520	hsa04520: Adherens junction 	1	0.188	0.128
+GENE42X	R-HSA-73887	R-HSA-73887: Death Receptor Signalling	1	0.127	0.184
+GENE25X	R-HSA-352230	R-HSA-352230: Amino acid transport across the plasma membrane	1	0.121	0.115
+GENE62X	R-HSA-157118	R-HSA-157118: Signaling by NOTCH	1	0.111	0.108
+GENE5X	hsa04530	hsa04530: Tight junction 	1	0.489	0.135
+GENE96X	R-HSA-2173782	R-HSA-2173782: Binding and Uptake of Ligands by Scavenger Receptors	1	0.261	0.119
+GENE59X	hsa04145	hsa04145: Phagosome	1	0.279	0.138
+GENE84X	hsa04390	hsa04390: Hippo signaling pathway	1	0.221	0.130
+GENE68X	ko05146	ko05146: Amoebiasis	1	0.170	0.179
+GENE74X	R-HSA-1500931	R-HSA-1500931: Cell-Cell communication	1	0.280	0.160
+GENE33X	ko05202	ko05202: Transcriptional misregulation in cancer	1	0.188	0.203
+GENE14X	hsa05132	hsa05132: Salmonella infection	1	0.173	0.304
+GENE16X	hsa04810	hsa04810: Regulation of actin cytoskeleton 	1	0.181	0.386
+GENE7X	hsa05144	hsa05144: Malaria	1	0.109	0.245
+GENE83X	hsa04010	hsa04010: MAPK signaling pathway 	1	0.119	0.228
+GENE71X	hsa04640	hsa04640: Hematopoietic cell lineage 	1	0.109	0.331
+GENE8X	R-HSA-2029480	R-HSA-2029480: Fcgamma receptor (FCGR) dependent phagocytosis	1	0.138	0.338
+GENE67X	R-HSA-9658195	R-HSA-9658195: Leishmania infection	1	0.132	0.420
+GENE35X	hsa04666	hsa04666: Fc gamma R-mediated phagocytosis 	1	0.261	0.252
+GENE58X	R-HSA-5653656	R-HSA-5653656: Vesicle-mediated transport	1	0.251	0.366
+GENE27X	R-HSA-9716542	R-HSA-9716542: Signaling by Rho GTPases, Miro GTPases and RHOBTB3	1	0.289	0.630
+GENE63X	hsa04514	hsa04514: Cell adhesion molecules (CAMs) 	1	0.272	0.575
+GENE50X	R-HSA-6798695	R-HSA-6798695: Neutrophil degranulation	1	0.432	0.429
+GENE55X	R-HSA-109582	R-HSA-109582: Hemostasis	1	0.331	0.740
