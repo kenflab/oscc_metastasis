@@ -7,10 +7,13 @@ We used no unpublished codes in bulk and single-cell analyses in this study.
 The documentation and source code can be found at [https://github.com/kenflab/oscc_metastasis](https://github.com/kenflab/oscc_metastasis)
 
 
+[Bulk metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
+
+[scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)
 
 [Spatial data summary](summary.md)
 
-[Bulk metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
+
 
 ```markdown
 arviz 0.9.0
