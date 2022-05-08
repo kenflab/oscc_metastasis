@@ -38,15 +38,21 @@
                 <img class='link' src='icon/PDF48.png' >
                 </a></td></tr>
                 
+                <tr><td>The top-level Gene Ontology biological processes can be viewed here.<br>
+                <a href="./Enrichment_heatmap/HeatmapSelectedGOParent.png"><img src="./Enrichment_heatmap/HeatmapSelectedGOParent.png" style="height:auto; width:auto; max-height:100px;"></a>
+                <a href='./Enrichment_heatmap/HeatmapSelectedGOParent.pdf' title='download PDF file'>
+                <img class='link' src='icon/PDF48.png' >
+                </a></td></tr>
+                
                 </table>
                 </div>
               </div><p/>The heatmap can be interactively viewed using <a href="http://jtreeview.sourceforge.net">JTreeView</a><sup>2</sup> (.cdt, .gtr and .atr files can be found in the Zip package).<p/>
       <h3>Gene Lists</h3>
-      User-provided gene identifiers are first converted into their corresponding H. sapiens Entrez gene IDs using the latest version of the database (last updated on 2021-05-01).  If multiple identifiers correspond to the same Entrez gene ID, they will be considered as a single Entrez gene ID in downstream analyses.   Each gene list is assigned a unique color, which is used throughout the analysis.   The gene lists are summarized in Table 1.<p/>
+      User-provided gene identifiers are first converted into their corresponding H. sapiens Entrez gene IDs using the latest version of the database (last updated on 2022-04-22).  If multiple identifiers correspond to the same Entrez gene ID, they will be considered as a single Entrez gene ID in downstream analyses.   Each gene list is assigned a unique color, which is used throughout the analysis.   The gene lists are summarized in Table 1.<p/>
           <div class="panel panel-info">
             <div class="panel-heading">Table 1. Statistics of input gene lists.</div>
             <div class="panel-body"><TABLE class="table">
-<THEAD>
+  <THEAD>
     <TR>
       <TH class="info">Name</TH>
       <TH class="info">Total</TH>
@@ -70,42 +76,12 @@
   </TBODY>
 </TABLE></div>
           </div>
- The overlaps between these lists are shown in a <a href="http://circos.ca">Circos</a><sup>3</sup> plot (Figure 2.a).  Another useful representation is to overlap genes based on their functions or shared pathways.  The overlaps between gene lists can be significantly improved by considering overlaps between genes sharing the same enriched ontology term(s)(Figure %d.b).  Only ontology terms that contain less than 100 genes are used to calculate functional overlaps to avoid linking genes using very general annotation. (We do not want to link all genes, only genes that belong to specific biological processes.)
-                      <div class="panel panel-info">
-                        <div class="panel-heading">Figure 2. Overlap between gene lists: (a) only at the gene level, where purple curves link identical genes; (b) including the shared term level, where blue curves link genes that belong to the same enriched ontology term.  The inner circle represents gene lists, where hits are arranged along the arc.  Genes that hit multiple lists are colored in dark orange, and genes unique to a list are shown in light orange.  The publication-quality version of the figures is included in the Zip package as a .svg file under the Overlap_circos folder (readable by popular web browsers and Adobe Illustrator).</div>
-                        <div class="panel-body">
 
-                        <table>
-                            <tr>
-                                <td>
-                                    <img src="./Overlap_circos/CircosOverlapByGene.png" style="width:500px;">
-                                </td>
-                                <td>
-                                    <img src="./Overlap_circos/CircosOverlapByGO.png" style="width:500px;">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td align='center'>
-                                    
-                                <a href='./Overlap_circos/CircosOverlapByGene.svg' title='download SVG file'>
-                                    <img class='link' src='icon/SVG48.png' height="48" width="48" >
-                                </a>
-                                </td>
-                                <td align='center'>
-                                    
-                                    <a href='./Overlap_circos/CircosOverlapByGO.svg' title='download SVG file'>
-                                        <img class='link' src='icon/SVG48.png' height="48" width="48" >
-                                    </a>
-                                </td>
-                            </tr>
-                        </table>
-                        </div>
-                      </div><p/>
 
 
 
               <h3>Pathway and Process Enrichment Analysis</h3>
-              For each given gene list, pathway and process enrichment analysis has been carried out with the following ontology sources: KEGG Functional Sets, KEGG Pathway and Reactome Gene Sets.  All genes in the genome have been used as the enrichment background. Terms with a p-value &lt; 0.01, a minimum count of 3, and an enrichment factor &gt; 1.5 (the enrichment factor is the ratio between the observed counts and the counts expected by chance) are collected and grouped into clusters based on their membership similarities.  More specifically, p-values are calculated based on the accumulative hypergeometric distribution<sup>4</sup>, and q-values are calculated using the Banjamini-Hochberg procedure to account for multiple testings<sup>5</sup>.  Kappa scores<sup>6</sup> are used as the similarity metric when performing hierachical clustering on the enriched terms, and sub-trees with a similarity of > 0.3 are considered a cluster.  The most statistically significant term within a cluster is chosen to represent the cluster.<p/>
+              For each given gene list, pathway and process enrichment analysis has been carried out with the following ontology sources: GO Biological Processes, KEGG Pathway and Reactome Gene Sets.  All genes in the genome have been used as the enrichment background. Terms with a p-value &lt; 0.01, a minimum count of 3, and an enrichment factor &gt; 1.5 (the enrichment factor is the ratio between the observed counts and the counts expected by chance) are collected and grouped into clusters based on their membership similarities.  More specifically, p-values are calculated based on the accumulative hypergeometric distribution<sup>3</sup>, and q-values are calculated using the Benjamini-Hochberg procedure to account for multiple testings<sup>4</sup>.  Kappa scores<sup>5</sup> are used as the similarity metric when performing hierachical clustering on the enriched terms, and sub-trees with a similarity of > 0.3 are considered a cluster.  The most statistically significant term within a cluster is chosen to represent the cluster.<p/>
               When multiple gene lists are provided, all lists are merged into one list called "_FINAL".  A term may be found enriched in several individual gene lists and/or in the _FINAL gene list, and the best p-value among them is chosen as the final p-value.  The pathway/process clusters that are found to be of interest (either shared or unique based on specific list enrichment) are used to prioritize the genes that fall into those clusters (membership is presented as 1/0 binary columns in the Excel spreadsheet).  Note that individual gene lists containing more than 3000 genes are ignored during the enrichment analysis to avoid superficial terms; this is because long gene lists are often not random and generally trigger too many terms that are not of direct relevance to the biology under study.<p/>
           <div class="panel panel-info">
           <div class="panel-heading">Table 2. Top 20 clusters with their representative enriched terms (one per cluster).  "Count" is the number of genes in the user-provided lists with membership in the given ontology term. "%" is the percentage of all of the user-provided genes that are found in the given ontology term (only input genes with at least one ontology term annotation are included in the calculation).  "Log10(P)" is the p-value in log base 10.  "Log10(q)" is the multi-test adjusted p-value in log base 10.  __PATTERN__ shows the color code used for the gene lists where the term is found statistically significant, i.e., multiple colors indicate a pathway/process that is shared across multiple lists.</div>
@@ -124,211 +100,211 @@
   </THEAD>
   <TBODY>
     <TR>
-      <TD><div style="background-color:#FFFFFF;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>R-HSA-1280218</TD>
-      <TD>Reactome Gene Sets</TD>
-      <TD>Adaptive Immune System</TD>
-      <TD>133</TD>
-      <TD>10.47</TD>
-      <TD>-41.45</TD>
-      <TD>-39.19</TD>
+      <TD><div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8 !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0022600</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>digestive system process</TD>
+      <TD>6</TD>
+      <TD>3.97</TD>
+      <TD>-5.74</TD>
+      <TD>-2.78</TD>
     </TR>
     <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>hsa04530</TD>
-      <TD>KEGG Pathway</TD>
-      <TD>Tight junction </TD>
-      <TD>49</TD>
-      <TD>3.86</TD>
-      <TD>-25.46</TD>
-      <TD>-23.81</TD>
-    </TR>
-    <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>R-HSA-9675108</TD>
-      <TD>Reactome Gene Sets</TD>
-      <TD>Nervous system development</TD>
-      <TD>165</TD>
-      <TD>12.99</TD>
-      <TD>-85.37</TD>
-      <TD>-81.85</TD>
-    </TR>
-    <TR>
-      <TD><div style="background-color:#FFFFFF;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>R-HSA-1280215</TD>
-      <TD>Reactome Gene Sets</TD>
-      <TD>Cytokine Signaling in Immune system</TD>
-      <TD>164</TD>
-      <TD>12.91</TD>
-      <TD>-69.20</TD>
-      <TD>-66.16</TD>
-    </TR>
-    <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>R-HSA-382551</TD>
-      <TD>Reactome Gene Sets</TD>
-      <TD>Transport of small molecules</TD>
-      <TD>112</TD>
-      <TD>8.82</TD>
-      <TD>-29.72</TD>
-      <TD>-27.90</TD>
-    </TR>
-    <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF;width:20px;height:20px;float:left;"></div></TD>
-      <TD>R-HSA-1474244</TD>
-      <TD>Reactome Gene Sets</TD>
-      <TD>Extracellular matrix organization</TD>
-      <TD>82</TD>
-      <TD>6.46</TD>
-      <TD>-40.27</TD>
-      <TD>-38.06</TD>
-    </TR>
-    <TR>
-      <TD><div style="background-color:#FFFFFF;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>hsa04660</TD>
-      <TD>KEGG Pathway</TD>
-      <TD>T cell receptor signaling pathway </TD>
-      <TD>39</TD>
-      <TD>3.07</TD>
-      <TD>-25.36</TD>
-      <TD>-23.73</TD>
-    </TR>
-    <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>hsa04640</TD>
-      <TD>KEGG Pathway</TD>
-      <TD>Hematopoietic cell lineage </TD>
-      <TD>36</TD>
-      <TD>2.83</TD>
-      <TD>-23.11</TD>
-      <TD>-21.60</TD>
-    </TR>
-    <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF;width:20px;height:20px;float:left;"></div></TD>
-      <TD>hsa05418</TD>
-      <TD>KEGG Pathway</TD>
-      <TD>Fluid shear stress and atherosclerosis</TD>
-      <TD>51</TD>
-      <TD>4.02</TD>
-      <TD>-30.66</TD>
-      <TD>-28.81</TD>
-    </TR>
-    <TR>
-      <TD><div style="background-color:#FFFFFF;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>hsa04650</TD>
-      <TD>KEGG Pathway</TD>
-      <TD>Natural killer cell mediated cytotoxicity </TD>
-      <TD>38</TD>
-      <TD>2.99</TD>
-      <TD>-19.73</TD>
-      <TD>-18.37</TD>
-    </TR>
-    <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>R-HSA-109582</TD>
-      <TD>Reactome Gene Sets</TD>
-      <TD>Hemostasis</TD>
-      <TD>114</TD>
-      <TD>8.98</TD>
-      <TD>-37.66</TD>
-      <TD>-35.60</TD>
-    </TR>
-    <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF;width:20px;height:20px;float:left;"></div></TD>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
       <TD>R-HSA-397014</TD>
       <TD>Reactome Gene Sets</TD>
       <TD>Muscle contraction</TD>
-      <TD>60</TD>
-      <TD>4.72</TD>
-      <TD>-32.54</TD>
-      <TD>-30.63</TD>
+      <TD>8</TD>
+      <TD>16.33</TD>
+      <TD>-8.99</TD>
+      <TD>-4.73</TD>
     </TR>
     <TR>
-      <TD><div style="background-color:#FFFFFF;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>hsa04060</TD>
-      <TD>KEGG Pathway</TD>
-      <TD>Cytokine-cytokine receptor interaction </TD>
-      <TD>75</TD>
-      <TD>5.91</TD>
-      <TD>-37.49</TD>
-      <TD>-35.46</TD>
+      <TD><div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8 !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0006835</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>dicarboxylic acid transport</TD>
+      <TD>5</TD>
+      <TD>3.31</TD>
+      <TD>-4.66</TD>
+      <TD>-2.15</TD>
     </TR>
     <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>hsa05200</TD>
-      <TD>KEGG Pathway</TD>
-      <TD>Pathways in cancer </TD>
-      <TD>105</TD>
-      <TD>8.27</TD>
-      <TD>-50.47</TD>
-      <TD>-47.65</TD>
-    </TR>
-    <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF;width:20px;height:20px;float:left;"></div></TD>
-      <TD>R-HSA-390522</TD>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>R-HSA-2168880</TD>
       <TD>Reactome Gene Sets</TD>
-      <TD>Striated Muscle Contraction</TD>
-      <TD>21</TD>
-      <TD>1.65</TD>
-      <TD>-18.87</TD>
-      <TD>-17.52</TD>
+      <TD>Scavenging of heme from plasma</TD>
+      <TD>3</TD>
+      <TD>6.12</TD>
+      <TD>-5.94</TD>
+      <TD>-2.94</TD>
     </TR>
     <TR>
-      <TD><div style="background-color:#FFFFFF;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>ko04658</TD>
-      <TD>KEGG Pathway</TD>
-      <TD>Th1 and Th2 cell differentiation</TD>
-      <TD>38</TD>
-      <TD>2.99</TD>
-      <TD>-26.38</TD>
-      <TD>-24.67</TD>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0016048</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>detection of temperature stimulus</TD>
+      <TD>5</TD>
+      <TD>3.31</TD>
+      <TD>-6.94</TD>
+      <TD>-3.34</TD>
     </TR>
     <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>hsa04810</TD>
-      <TD>KEGG Pathway</TD>
-      <TD>Regulation of actin cytoskeleton </TD>
-      <TD>64</TD>
-      <TD>5.04</TD>
-      <TD>-34.42</TD>
-      <TD>-32.47</TD>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0032989</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>cellular component morphogenesis</TD>
+      <TD>8</TD>
+      <TD>16.33</TD>
+      <TD>-5.43</TD>
+      <TD>-2.55</TD>
     </TR>
     <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF;width:20px;height:20px;float:left;"></div></TD>
-      <TD>R-HSA-8957275</TD>
+      <TD><div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8 !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>R-HSA-382551</TD>
       <TD>Reactome Gene Sets</TD>
-      <TD>Post-translational protein phosphorylation</TD>
-      <TD>21</TD>
-      <TD>1.65</TD>
-      <TD>-7.87</TD>
-      <TD>-7.01</TD>
+      <TD>Transport of small molecules</TD>
+      <TD>17</TD>
+      <TD>11.26</TD>
+      <TD>-6.79</TD>
+      <TD>-3.31</TD>
     </TR>
     <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>hsa04514</TD>
-      <TD>KEGG Pathway</TD>
-      <TD>Cell adhesion molecules (CAMs) </TD>
-      <TD>46</TD>
-      <TD>3.62</TD>
-      <TD>-26.08</TD>
-      <TD>-24.38</TD>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0006091</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>generation of precursor metabolites and energy</TD>
+      <TD>11</TD>
+      <TD>7.28</TD>
+      <TD>-5.29</TD>
+      <TD>-2.48</TD>
     </TR>
     <TR>
-      <TD><div style="background-color:#E41A1C;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8;width:20px;height:20px;float:left;"></div></TD>
-      <TD>hsa04145</TD>
+      <TD><div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8 !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0034587</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>piRNA metabolic process</TD>
+      <TD>4</TD>
+      <TD>2.65</TD>
+      <TD>-5.23</TD>
+      <TD>-2.45</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0140448</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>signaling receptor ligand precursor processing</TD>
+      <TD>4</TD>
+      <TD>8.16</TD>
+      <TD>-6.41</TD>
+      <TD>-3.26</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8 !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>R-HSA-3781865</TD>
+      <TD>Reactome Gene Sets</TD>
+      <TD>Diseases of glycosylation</TD>
+      <TD>5</TD>
+      <TD>3.31</TD>
+      <TD>-3.11</TD>
+      <TD>-1.07</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0005977</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>glycogen metabolic process</TD>
+      <TD>3</TD>
+      <TD>1.99</TD>
+      <TD>-2.75</TD>
+      <TD>-0.79</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8 !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>hsa05217</TD>
       <TD>KEGG Pathway</TD>
-      <TD>Phagosome</TD>
-      <TD>49</TD>
-      <TD>3.86</TD>
-      <TD>-25.71</TD>
-      <TD>-24.05</TD>
+      <TD>Basal cell carcinoma</TD>
+      <TD>5</TD>
+      <TD>3.31</TD>
+      <TD>-4.79</TD>
+      <TD>-2.23</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0014823</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>response to activity</TD>
+      <TD>3</TD>
+      <TD>6.12</TD>
+      <TD>-3.77</TD>
+      <TD>-1.56</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8 !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0055074</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>calcium ion homeostasis</TD>
+      <TD>7</TD>
+      <TD>4.64</TD>
+      <TD>-4.05</TD>
+      <TD>-1.75</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0045109</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>intermediate filament organization</TD>
+      <TD>5</TD>
+      <TD>10.20</TD>
+      <TD>-7.06</TD>
+      <TD>-3.34</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#377EB8 !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0007610</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>behavior</TD>
+      <TD>12</TD>
+      <TD>7.95</TD>
+      <TD>-4.48</TD>
+      <TD>-2.04</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0005975</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>carbohydrate metabolic process</TD>
+      <TD>11</TD>
+      <TD>7.28</TD>
+      <TD>-4.72</TD>
+      <TD>-2.19</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>GO:0007218</TD>
+      <TD>GO Biological Processes</TD>
+      <TD>neuropeptide signaling pathway</TD>
+      <TD>5</TD>
+      <TD>10.20</TD>
+      <TD>-6.03</TD>
+      <TD>-3.00</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:20px;height:20px;float:left;"></div> <div style="background-color:#FFFFFF !important;width:20px;height:20px;float:left;"></div></TD>
+      <TD>hsa04020</TD>
+      <TD>KEGG Pathway</TD>
+      <TD>Calcium signaling pathway</TD>
+      <TD>10</TD>
+      <TD>6.62</TD>
+      <TD>-6.41</TD>
+      <TD>-3.26</TD>
     </TR>
   </TBODY>
 </TABLE></div>
               </div><p/>
-                  To further capture the relationships between the terms, a subset of enriched terms have been selected and rendered as a network plot, where terms with a similarity &gt; 0.3 are connected by edges.  We select the terms with the best p-values from each of the 20 clusters, with the constraint that there are no more than 15 terms per cluster and no more than 250 terms in total.  The network is visualized using <a href="http://www.cytoscape.org">Cytoscape</a><sup>7</sup>, where each node represents an enriched term and is colored first by its cluster ID (Figure 3.a) and then by its p-value (Figure 3.b).  These networks can be interactively viewed in Cytoscape through the .cys files (contained in the Zip package, which also contains a publication-quality version as a PDF) or within a browser by clicking on the web icon.  For clarity, term labels are only shown for one term per cluster, so it is recommended to use Cytoscape or a browser to visualize the network in order to inspect all node labels.  We can also export the network into a PDF file within Cytoscape, and then edit the labels using Adobe Illustrator for publication purposes.  To switch off all labels, delete the "Label" mapping under the "Style" tab within Cytoscape, and then export the network view.<p/>
+                  To further capture the relationships between the terms, a subset of enriched terms have been selected and rendered as a network plot, where terms with a similarity &gt; 0.3 are connected by edges.  We select the terms with the best p-values from each of the 20 clusters, with the constraint that there are no more than 15 terms per cluster and no more than 250 terms in total.  The network is visualized using <a href="http://www.cytoscape.org">Cytoscape</a><sup>6</sup>, where each node represents an enriched term and is colored first by its cluster ID (Figure 2.a) and then by its p-value (Figure 2.b).  These networks can be interactively viewed in Cytoscape through the .cys files (contained in the Zip package, which also contains a publication-quality version as a PDF) or within a browser by clicking on the web icon.  For clarity, term labels are only shown for one term per cluster, so it is recommended to use Cytoscape or a browser to visualize the network in order to inspect all node labels.  We can also export the network into a PDF file within Cytoscape, and then edit the labels using Adobe Illustrator for publication purposes.  To switch off all labels, delete the "Label" mapping under the "Style" tab within Cytoscape, and then export the network view.<p/>
                   <div class="panel panel-info">
-                    <div class="panel-heading">Figure 3. Network of enriched terms: (a) colored by cluster ID, where nodes that share the same cluster ID are typically close to each other; (b) colored by p-value, where terms containing more genes tend to have a more significant p-value.</div>
+                    <div class="panel-heading">Figure 2. Network of enriched terms: (a) colored by cluster ID, where nodes that share the same cluster ID are typically close to each other; (b) colored by p-value, where terms containing more genes tend to have a more significant p-value.</div>
                     <div class="panel-body">
                     <table>
                         <tr>
@@ -381,9 +357,9 @@
                     </div>
 
                   </div><p/>
-               In the case of when multiple gene lists are provided, the nodes are represented as pie charts, where the size of a pie is proportional to the total number of hits that fall into that specific term.  The pie charts are color-coded based on the gene list identities, where the size of a slice represents the percentage of genes under the term that originated from the corresponding gene list.  This plot is particularly useful for visualizing whether the terms are shared by multiple lists or unique to a specific list, as well as for understanding how these terms associate with each other within the biological context of the meta study (Figure 4).<p/>
+               In the case of when multiple gene lists are provided, the nodes are represented as pie charts, where the size of a pie is proportional to the total number of hits that fall into that specific term.  The pie charts are color-coded based on the gene list identities, where the size of a slice represents the percentage of genes under the term that originated from the corresponding gene list.  This plot is particularly useful for visualizing whether the terms are shared by multiple lists or unique to a specific list, as well as for understanding how these terms associate with each other within the biological context of the meta study (Figure 3).<p/>
                       <div class="panel panel-info">
-                        <div class="panel-heading">Figure 4. Network of enriched terms represented as pie charts, where pies are color-coded based on the identities of the gene lists.</div>
+                        <div class="panel-heading">Figure 3. Network of enriched terms represented as pie charts, where pies are color-coded based on the identities of the gene lists.</div>
                         <div class="panel-body">
                         <table>
                             <tr>
@@ -415,14 +391,436 @@
                         </div>
                       </div><p/>
 <h3>Protein-protein Interaction Enrichment Analysis</h3>
-For each given gene list, protein-protein interaction enrichment analysis has been carried out with the following databases: STRING<sup>8</sup>, BioGrid<sup>9</sup>, OmniPath<sup>10</sup>, InWeb_IM<sup>11</sup>.Only physical interactions in STRING (physical score &gt 0.132) and BioGrid are used (<a href="http://metascape.org/blog/?p=219">details</a>).  The resultant network contains the subset of proteins that form physical interactions with at least one other member in the list.  If the network contains between 100 and 1000 proteins, the Molecular Complex Detection (MCODE) algorithm<sup>12</sup> has been applied to identify densely connected network components.  
+For each given gene list, protein-protein interaction enrichment analysis has been carried out with the following databases: STRING<sup>7</sup>, BioGrid<sup>8</sup>, OmniPath<sup>9</sup>, InWeb_IM<sup>10</sup>.Only physical interactions in STRING (physical score &gt 0.132) and BioGrid are used (<a href="http://metascape.org/blog/?p=219">details</a>).  The resultant network contains the subset of proteins that form physical interactions with at least one other member in the list.  If the network contains between 3 and 500 proteins, the Molecular Complex Detection (MCODE) algorithm<sup>11</sup> has been applied to identify densely connected network components.  The MCODE networks identified for individual gene lists have been gathered and are shown in Figure 4.<p/>
+
+                    Pathway and process enrichment analysis has been applied to each MCODE component independently, and the three best-scoring terms by p-value have been retained as the functional description of the corresponding components, shown in the tables underneath corresponding network plots within Figure 4.<p/>
+
+      <div class="panel panel-info">
+        <div class="panel-heading">Figure 4. Protein-protein interaction network and MCODE components identified in the gene lists.</div>
+        <div class="panel-body">
+        
+                <table border-collapse='collapse'>
+                <tr><td><img src="./Enrichment_PPI/LN_meta_PPIColorByCluster.png" style="width:500px;"></td><td width="10px"></td><td><img src="./Enrichment_PPI/LN_meta_MCODE_ALL_PPIColorByCluster.png" style="width:500px;"></td></tr>
+                <tr><td align="center"><a href='./Enrichment_PPI/LN_meta_PPIColorByCluster.pdf' title='download PDF file'>
+                        <img class='link' src='icon/PDF48.png' >
+                        </a>
+                     
+                        <a href='./Enrichment_PPI/MCODE_PPI.cys' title='download CYS file'>
+                        <img class='link' src='icon/CYS48.png' >
+                        </a>
+                    
+                        
+                    
+                        
+                        <a href='Enrichment_PPI/PPINetwork.html?Network=LN_meta_PPIColorByCluster&Style=PPIColorByClusterNoLabel&isPPI=True' title='interactive cytoscape' target='_blank'>
+                        <img class='link' src='icon/WEB_CYS48.png' >
+                        </a>
+                        
+                    </td><td width="10px"></td><td align="center"><a href='./Enrichment_PPI/LN_meta_MCODE_ALL_PPIColorByCluster.pdf' title='download PDF file'>
+                        <img class='link' src='icon/PDF48.png' >
+                        </a>
+                     
+                        <a href='./Enrichment_PPI/MCODE_PPI.cys' title='download CYS file'>
+                        <img class='link' src='icon/CYS48.png' >
+                        </a>
+                    
+                        
+                    
+                        
+                        <a href='Enrichment_PPI/PPINetwork.html?Network=LN_meta_MCODE_ALL_PPIColorByCluster&Style=PPIColorByCluster&isPPI=True' title='interactive cytoscape' target='_blank'>
+                        <img class='link' src='icon/WEB_CYS48.png' >
+                        </a>
+                        
+                    </td></tr>
+                <tr><td align="center" valign="top"><h4>LN_meta (Full Connection) </h4><TABLE class="table">
+  <THEAD>
+    <TR>
+      <TH class="info">GO</TH>
+      <TH class="info">Description</TH>
+      <TH class="info">Log10(P)</TH>
+    </TR>
+  </THEAD>
+  <TBODY>
+    <TR>
+      <TD>R-HSA-397014</TD>
+      <TD>Muscle contraction</TD>
+      <TD>-7.4</TD>
+    </TR>
+    <TR>
+      <TD>GO:0043462</TD>
+      <TD>regulation of ATP-dependent activity</TD>
+      <TD>-5.9</TD>
+    </TR>
+    <TR>
+      <TD>R-HSA-390522</TD>
+      <TD>Striated Muscle Contraction</TD>
+      <TD>-5.7</TD>
+    </TR>
+  </TBODY>
+</TABLE></td><td width="10px"></td><td align="center" valign="top"><h4>LN_meta (Keep MCODE Nodes Only) </h4><TABLE class="table">
+  <THEAD>
+    <TR>
+      <TH class="info">Color</TH>
+      <TH class="info">MCODE</TH>
+      <TH class="info">GO</TH>
+      <TH class="info">Description</TH>
+      <TH class="info">Log10(P)</TH>
+    </TR>
+  </THEAD>
+  <TBODY>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>R-HSA-397014</TD>
+      <TD>Muscle contraction</TD>
+      <TD>-15.3</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>R-HSA-390522</TD>
+      <TD>Striated Muscle Contraction</TD>
+      <TD>-10.2</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>GO:0006936</TD>
+      <TD>muscle contraction</TD>
+      <TD>-9.3</TD>
+    </TR>
+  </TBODY>
+</TABLE></td></tr>
+                </table>
+                <table border-collapse='collapse'>
+                <tr><td><img src="./Enrichment_PPI/N0_PPIColorByCluster.png" style="width:500px;"></td><td width="10px"></td><td><img src="./Enrichment_PPI/N0_MCODE_ALL_PPIColorByCluster.png" style="width:500px;"></td></tr>
+                <tr><td align="center"><a href='./Enrichment_PPI/N0_PPIColorByCluster.pdf' title='download PDF file'>
+                        <img class='link' src='icon/PDF48.png' >
+                        </a>
+                     
+                        <a href='./Enrichment_PPI/MCODE_PPI.cys' title='download CYS file'>
+                        <img class='link' src='icon/CYS48.png' >
+                        </a>
+                    
+                        
+                    
+                        
+                        <a href='Enrichment_PPI/PPINetwork.html?Network=N0_PPIColorByCluster&Style=PPIColorByClusterNoLabel&isPPI=True' title='interactive cytoscape' target='_blank'>
+                        <img class='link' src='icon/WEB_CYS48.png' >
+                        </a>
+                        
+                    </td><td width="10px"></td><td align="center"><a href='./Enrichment_PPI/N0_MCODE_ALL_PPIColorByCluster.pdf' title='download PDF file'>
+                        <img class='link' src='icon/PDF48.png' >
+                        </a>
+                     
+                        <a href='./Enrichment_PPI/MCODE_PPI.cys' title='download CYS file'>
+                        <img class='link' src='icon/CYS48.png' >
+                        </a>
+                    
+                        
+                    
+                        
+                        <a href='Enrichment_PPI/PPINetwork.html?Network=N0_MCODE_ALL_PPIColorByCluster&Style=PPIColorByCluster&isPPI=True' title='interactive cytoscape' target='_blank'>
+                        <img class='link' src='icon/WEB_CYS48.png' >
+                        </a>
+                        
+                    </td></tr>
+                <tr><td align="center" valign="top"><h4>N0 (Full Connection) </h4><TABLE class="table">
+  <THEAD>
+    <TR>
+      <TH class="info">GO</TH>
+      <TH class="info">Description</TH>
+      <TH class="info">Log10(P)</TH>
+    </TR>
+  </THEAD>
+  <TBODY>
+    <TR>
+      <TD>GO:0022600</TD>
+      <TD>digestive system process</TD>
+      <TD>-5.8</TD>
+    </TR>
+    <TR>
+      <TD>GO:0030277</TD>
+      <TD>maintenance of gastrointestinal epithelium</TD>
+      <TD>-5.8</TD>
+    </TR>
+    <TR>
+      <TD>GO:0048871</TD>
+      <TD>multicellular organismal homeostasis</TD>
+      <TD>-5.4</TD>
+    </TR>
+  </TBODY>
+</TABLE></td><td width="10px"></td><td align="center" valign="top"><h4>N0 (Keep MCODE Nodes Only) </h4><TABLE class="table">
+  <THEAD>
+    <TR>
+      <TH class="info">Color</TH>
+      <TH class="info">MCODE</TH>
+      <TH class="info">GO</TH>
+      <TH class="info">Description</TH>
+      <TH class="info">Log10(P)</TH>
+    </TR>
+  </THEAD>
+  <TBODY>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>R-HSA-9660821</TD>
+      <TD>ADORA2B mediated anti-inflammatory cytokines production</TD>
+      <TD>-7.1</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>GO:0007189</TD>
+      <TD>adenylate cyclase-activating G protein-coupled receptor signaling pathway</TD>
+      <TD>-7.0</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>R-HSA-418555</TD>
+      <TD>G alpha (s) signalling events</TD>
+      <TD>-6.9</TD>
+    </TR>
+  </TBODY>
+</TABLE></td></tr>
+                </table>
+                <table border-collapse='collapse'>
+                <tr><td><img src="./Enrichment_PPI/_FINAL_PPIColorByCounts.png" style="width:500px;"></td><td width="10px"></td><td><img src="./Enrichment_PPI/_FINAL_MCODE_ALL_PPIColorByCounts.png" style="width:500px;"></td></tr>
+                <tr><td align="center"><a href='./Enrichment_PPI/_FINAL_PPIColorByCounts.pdf' title='download PDF file'>
+                        <img class='link' src='icon/PDF48.png' >
+                        </a>
+                     
+                        <a href='./Enrichment_PPI/MCODE_PPI.cys' title='download CYS file'>
+                        <img class='link' src='icon/CYS48.png' >
+                        </a>
+                    
+                        
+                    
+                        
+                        <a href='Enrichment_PPI/PPINetwork.html?Network=_FINAL_PPIColorByCluster&Style=PPIColorByCountsNoLabel&isPPI=True' title='interactive cytoscape' target='_blank'>
+                        <img class='link' src='icon/WEB_CYS48.png' >
+                        </a>
+                        
+                    </td><td width="10px"></td><td align="center"><a href='./Enrichment_PPI/_FINAL_MCODE_ALL_PPIColorByCounts.pdf' title='download PDF file'>
+                        <img class='link' src='icon/PDF48.png' >
+                        </a>
+                     
+                        <a href='./Enrichment_PPI/MCODE_PPI.cys' title='download CYS file'>
+                        <img class='link' src='icon/CYS48.png' >
+                        </a>
+                    
+                        
+                    
+                        
+                        <a href='Enrichment_PPI/PPINetwork.html?Network=_FINAL_MCODE_ALL_PPIColorByCluster&Style=PPIColorByCounts&isPPI=True' title='interactive cytoscape' target='_blank'>
+                        <img class='link' src='icon/WEB_CYS48.png' >
+                        </a>
+                        
+                    </td></tr>
+                <tr><td align="center" valign="top"><h4>All lists merged  Colored by Counts(Full Connection) </h4><TABLE class="table">
+  <THEAD>
+    <TR>
+      <TH class="info">GO</TH>
+      <TH class="info">Description</TH>
+      <TH class="info">Log10(P)</TH>
+    </TR>
+  </THEAD>
+  <TBODY>
+    <TR>
+      <TD>GO:0044057</TD>
+      <TD>regulation of system process</TD>
+      <TD>-6.5</TD>
+    </TR>
+    <TR>
+      <TD>R-HSA-397014</TD>
+      <TD>Muscle contraction</TD>
+      <TD>-6.1</TD>
+    </TR>
+    <TR>
+      <TD>R-HSA-500792</TD>
+      <TD>GPCR ligand binding</TD>
+      <TD>-6.1</TD>
+    </TR>
+  </TBODY>
+</TABLE></td><td width="10px"></td><td align="center" valign="top"><h4>All lists merged  Colored by Counts(Keep MCODE Nodes Only) </h4><TABLE class="table">
+  <THEAD>
+    <TR>
+      <TH class="info">Color</TH>
+      <TH class="info">MCODE</TH>
+      <TH class="info">GO</TH>
+      <TH class="info">Description</TH>
+      <TH class="info">Log10(P)</TH>
+    </TR>
+  </THEAD>
+  <TBODY>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>R-HSA-397014</TD>
+      <TD>Muscle contraction</TD>
+      <TD>-15.3</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>R-HSA-390522</TD>
+      <TD>Striated Muscle Contraction</TD>
+      <TD>-10.2</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>GO:0006936</TD>
+      <TD>muscle contraction</TD>
+      <TD>-9.3</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#4DAF4A !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_3</TD>
+      <TD>R-HSA-9660821</TD>
+      <TD>ADORA2B mediated anti-inflammatory cytokines production</TD>
+      <TD>-7.1</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#4DAF4A !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_3</TD>
+      <TD>GO:0007189</TD>
+      <TD>adenylate cyclase-activating G protein-coupled receptor signaling pathway</TD>
+      <TD>-7.0</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#4DAF4A !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_3</TD>
+      <TD>R-HSA-418555</TD>
+      <TD>G alpha (s) signalling events</TD>
+      <TD>-6.9</TD>
+    </TR>
+  </TBODY>
+</TABLE></td></tr>
+                </table>
+                <table border-collapse='collapse'>
+                <tr><td><img src="./Enrichment_PPI/_FINAL_PPIColorByCluster.png" style="width:500px;"></td><td width="10px"></td><td><img src="./Enrichment_PPI/_FINAL_MCODE_ALL_PPIColorByCluster.png" style="width:500px;"></td></tr>
+                <tr><td align="center"><a href='./Enrichment_PPI/_FINAL_PPIColorByCluster.pdf' title='download PDF file'>
+                        <img class='link' src='icon/PDF48.png' >
+                        </a>
+                     
+                        <a href='./Enrichment_PPI/MCODE_PPI.cys' title='download CYS file'>
+                        <img class='link' src='icon/CYS48.png' >
+                        </a>
+                    
+                        
+                    
+                        
+                        <a href='Enrichment_PPI/PPINetwork.html?Network=_FINAL_PPIColorByCluster&Style=PPIColorByClusterNoLabel&isPPI=True' title='interactive cytoscape' target='_blank'>
+                        <img class='link' src='icon/WEB_CYS48.png' >
+                        </a>
+                        
+                    </td><td width="10px"></td><td align="center"><a href='./Enrichment_PPI/_FINAL_MCODE_ALL_PPIColorByCluster.pdf' title='download PDF file'>
+                        <img class='link' src='icon/PDF48.png' >
+                        </a>
+                     
+                        <a href='./Enrichment_PPI/MCODE_PPI.cys' title='download CYS file'>
+                        <img class='link' src='icon/CYS48.png' >
+                        </a>
+                    
+                        
+                    
+                        
+                        <a href='Enrichment_PPI/PPINetwork.html?Network=_FINAL_MCODE_ALL_PPIColorByCluster&Style=PPIColorByCluster&isPPI=True' title='interactive cytoscape' target='_blank'>
+                        <img class='link' src='icon/WEB_CYS48.png' >
+                        </a>
+                        
+                    </td></tr>
+                <tr><td align="center" valign="top"><h4>All lists merged  Colored by Cluster(Full Connection) </h4><TABLE class="table">
+  <THEAD>
+    <TR>
+      <TH class="info">GO</TH>
+      <TH class="info">Description</TH>
+      <TH class="info">Log10(P)</TH>
+    </TR>
+  </THEAD>
+  <TBODY>
+    <TR>
+      <TD>GO:0044057</TD>
+      <TD>regulation of system process</TD>
+      <TD>-6.5</TD>
+    </TR>
+    <TR>
+      <TD>R-HSA-397014</TD>
+      <TD>Muscle contraction</TD>
+      <TD>-6.1</TD>
+    </TR>
+    <TR>
+      <TD>R-HSA-500792</TD>
+      <TD>GPCR ligand binding</TD>
+      <TD>-6.1</TD>
+    </TR>
+  </TBODY>
+</TABLE></td><td width="10px"></td><td align="center" valign="top"><h4>All lists merged  Colored by Cluster(Keep MCODE Nodes Only) </h4><TABLE class="table">
+  <THEAD>
+    <TR>
+      <TH class="info">Color</TH>
+      <TH class="info">MCODE</TH>
+      <TH class="info">GO</TH>
+      <TH class="info">Description</TH>
+      <TH class="info">Log10(P)</TH>
+    </TR>
+  </THEAD>
+  <TBODY>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>R-HSA-397014</TD>
+      <TD>Muscle contraction</TD>
+      <TD>-15.3</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>R-HSA-390522</TD>
+      <TD>Striated Muscle Contraction</TD>
+      <TD>-10.2</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#E41A1C !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_1</TD>
+      <TD>GO:0006936</TD>
+      <TD>muscle contraction</TD>
+      <TD>-9.3</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#4DAF4A !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_3</TD>
+      <TD>R-HSA-9660821</TD>
+      <TD>ADORA2B mediated anti-inflammatory cytokines production</TD>
+      <TD>-7.1</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#4DAF4A !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_3</TD>
+      <TD>GO:0007189</TD>
+      <TD>adenylate cyclase-activating G protein-coupled receptor signaling pathway</TD>
+      <TD>-7.0</TD>
+    </TR>
+    <TR>
+      <TD><div style="background-color:#4DAF4A !important;width:40px;height:20px;"></div></TD>
+      <TD>MCODE_3</TD>
+      <TD>R-HSA-418555</TD>
+      <TD>G alpha (s) signalling events</TD>
+      <TD>-6.9</TD>
+    </TR>
+  </TBODY>
+</TABLE></td></tr>
+                </table>
+        </div>
+      </div><p/>
 
 
     <h3>Reference</h3></p>
     <ol style="list-style: decimal inside;">
       <li>Zhou et al., Metascape provides a biologist-oriented resource for the analysis of systems-level datasets. Nature Communications (2019) 10(1):1523.</li>
       <li>Saldanha AJ. Java Treeview - extensible visualization of microarray data. Bioinformatics (2004) 20:3246-3248</li>
-      <li>Krzywinski M. et al. Circos: an Information Aesthetic for Comparative Genomics. Genome Res (2009) 19:1639-1645</li>
       <li>Zar, J.H. Biostatistical Analysis 1999 4th edn., NJ Prentice Hall, pp. 523</li>
       <li>Hochberg Y., Benjamini Y. More powerful procedures for multiple significance testing. Statistics in Medicine (1990) 9:811-818.</li>
       <li>Cohen, J. A coefficient of agreement for nominal scales. Educ. Psychol. Meas. (1960) 20:27-46.</li>
