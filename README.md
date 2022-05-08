@@ -5,11 +5,11 @@
 ### NAVIGATION
 We used no unpublished codes in bulk and single-cell analyses in this study. Source data are provided in our paper. All other data supporting the results of this study are available from the corresponding author upon reasonable request.
 
-- [Bulk metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
+- [Metascape](https://metascape.org/) was used to perform DEG enrichment analysis and protein-protein interaction analysis(https://metascape.org/).
+ - [Bulk metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
+ - [scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)
 
 - [CIBERSORTx](https://cibersortx.stanford.edu) was used to estimate the abundance of cell types in the oral cancer microenvironment(https://cibersortx.stanford.edu). 
-
-- [scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)
 
 - [CellChat](https://github.com/sqjin/CellChat) was implemented to infer intercellular communications(https://github.com/sqjin/CellChat). 
 
@@ -36,3 +36,8 @@ Please contact <furudate@hirosaki-u.ac.jp> with any questions or suggestions.
 
 ### LICENCE
 This project is under the MIT license - see the [LICENSE](LICENSE) in details.
+
+
+### Reference
+
+Zhou, Y. et al. Metascape provides a biologist-oriented resource for the analysis of systems-level datasets. Nat. Commun. 10, 1523 (2019).
