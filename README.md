@@ -20,7 +20,6 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
     - [Spatial data summary](summary.md)
 
 
-
 ```markdown
 arviz 0.9.0
 numpy 1.19.5
