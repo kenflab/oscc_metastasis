@@ -3,15 +3,15 @@
 ### OVERVIEW
 
 ### NAVIGATION
-We used no unpublished codes in bulk and single-cell analyses in this study.
-The documentation and source code can be found at [https://github.com/kenflab/oscc_metastasis](https://github.com/kenflab/oscc_metastasis)
+We used no unpublished codes in bulk and single-cell analyses in this study. Source data are provided in our paper. All other data supporting the results of this study are available from the corresponding author upon reasonable request.
 
+- [Bulk metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
 
-[Bulk metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
+- [scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)
 
-[scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)
+- CellChat was implemented to infer intercellular communications(https://github.com/sqjin/CellChat). 
 
-[Spatial data summary](summary.md)
+- [Spatial data summary](summary.md)
 
 
 
