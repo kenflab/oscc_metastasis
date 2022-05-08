@@ -9,7 +9,7 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 
 - [scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)
 
-- CellChat was implemented to infer intercellular communications(https://github.com/sqjin/CellChat). 
+- [CellChat](https://github.com/sqjin/CellChat) was implemented to infer intercellular communications(https://github.com/sqjin/CellChat). 
 
 - [Spatial data summary](summary.md)
 
