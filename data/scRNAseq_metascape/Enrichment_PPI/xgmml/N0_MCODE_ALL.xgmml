@@ -7,7 +7,7 @@
         <dc:type>Protein-Protein Interaction</dc:type>
         <dc:description>N/A</dc:description>
         <dc:identifier>N/A</dc:identifier>
-        <dc:date>2022-04-16 06:22:55</dc:date>
+        <dc:date>2022-05-07 19:18:59</dc:date>
         <dc:title>Cytoscape Network</dc:title>
         <dc:source>http://www.cytoscape.org/</dc:source>
         <dc:format>Cytoscape-XGMML</dc:format>
@@ -26,7 +26,7 @@
     <att type="real" name="MCODE_SCORE" value="1.0"/>
     <att type="string" name="MCODE_TYPE" value="Clustered"/>
     <att type="integer" name="DEGREE" value="2"/>
-    <graphics type="CIRCLE" x="346.1862878410807" y="150.1966538384345"/>
+    <graphics type="CIRCLE" x="283.81475091476284" y="403.21781692662796"/>
   </node>
   <node label="GHRH" id="2">
     <att type="string" name="canonicalName" value="GHRH"/>
@@ -36,7 +36,7 @@
     <att type="real" name="MCODE_SCORE" value="1.0"/>
     <att type="string" name="MCODE_TYPE" value="Seed"/>
     <att type="integer" name="DEGREE" value="2"/>
-    <graphics type="CIRCLE" x="335.67720752073984" y="279.39773591274616"/>
+    <graphics type="CIRCLE" x="203.81803204669416" y="412.4839679868489"/>
   </node>
   <node label="TSHR" id="3">
     <att type="string" name="canonicalName" value="TSHR"/>
@@ -46,24 +46,24 @@
     <att type="real" name="MCODE_SCORE" value="1.0"/>
     <att type="string" name="MCODE_TYPE" value="Clustered"/>
     <att type="integer" name="DEGREE" value="2"/>
-    <graphics type="CIRCLE" x="275.93025291798665" y="295.04700032834774"/>
+    <graphics type="CIRCLE" x="379.5607693307852" y="237.30111455782446"/>
   </node>
   <edge label="2691 (pp) 7253" source="2" target="3">
     <att type="string" name="canonicalName" value="2691 (pp) 7253"/>
     <att type="string" name="interaction" value="pp"/>
-    <att type="int" name="SCORE" value="900"/>
-    <att type="string" name="support" value="{&quot;StringDB&quot;: &quot;physical&quot;, &quot;StringEvidence&quot;: &quot;database:0.896,textmining:0.103&quot;, &quot;OmniPath&quot;: &quot;omnipath,ligrecextra&quot;, &quot;OmniPath_Reference&quot;: &quot;CellTalkDB;LRdb;Reactome_LRdb&quot;, &quot;InWeb_IM&quot;: &quot;inference&quot;, &quot;String_Score_Physical&quot;: 900, &quot;String_Score_Combined&quot;: 910}"/>
+    <att type="int" name="SCORE" value="432"/>
+    <att type="string" name="support" value="{&quot;StringDB&quot;: &quot;functional&quot;, &quot;StringEvidence&quot;: &quot;textmining:0.169&quot;, &quot;OmniPath&quot;: &quot;omnipath,ligrecextra&quot;, &quot;OmniPath_Reference&quot;: &quot;CellTalkDB;LRdb;Reactome_LRdb&quot;, &quot;InWeb_IM&quot;: &quot;inference&quot;, &quot;String_Score_Combined&quot;: 203, &quot;String_Score_Physical&quot;: 432}"/>
   </edge>
   <edge label="2691 (pp) 796" source="2" target="1">
     <att type="string" name="canonicalName" value="2691 (pp) 796"/>
     <att type="string" name="interaction" value="pp"/>
-    <att type="int" name="SCORE" value="900"/>
-    <att type="string" name="support" value="{&quot;StringDB&quot;: &quot;physical&quot;, &quot;StringEvidence&quot;: &quot;database:0.896,textmining:0.579&quot;, &quot;OmniPath&quot;: &quot;pathwayextra&quot;, &quot;OmniPath_Reference&quot;: &quot;Wang&quot;, &quot;InWeb_IM&quot;: &quot;inference&quot;, &quot;String_Score_Physical&quot;: 900, &quot;String_Score_Combined&quot;: 957}"/>
+    <att type="int" name="SCORE" value="300"/>
+    <att type="string" name="support" value="{&quot;StringDB&quot;: &quot;physical&quot;, &quot;StringEvidence&quot;: &quot;textmining:0.616,database:0.270&quot;, &quot;OmniPath&quot;: &quot;pathwayextra&quot;, &quot;OmniPath_Reference&quot;: &quot;Wang&quot;, &quot;InWeb_IM&quot;: &quot;inference&quot;, &quot;String_Score_Physical&quot;: 300, &quot;String_Score_Combined&quot;: 731}"/>
   </edge>
   <edge label="7253 (pp) 796" source="3" target="1">
     <att type="string" name="canonicalName" value="7253 (pp) 796"/>
     <att type="string" name="interaction" value="pp"/>
-    <att type="int" name="SCORE" value="900"/>
-    <att type="string" name="support" value="{&quot;StringDB&quot;: &quot;physical&quot;, &quot;StringEvidence&quot;: &quot;database:0.896,textmining:0.363&quot;, &quot;OmniPath&quot;: &quot;omnipath,ligrecextra&quot;, &quot;OmniPath_Reference&quot;: &quot;CellTalkDB;LRdb;Reactome_LRdb&quot;, &quot;InWeb_IM&quot;: &quot;inference&quot;, &quot;String_Score_Physical&quot;: 900, &quot;String_Score_Combined&quot;: 936}"/>
+    <att type="int" name="SCORE" value="432"/>
+    <att type="string" name="support" value="{&quot;StringDB&quot;: &quot;functional&quot;, &quot;StringEvidence&quot;: &quot;textmining:0.365&quot;, &quot;OmniPath&quot;: &quot;omnipath,ligrecextra&quot;, &quot;OmniPath_Reference&quot;: &quot;CellTalkDB;LRdb;Reactome_LRdb&quot;, &quot;InWeb_IM&quot;: &quot;inference&quot;, &quot;String_Score_Combined&quot;: 390, &quot;String_Score_Physical&quot;: 432}"/>
   </edge>
 </graph>
