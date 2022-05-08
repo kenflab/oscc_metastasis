@@ -1,145 +1,141 @@
 _MEMBER_LN_meta,_MEMBER_N0,_LogP_LN_meta,_LogP_N0,GO,Description,_PATTERN_,_RANK_,GiniIndex
-1,1,-2.2,-2.4,GO:0007610,behavior,M11,2,0.031
-0,1,0,-2.8,GO:0015711,organic anion transport,M01,1,0.24
-0,1,0,-2.2,GO:0033555,multicellular organismal response to stress,M01,1,0.19
-0,1,0,-2,GO:0055074,calcium ion homeostasis,M01,1,0.17
-1,0,-2.3,0,GO:0009409,response to cold,M10,1,0.19
-0,1,0,-2,M3468,NABA ECM REGULATORS,M01,1,0.17
-1,0,-4,0,R-HSA-2168880,Scavenging of heme from plasma,M10,1,0.3
-0,1,0,-3.1,GO:0060249,anatomical structure homeostasis,M01,1,0.25
-0,1,0,-2.2,GO:0007268,chemical synaptic transmission,M01,1,0.19
-1,0,-2,0,GO:0055002,striated muscle cell development,M10,1,0.17
-0,1,0,-2.7,GO:1990089,response to nerve growth factor,M01,1,0.23
-1,0,-2.8,0,GO:0005975,carbohydrate metabolic process,M10,1,0.23
-1,0,-2.9,0,GO:0014823,response to activity,M10,1,0.25
-1,0,-2.4,0,GO:0019217,regulation of fatty acid metabolic process,M10,1,0.2
-1,0,-2.3,0,GO:0006073,cellular glucan metabolic process,M10,1,0.2
-1,0,-2.2,0,WP1533,Vitamin B12 metabolism,M10,1,0.19
-1,0,-2.2,0,GO:0009266,response to temperature stimulus,M10,1,0.19
-1,0,-2.1,0,GO:0032990,cell part morphogenesis,M10,1,0.18
-1,0,-2.3,0,GO:0044042,glucan metabolic process,M10,1,0.2
-0,1,0,-4.8,M5885,NABA MATRISOME ASSOCIATED,M01,1,0.33
-1,0,-2.2,0,GO:0048858,cell projection morphogenesis,M10,1,0.19
-1,0,-2.1,0,GO:0030301,cholesterol transport,M10,1,0.17
-1,0,-3.1,0,GO:0002026,regulation of the force of heart contraction,M10,1,0.26
-0,1,0,-2.6,GO:0050804,modulation of chemical synaptic transmission,M01,1,0.22
-1,0,-3.3,0,GO:0042445,hormone metabolic process,M10,1,0.27
-1,0,-2.3,0,GO:0048168,regulation of neuronal synaptic plasticity,M10,1,0.19
-1,0,-3.5,0,WP534,Glycolysis and gluconeogenesis,M10,1,0.28
-1,0,-3.9,0,R-HSA-390522,Striated Muscle Contraction,M10,1,0.3
-0,1,0,-3.1,M5882,NABA PROTEOGLYCANS,M01,1,0.25
-0,1,0,-2,GO:0002377,immunoglobulin production,M01,1,0.17
-1,0,-2.8,0,hsa04020,Calcium signaling pathway,M10,1,0.24
-0,1,0,-2,GO:0001656,metanephros development,M01,1,0.17
-1,0,-2.8,0,R-HSA-70263,Gluconeogenesis,M10,1,0.23
-1,0,-4.9,0,R-HSA-397014,Muscle contraction,M10,1,0.33
-0,1,0,-2.1,GO:0098739,import across plasma membrane,M01,1,0.18
-0,1,0,-3.5,M5880,NABA ECM AFFILIATED,M01,1,0.28
-0,1,0,-3.5,GO:0001894,tissue homeostasis,M01,1,0.28
-0,1,0,-4.7,GO:0010669,epithelial structure maintenance,M01,1,0.32
-1,0,-2.3,0,GO:0005977,glycogen metabolic process,M10,1,0.2
-0,1,0,-3.3,GO:0048265,response to pain,M01,1,0.27
-1,0,-2.2,0,GO:0060537,muscle tissue development,M10,1,0.19
-1,0,-2.4,0,WP15,Selenium micronutrient network,M10,1,0.2
-1,0,-2,0,GO:0016051,carbohydrate biosynthetic process,M10,1,0.17
-0,1,0,-2,GO:0008643,carbohydrate transport,M01,1,0.17
-0,1,0,-2.6,GO:0015698,inorganic anion transport,M01,1,0.23
-1,0,-2.9,0,GO:0006936,muscle contraction,M10,1,0.25
-1,0,-3,0,hsa04922,Glucagon signaling pathway,M10,1,0.25
-1,0,-2.8,0,GO:0016486,peptide hormone processing,M10,1,0.23
-1,0,-2.7,0,GO:0002526,acute inflammatory response,M10,1,0.23
-1,0,-3.1,0,GO:0010817,regulation of hormone levels,M10,1,0.25
-0,1,0,-2.4,GO:0051289,protein homotetramerization,M01,1,0.21
-0,1,0,-2.1,GO:0099537,trans-synaptic signaling,M01,1,0.18
-1,0,-2,0,GO:0055013,cardiac muscle cell development,M10,1,0.17
-1,0,-3.8,0,GO:0043462,regulation of ATP-dependent activity,M10,1,0.29
-0,1,0,-2,GO:0043588,skin development,M01,1,0.17
-1,0,-2.2,0,GO:0022904,respiratory electron transport chain,M10,1,0.19
-1,0,-3.3,0,GO:0046034,ATP metabolic process,M10,1,0.27
-1,0,-2,0,GO:0045333,cellular respiration,M10,1,0.17
-1,0,-2.8,0,R-HSA-8963899,Plasma lipoprotein remodeling,M10,1,0.24
-1,0,-2.4,0,GO:0050919,negative chemotaxis,M10,1,0.2
-0,1,0,-3.8,GO:0006820,anion transport,M01,1,0.29
-1,0,-2.2,0,WP2406,Cardiac progenitor differentiation,M10,1,0.19
-0,1,0,-2.2,R-HSA-3906995,Diseases associated with O-glycosylation of proteins,M01,1,0.19
-1,0,-2.6,0,GO:0045923,positive regulation of fatty acid metabolic process,M10,1,0.22
-0,1,0,-5.7,GO:0007586,digestion,M01,1,0.35
-1,0,-2.7,0,GO:0016485,protein processing,M10,1,0.23
-0,1,0,-2.1,GO:0007188,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,M01,1,0.18
-0,1,0,-2.5,GO:0015849,organic acid transport,M01,1,0.21
-0,1,0,-2.8,GO:0046942,carboxylic acid transport,M01,1,0.24
-1,0,-2.3,0,GO:0120039,plasma membrane bounded cell projection morphogenesis,M10,1,0.19
-0,1,0,-2.1,GO:0019318,hexose metabolic process,M01,1,0.18
-1,0,-3.2,0,GO:0016048,detection of temperature stimulus,M10,1,0.26
-1,0,-2,0,GO:0006112,energy reserve metabolic process,M10,1,0.17
-1,0,-2.6,0,hsa04270,Vascular smooth muscle contraction,M10,1,0.22
-1,0,-2,0,GO:0048638,regulation of developmental growth,M10,1,0.17
-0,1,0,-2.5,hsa04080,Neuroactive ligand-receptor interaction,M01,1,0.21
-0,1,0,-4.5,GO:0098656,anion transmembrane transport,M01,1,0.32
-1,0,-3.4,0,hsa04260,Cardiac muscle contraction,M10,1,0.27
-1,0,-3.2,0,hsa04261,Adrenergic signaling in cardiomyocytes,M10,1,0.26
-1,0,-2.2,0,GO:0031175,neuron projection development,M10,1,0.19
-1,0,-3.8,0,WP383,Striated muscle contraction pathway,M10,1,0.29
-0,1,0,-2.5,GO:0051260,protein homooligomerization,M01,1,0.21
-1,0,-2.3,0,GO:0048812,neuron projection morphogenesis,M10,1,0.2
-1,0,-3.5,0,M106,PID HNF3B PATHWAY,M10,1,0.28
-0,1,0,-2.2,GO:0010720,positive regulation of cell development,M01,1,0.19
-1,0,-2,0,GO:0008154,actin polymerization or depolymerization,M10,1,0.17
-1,0,-2.2,0,hsa04022,cGMP-PKG signaling pathway,M10,1,0.18
-0,1,0,-2.3,GO:0044706,multi-multicellular organism process,M01,1,0.2
-0,1,0,-4.2,R-HSA-425407,SLC-mediated transmembrane transport,M01,1,0.31
-0,1,0,-2.2,GO:0098916,anterograde trans-synaptic signaling,M01,1,0.19
-0,1,0,-2.3,GO:0001101,response to acid chemical,M01,1,0.19
-0,1,0,-2.6,GO:0055082,cellular chemical homeostasis,M01,1,0.22
-1,0,-2.4,0,GO:0045933,positive regulation of muscle contraction,M10,1,0.21
-0,1,0,-2.7,GO:1990090,cellular response to nerve growth factor stimulus,M01,1,0.23
-0,1,0,-2.3,GO:0006959,humoral immune response,M01,1,0.2
+1,1,-2.1,-2.4,GO:0007610,behavior,M11,2,0.031
 1,0,-2.4,0,GO:0060047,heart contraction,M10,1,0.2
-0,1,0,-2.6,GO:0099177,regulation of trans-synaptic signaling,M01,1,0.22
-0,1,0,-2.3,GO:0030858,positive regulation of epithelial cell differentiation,M01,1,0.19
-0,1,0,-3,R-HSA-3781865,Diseases of glycosylation,M01,1,0.25
-1,0,-2.3,0,GO:0042304,regulation of fatty acid biosynthetic process,M10,1,0.2
-0,1,0,-2.8,GO:0043090,amino acid import,M01,1,0.24
-0,1,0,-2,GO:0002440,production of molecular mediator of immune response,M01,1,0.17
-0,1,0,-2.1,GO:0006873,cellular ion homeostasis,M01,1,0.18
-0,1,0,-2.2,GO:0031644,regulation of nervous system process,M01,1,0.18
-1,0,-3.5,0,GO:0032781,positive regulation of ATP-dependent activity,M10,1,0.28
-1,0,-2.1,0,GO:0007218,neuropeptide signaling pathway,M10,1,0.18
-1,0,-3.1,0,GO:0032989,cellular component morphogenesis,M10,1,0.26
-1,0,-2.1,0,GO:0048738,cardiac muscle tissue development,M10,1,0.18
-0,1,0,-2.5,GO:0072348,sulfur compound transport,M01,1,0.21
-1,0,-4.2,0,GO:0044057,regulation of system process,M10,1,0.31
-1,0,-2,0,GO:0030239,myofibril assembly,M10,1,0.17
-0,1,0,-2.2,GO:0048732,gland development,M01,1,0.19
-1,0,-3,0,GO:0003012,muscle system process,M10,1,0.25
-1,0,-2.4,0,GO:0014706,striated muscle tissue development,M10,1,0.2
-0,1,0,-2.1,GO:0021536,diencephalon development,M01,1,0.18
+0,1,0,-2.2,R-HSA-3906995,Diseases associated with O-glycosylation of proteins,M01,1,0.19
+0,1,0,-2.6,GO:0051480,regulation of cytosolic calcium ion concentration,M01,1,0.22
+1,0,-2.3,0,GO:0045933,positive regulation of muscle contraction,M10,1,0.2
+1,0,-2,0,GO:0055002,striated muscle cell development,M10,1,0.17
 1,0,-2.1,0,GO:0006937,regulation of muscle contraction,M10,1,0.18
+1,0,-3.2,0,hsa04261,Adrenergic signaling in cardiomyocytes,M10,1,0.26
+0,1,0,-2.1,GO:0019318,hexose metabolic process,M01,1,0.18
+1,0,-2,0,GO:0048638,regulation of developmental growth,M10,1,0.17
+1,0,-2.2,0,GO:0048858,cell projection morphogenesis,M10,1,0.19
+0,1,0,-2.3,GO:0055074,calcium ion homeostasis,M01,1,0.19
+0,1,0,-2.4,GO:0051289,protein homotetramerization,M01,1,0.21
+1,0,-3.1,0,GO:0002026,regulation of the force of heart contraction,M10,1,0.26
 0,1,0,-5.4,GO:0030277,maintenance of gastrointestinal epithelium,M01,1,0.34
-0,1,0,-3.8,GO:0048871,multicellular organismal homeostasis,M01,1,0.29
-0,1,0,-3.6,GO:0034587,piRNA metabolic process,M01,1,0.28
-1,0,-3.3,0,GO:0006091,generation of precursor metabolites and energy,M10,1,0.27
-0,1,0,-5.6,GO:0022600,digestive system process,M01,1,0.35
-1,0,-2.6,0,R-HSA-445355,Smooth Muscle Contraction,M10,1,0.22
-0,1,0,-2.3,hsa05217,Basal cell carcinoma,M01,1,0.2
-0,1,0,-3.8,R-HSA-382551,Transport of small molecules,M01,1,0.29
-1,0,-3.7,0,R-HSA-2173782,Binding and Uptake of Ligands by Scavenger Receptors,M10,1,0.29
-1,0,-3.5,0,GO:0015980,energy derivation by oxidation of organic compounds,M10,1,0.28
-1,0,-2.5,0,GO:0044058,regulation of digestive system process,M10,1,0.21
-0,1,0,-2.4,WP4917,Proximal tubule transport,M01,1,0.21
-0,1,0,-2.9,GO:0001708,cell fate specification,M01,1,0.25
+1,0,-3.6,0,GO:0032989,cellular component morphogenesis,M10,1,0.28
+0,1,0,-4.2,R-HSA-425407,SLC-mediated transmembrane transport,M01,1,0.31
 1,0,-2,0,GO:1905952,regulation of lipid localization,M10,1,0.17
-0,1,0,-2.6,WP2064,Neural crest differentiation,M01,1,0.23
-0,1,0,-2.2,GO:0030003,cellular cation homeostasis,M01,1,0.18
-1,0,-2.1,0,GO:0003015,heart process,M10,1,0.18
-0,1,0,-2.4,R-HSA-500792,GPCR ligand binding,M01,1,0.21
-1,0,-2.2,0,GO:0006941,striated muscle contraction,M10,1,0.18
 0,1,0,-4.5,GO:0006835,dicarboxylic acid transport,M01,1,0.32
-0,1,0,-3.1,GO:0089718,amino acid import across plasma membrane,M01,1,0.26
-0,1,0,-2.5,GO:0051962,positive regulation of nervous system development,M01,1,0.21
-1,0,-2.1,0,GO:0008015,blood circulation,M10,1,0.18
-1,0,-3.4,0,GO:0051604,protein maturation,M10,1,0.27
-0,1,0,-2.1,GO:0007189,adenylate cyclase-activating G protein-coupled receptor signaling pathway,M01,1,0.18
+0,1,0,-2.2,GO:0048732,gland development,M01,1,0.19
+0,1,0,-2.1,GO:0021536,diencephalon development,M01,1,0.18
+0,1,0,-3.5,GO:0001894,tissue homeostasis,M01,1,0.28
+1,0,-2.1,0,GO:0048738,cardiac muscle tissue development,M10,1,0.18
+1,0,-3.3,0,GO:0006091,generation of precursor metabolites and energy,M10,1,0.27
+0,1,0,-4.7,GO:0010669,epithelial structure maintenance,M01,1,0.32
+1,0,-2.2,0,GO:0010927,cellular component assembly involved in morphogenesis,M10,1,0.19
+1,0,-2.4,0,GO:0050919,negative chemotaxis,M10,1,0.2
+0,1,0,-4.4,GO:0098656,anion transmembrane transport,M01,1,0.31
+1,0,-2.7,0,GO:0002526,acute inflammatory response,M10,1,0.23
+1,0,-3.2,0,GO:0016048,detection of temperature stimulus,M10,1,0.26
+1,0,-2.4,0,GO:0019217,regulation of fatty acid metabolic process,M10,1,0.2
+1,0,-3.7,0,R-HSA-2173782,Binding and Uptake of Ligands by Scavenger Receptors,M10,1,0.29
+0,1,0,-3.5,GO:0034587,piRNA metabolic process,M01,1,0.28
+1,0,-2.5,0,GO:0045104,intermediate filament cytoskeleton organization,M10,1,0.21
+1,0,-2.1,0,GO:0009266,response to temperature stimulus,M10,1,0.18
+0,1,0,-2.2,GO:0006873,cellular ion homeostasis,M01,1,0.18
 0,1,0,-3.2,GO:0019233,sensory perception of pain,M01,1,0.26
-1,0,-2.7,0,GO:0140448,signaling receptor ligand precursor processing,M10,1,0.23
-0,1,0,-4.1,GO:0007635,chemosensory behavior,M01,1,0.3
+1,0,-2.5,0,R-HSA-445355,Smooth Muscle Contraction,M10,1,0.22
+1,0,-2.8,0,GO:0005975,carbohydrate metabolic process,M10,1,0.24
+1,0,-2.6,0,hsa04270,Vascular smooth muscle contraction,M10,1,0.22
+0,1,0,-2.2,GO:0007268,chemical synaptic transmission,M01,1,0.19
+0,1,0,-2.1,GO:0007188,adenylate cyclase-modulating G protein-coupled receptor signaling pathway,M01,1,0.18
+1,0,-2.1,0,GO:0007218,neuropeptide signaling pathway,M10,1,0.18
+0,1,0,-2.7,GO:1990090,cellular response to nerve growth factor stimulus,M01,1,0.23
+1,0,-2,0,GO:0055013,cardiac muscle cell development,M10,1,0.17
+1,0,-3.9,0,R-HSA-390522,Striated Muscle Contraction,M10,1,0.3
+1,0,-3,0,hsa04922,Glucagon signaling pathway,M10,1,0.25
+0,1,0,-2.4,GO:0051962,positive regulation of nervous system development,M01,1,0.21
+0,1,0,-2.8,GO:0046942,carboxylic acid transport,M01,1,0.24
+1,0,-3.3,0,GO:0015980,energy derivation by oxidation of organic compounds,M10,1,0.27
+0,1,0,-3.8,GO:0048871,multicellular organismal homeostasis,M01,1,0.29
+0,1,0,-2.1,GO:0031644,regulation of nervous system process,M01,1,0.18
+1,0,-2.5,0,GO:0045103,intermediate filament-based process,M10,1,0.21
+1,0,-2.3,0,GO:0006073,cellular glucan metabolic process,M10,1,0.2
+1,0,-4.1,0,GO:0044057,regulation of system process,M10,1,0.3
+1,0,-2.2,0,GO:0060537,muscle tissue development,M10,1,0.19
+0,1,0,-2.6,GO:0099177,regulation of trans-synaptic signaling,M01,1,0.22
+0,1,0,-5.5,GO:0022600,digestive system process,M01,1,0.35
+0,1,0,-2.6,GO:0015698,inorganic anion transport,M01,1,0.23
+0,1,0,-2.5,GO:0072348,sulfur compound transport,M01,1,0.21
+0,1,0,-2.4,GO:0030855,epithelial cell differentiation,M01,1,0.2
+1,0,-3.6,0,GO:0044058,regulation of digestive system process,M10,1,0.28
+1,0,-2.6,0,GO:0016485,protein processing,M10,1,0.23
+1,0,-2.3,0,GO:0042304,regulation of fatty acid biosynthetic process,M10,1,0.2
+0,1,0,-2.4,R-HSA-500792,GPCR ligand binding,M01,1,0.21
+0,1,0,-3.1,GO:0089718,amino acid import across plasma membrane,M01,1,0.26
+0,1,0,-2,GO:0098739,import across plasma membrane,M01,1,0.17
+1,0,-2.9,0,GO:0045109,intermediate filament organization,M10,1,0.24
+0,1,0,-3.3,GO:0048265,response to pain,M01,1,0.27
+0,1,0,-2,GO:0001656,metanephros development,M01,1,0.17
+0,1,0,-4,GO:0007635,chemosensory behavior,M01,1,0.3
+0,1,0,-5.7,GO:0007586,digestion,M01,1,0.35
+0,1,0,-2.2,GO:0019725,cellular homeostasis,M01,1,0.18
+1,0,-2,0,GO:0030239,myofibril assembly,M10,1,0.17
+1,0,-2.1,0,GO:0003015,heart process,M10,1,0.18
+1,0,-2.8,0,R-HSA-8963899,Plasma lipoprotein remodeling,M10,1,0.24
+0,1,0,-2.3,hsa05217,Basal cell carcinoma,M01,1,0.2
+1,0,-4.9,0,R-HSA-397014,Muscle contraction,M10,1,0.33
+0,1,0,-2.2,GO:0010720,positive regulation of cell development,M01,1,0.19
+1,0,-2.8,0,R-HSA-70263,Gluconeogenesis,M10,1,0.23
+0,1,0,-2.6,GO:0050804,modulation of chemical synaptic transmission,M01,1,0.22
+0,1,0,-2.3,GO:0006959,humoral immune response,M01,1,0.2
+1,0,-2.8,0,hsa04020,Calcium signaling pathway,M10,1,0.24
+0,1,0,-2.2,GO:0033555,multicellular organismal response to stress,M01,1,0.19
+0,1,0,-3.1,GO:0060249,anatomical structure homeostasis,M01,1,0.25
+1,0,-2.1,0,GO:0032990,cell part morphogenesis,M10,1,0.18
+0,1,0,-2.3,GO:0044706,multi-multicellular organism process,M01,1,0.2
+0,1,0,-2.7,GO:1990089,response to nerve growth factor,M01,1,0.23
+1,0,-2.8,0,GO:0014706,striated muscle tissue development,M10,1,0.23
+1,0,-2.4,0,R-HSA-9749641,Aspirin ADME,M10,1,0.21
+1,0,-2.9,0,GO:0014823,response to activity,M10,1,0.24
+0,1,0,-3,R-HSA-3781865,Diseases of glycosylation,M01,1,0.25
+1,0,-2,0,GO:0016051,carbohydrate biosynthetic process,M10,1,0.17
+1,0,-3.5,0,GO:0032781,positive regulation of ATP-dependent activity,M10,1,0.28
+0,1,0,-2.4,GO:0051260,protein homooligomerization,M01,1,0.21
+1,0,-2.1,0,GO:0008015,blood circulation,M10,1,0.17
+0,1,0,-2.5,GO:0034219,carbohydrate transmembrane transport,M01,1,0.22
+0,1,0,-3.8,R-HSA-382551,Transport of small molecules,M01,1,0.29
+1,0,-2.3,0,GO:0005977,glycogen metabolic process,M10,1,0.2
+0,1,0,-2.7,GO:0007568,aging,M01,1,0.23
+1,0,-2.1,0,GO:0048168,regulation of neuronal synaptic plasticity,M10,1,0.18
+0,1,0,-2.2,GO:0001101,response to acid chemical,M01,1,0.19
+0,1,0,-2.4,hsa04080,Neuroactive ligand-receptor interaction,M01,1,0.21
+1,0,-2.2,0,GO:0009409,response to cold,M10,1,0.19
+0,1,0,-2.5,GO:0015849,organic acid transport,M01,1,0.21
+1,0,-2,0,GO:0030301,cholesterol transport,M10,1,0.17
+1,0,-3.4,0,hsa04260,Cardiac muscle contraction,M10,1,0.27
+1,0,-2.3,0,GO:0048812,neuron projection morphogenesis,M10,1,0.2
+1,0,-2.6,0,GO:0045923,positive regulation of fatty acid metabolic process,M10,1,0.22
+1,0,-3.3,0,GO:0051604,protein maturation,M10,1,0.27
+1,0,-2.3,0,GO:0044042,glucan metabolic process,M10,1,0.2
+1,0,-3.3,0,GO:0042445,hormone metabolic process,M10,1,0.27
+1,0,-3.1,0,GO:0046034,ATP metabolic process,M10,1,0.26
+1,0,-3.8,0,GO:0043462,regulation of ATP-dependent activity,M10,1,0.29
+0,1,0,-2.7,GO:0055082,cellular chemical homeostasis,M01,1,0.23
+1,0,-3,0,GO:0003012,muscle system process,M10,1,0.25
+0,1,0,-2.1,GO:0099537,trans-synaptic signaling,M01,1,0.18
+0,1,0,-2.1,GO:0007189,adenylate cyclase-activating G protein-coupled receptor signaling pathway,M01,1,0.18
+1,0,-2.3,0,R-HSA-9748784,Drug ADME,M10,1,0.19
+0,1,0,-2.2,GO:0098916,anterograde trans-synaptic signaling,M01,1,0.19
+1,0,-2.7,0,GO:0016486,peptide hormone processing,M10,1,0.23
+0,1,0,-2.2,GO:0030003,cellular cation homeostasis,M01,1,0.19
+1,0,-2.6,0,GO:0140448,signaling receptor ligand precursor processing,M10,1,0.23
+0,1,0,-2.8,GO:0015711,organic anion transport,M01,1,0.24
+0,1,0,-3.8,GO:0006820,anion transport,M01,1,0.29
+0,1,0,-2.9,GO:0001708,cell fate specification,M01,1,0.25
+0,1,0,-2.3,GO:0030858,positive regulation of epithelial cell differentiation,M01,1,0.19
+1,0,-4,0,R-HSA-2168880,Scavenging of heme from plasma,M10,1,0.3
+1,0,-2.2,0,GO:0006941,striated muscle contraction,M10,1,0.18
+1,0,-2.1,0,GO:0022412,cellular process involved in reproduction in multicellular organism,M10,1,0.18
+0,1,0,-2,GO:0002377,immunoglobulin production,M01,1,0.17
+1,0,-2.3,0,GO:0120039,plasma membrane bounded cell projection morphogenesis,M10,1,0.19
+1,0,-2.2,0,hsa04022,cGMP-PKG signaling pathway,M10,1,0.18
+1,0,-3.1,0,GO:0010817,regulation of hormone levels,M10,1,0.25
+1,0,-2,0,GO:0006112,energy reserve metabolic process,M10,1,0.17
+1,0,-2.2,0,GO:0031175,neuron projection development,M10,1,0.19
+1,0,-2.1,0,GO:0022904,respiratory electron transport chain,M10,1,0.17
+0,1,0,-2,GO:0008643,carbohydrate transport,M01,1,0.17
+1,0,-2.2,0,GO:0097435,supramolecular fiber organization,M10,1,0.19
+1,0,-2.9,0,GO:0006936,muscle contraction,M10,1,0.24
