@@ -1,23 +1,23 @@
 GID	GENE	NAME	GWEIGHT	LN_meta	N0
 AID				ARRY1X	ARRY2X
 EWEIGHT				1	1
-GENE13X	R-HSA-2168880	R-HSA-2168880: Scavenging of heme from plasma	1	0.201	-0.000
-GENE2X	GO:0044057	GO:0044057: regulation of system process	1	0.210	-0.000
-GENE10X	R-HSA-397014	R-HSA-397014: Muscle contraction	1	0.246	-0.000
-GENE15X	GO:0014823	GO:0014823: response to activity	1	0.147	-0.000
-GENE14X	GO:0005975	GO:0005975: carbohydrate metabolic process	1	0.138	-0.000
-GENE7X	GO:0140448	GO:0140448: signaling receptor ligand precursor processing	1	0.134	-0.000
-GENE8X	hsa04020	hsa04020: Calcium signaling pathway	1	0.139	-0.000
-GENE16X	GO:0006091	GO:0006091: generation of precursor metabolites and energy	1	0.167	-0.000
-GENE9X	hsa04922	hsa04922: Glucagon signaling pathway	1	0.150	-0.000
-GENE3X	GO:0016048	GO:0016048: detection of temperature stimulus	1	0.160	-0.000
-GENE6X	GO:0032989	GO:0032989: cellular component morphogenesis	1	0.154	-0.000
-GENE5X	GO:0007610	GO:0007610: behavior	1	0.108	0.122
-GENE17X	M5885	M5885: NABA MATRISOME ASSOCIATED	1	-0.000	0.241
-GENE19X	GO:0022600	GO:0022600: digestive system process	1	-0.000	0.279
-GENE20X	hsa05217	hsa05217: Basal cell carcinoma	1	-0.000	0.116
-GENE4X	R-HSA-3781865	R-HSA-3781865: Diseases of glycosylation	1	-0.000	0.148
-GENE18X	WP2064	WP2064: Neural crest differentiation	1	-0.000	0.132
-GENE12X	M5882	M5882: NABA PROTEOGLYCANS	1	-0.000	0.153
-GENE1X	R-HSA-382551	R-HSA-382551: Transport of small molecules	1	-0.000	0.188
-GENE11X	GO:0034587	GO:0034587: piRNA metabolic process	1	-0.000	0.180
+GENE16X	GO:0055074	GO:0055074: calcium ion homeostasis	1	-0.000	0.113
+GENE8X	R-HSA-3781865	R-HSA-3781865: Diseases of glycosylation	1	-0.000	0.148
+GENE13X	hsa05217	hsa05217: Basal cell carcinoma	1	-0.000	0.116
+GENE4X	R-HSA-382551	R-HSA-382551: Transport of small molecules	1	-0.000	0.188
+GENE20X	GO:0034587	GO:0034587: piRNA metabolic process	1	-0.000	0.177
+GENE7X	GO:0022600	GO:0022600: digestive system process	1	-0.000	0.277
+GENE10X	GO:0006835	GO:0006835: dicarboxylic acid transport	1	-0.000	0.225
+GENE12X	GO:0007610	GO:0007610: behavior	1	0.106	0.120
+GENE5X	R-HSA-2168880	R-HSA-2168880: Scavenging of heme from plasma	1	0.201	-0.000
+GENE14X	R-HSA-397014	R-HSA-397014: Muscle contraction	1	0.246	-0.000
+GENE19X	GO:0032989	GO:0032989: cellular component morphogenesis	1	0.181	-0.000
+GENE1X	GO:0016048	GO:0016048: detection of temperature stimulus	1	0.160	-0.000
+GENE6X	GO:0006091	GO:0006091: generation of precursor metabolites and energy	1	0.164	-0.000
+GENE18X	GO:0007218	GO:0007218: neuropeptide signaling pathway	1	0.106	-0.000
+GENE17X	hsa04020	hsa04020: Calcium signaling pathway	1	0.139	-0.000
+GENE15X	GO:0005975	GO:0005975: carbohydrate metabolic process	1	0.141	-0.000
+GENE11X	GO:0140448	GO:0140448: signaling receptor ligand precursor processing	1	0.132	-0.000
+GENE9X	GO:0014823	GO:0014823: response to activity	1	0.145	-0.000
+GENE2X	GO:0045109	GO:0045109: intermediate filament organization	1	0.143	-0.000
+GENE3X	GO:0005977	GO:0005977: glycogen metabolic process	1	0.116	-0.000
