@@ -7,6 +7,8 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 
 - [Bulk metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
 
+- [CIBERSORTx](https://cibersortx.stanford.edu) was used to estimate the abundance of cell types in the oral cancer microenvironment(https://cibersortx.stanford.edu). 
+
 - [scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)
 
 - [CellChat](https://github.com/sqjin/CellChat) was implemented to infer intercellular communications(https://github.com/sqjin/CellChat). 
