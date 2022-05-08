@@ -5,7 +5,7 @@
 ### NAVIGATION
 We used no unpublished codes in bulk and single-cell analyses in this study. Source data are provided in our paper. All other data supporting the results of this study are available from the corresponding author upon reasonable request.
 
-- [Metascape](https://metascape.org/) was used to perform DEG enrichment analysis and protein-protein interaction analysis (https://metascape.org/).
+- [Metascape](https://metascape.org/) was used to perform DEGs enrichment analysis and protein-protein interaction analysis (https://metascape.org/).
   - [Bulk RNA-seq metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
   - [scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)
 
