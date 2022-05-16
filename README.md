@@ -7,13 +7,14 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 
 - [Metascape](https://metascape.org/) was used to perform DEGs enrichment analysis and protein-protein interaction analysis (https://metascape.org/).
   - [Bulk RNA-seq metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
-  - [scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)　<br>
+  - [scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)　
+  <br>
 
 
 - [ESTIMATE](https://bioinformatics.mdanderson.org/estimate) was used to calculate the score of the purity of tumor tissue and stromal cell presence and the level of immune cell infiltration (https://bioinformatics.mdanderson.org/estimate).
-  - [ESTIMATE data](/data/estimate/estimate.htm)<br>
-
-
+  - [ESTIMATE data](/data/estimate/estimate.htm)
+  <br>
+  
 - [CIBERSORTx](https://cibersortx.stanford.edu) was used to estimate the abundance of cell types in the oral cancer microenvironment(https://cibersortx.stanford.edu). 
 
 - [CellChat](https://github.com/sqjin/CellChat) was implemented to infer intercellular communications (https://github.com/sqjin/CellChat). 
