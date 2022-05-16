@@ -5,12 +5,10 @@
 ### NAVIGATION
 We used no unpublished codes in bulk and single-cell analyses in this study. Source data are provided in our paper. All other data supporting the results of this study are available from the corresponding author upon reasonable request.
 
-- [Metascape](https://metascape.org/) was used to perform DEGs enrichment analysis and protein-protein interaction analysis (https://metascape.org/).  
-
+- [Metascape](https://metascape.org/) was used to perform DEGs enrichment analysis and protein-protein interaction analysis (https://metascape.org/).
   - [Bulk RNA-seq metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
-  - [scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)        
-
-
+  - [scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)  
+  
 - [ESTIMATE](https://bioinformatics.mdanderson.org/estimate) was used to calculate the score of the purity of tumor tissue and stromal cell presence and the level of immune cell infiltration (https://bioinformatics.mdanderson.org/estimate).　　
   - [ESTIMATE data](/data/estimate/estimate.htm)  
   
