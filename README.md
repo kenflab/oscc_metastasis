@@ -45,7 +45,7 @@ Please contact <furudate@hirosaki-u.ac.jp> with any questions or suggestions.
 
 
 ### LICENCE
-This project is under the MIT license - see the [LICENSE](LICENSE) in details.
+This project is under the MIT license - see the [LICENSE](LICENSE.htm) in details.
 
 
 ### Reference
