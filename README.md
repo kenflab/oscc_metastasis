@@ -28,16 +28,26 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 <br>
 
 ```markdown
-arviz 0.9.0
-numpy 1.19.5
-matplotlib 3.2.2
-pandas 1.1.5
-python 3.6.9
-pymc3 3.10.0
-R 3.6.2
-seaborn 0.11.1
-sklearn 0.22.2.post1
-theano-pymc 1.0.11
+R v3.6.2
+ggplot2 v3.3.5
+tidyverse v1.3.1
+tidyr v1.1.3
+tibble v3.1.4
+dplyrr v1.0.7
+purrr v0.3.4
+stringr v1.4.0
+
+Python v3.7.12
+Scanpy v1.8.2
+leidenalg v0.8.8
+Squidpy v1.1.2
+matplotlib v3.2.2
+seaborn v0.11.2
+numpy v1.21.5
+pandas v1.3.5
+anndata v0.7.8
+stlearn v0.3.1
+scvi-tools v0.14.5
 ```
 
 ### CONTACT
