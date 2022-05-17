@@ -19,7 +19,7 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 <br>
 
 - [CellChat](https://github.com/sqjin/CellChat) was implemented to infer intercellular communications (https://github.com/sqjin/CellChat). 
-  - [CellChat meta data](data/cellchat/cellchat_meta.data.htm)
+  - [CellChat meta data](data/cellchat/cellchat_meta.data.htm)  
 <br>
 
 - The spatial transcriptome data were processed using [Space ranger](https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger) v1.3.0 with reference genome GRCh38 (https://www.10xgenomics.com/) .
