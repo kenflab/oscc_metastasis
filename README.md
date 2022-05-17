@@ -15,7 +15,7 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 <br>  
   
 - [CIBERSORTx](https://cibersortx.stanford.edu) was used to estimate the abundance of cell types in the oral cancer microenvironment(https://cibersortx.stanford.edu). 
-  - [CIBERSORTx data](/data/cibersortx/CIbersortx.htm )  
+  - [CIBERSORTx data](/data/cibersortx/Cibersortx.htm )  
 <br>  
 
 - [CellChat](https://github.com/sqjin/CellChat) was implemented to infer intercellular communications (https://github.com/sqjin/CellChat). 
