@@ -19,6 +19,7 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 <br>
 
 - [CellChat](https://github.com/sqjin/CellChat) was implemented to infer intercellular communications (https://github.com/sqjin/CellChat). 
+  - Web-based [CellChat Explorer](http://www.cellchat.org/)
   - [CellChat meta data](data/cellchat/cellchat_meta.data.htm)  
 <br>
 
