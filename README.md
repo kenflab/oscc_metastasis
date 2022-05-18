@@ -55,10 +55,10 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
     - [FFPE spatial analysis](/data/ipynbs/FFPE_spatial_analysis.html)
 <br>
 
-- [Tangram](https://github.com/broadinstitute/Tangram) was used to map the cells within each spot.
+- [Tangram](https://github.com/broadinstitute/Tangram) was used to map the cells within each spot (https://github.com/broadinstitute/Tangram).
 <br>
 
-- [scvi-tools] was performed to correct sample-specific batch effects and integrate spatial transcriptome data.
+- [scvi-tools](https://github.com/scverse/scvi-tools) was performed to correct sample-specific batch effects and integrate spatial transcriptome data (https://github.com/scverse/scvi-tools).
     - [Integration analysis of primary and metastatic sites](/data/ipynbs/Integration_analysis_of_pri_met.html)
 <br>
 
