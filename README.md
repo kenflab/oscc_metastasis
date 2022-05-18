@@ -2,6 +2,29 @@
 
 ### OVERVIEW
 
+```markdown
+R v3.6.2.
+ggplot2 v3.3.5.
+tidyverse v1.3.1.
+tidyr v1.1.3.
+tibble v3.1.4.
+dplyrr v1.0.7.
+purrr v0.3.4.
+stringr v1.4.0.
+
+Python v3.7.12.
+Scanpy v1.8.2.
+leidenalg v0.8.8.
+Squidpy v1.1.2.
+matplotlib v3.2.2.
+seaborn v0.11.2.
+numpy v1.21.5.
+pandas v1.3.5.
+anndata v0.7.8.
+stlearn v0.3.1.
+scvi-tools v0.14.5.
+```
+
 ### NAVIGATION
 We used no unpublished codes in bulk and single-cell analyses in this study. Source data are provided in our paper. All other data supporting the results of this study are available from the corresponding author upon reasonable request.
 
@@ -26,32 +49,16 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 - The spatial transcriptome data were processed using [Space ranger](https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger) v1.3.0 with reference genome GRCh38 (https://www.10xgenomics.com/) .
     - [Spatial data summary](summary.md)
     - [Spatial annotation](spatial_annotation.md)
+<br>  
+- Spatial RNA-seq data processing and pathological annotation.
     - [FFPE spatial analysis](/data/ipynbs/FFPE_spatial_analysis.html)
+<br>
+- [Tangram](https://github.com/broadinstitute/Tangram) was used to map the cells within each spot.
+<br>
+- [scvi-tools] was performed to correct sample-specific batch effects and integrate spatial transcriptome data.
     - [Integration analysis of primary and metastatic sites](/data/ipynbs/Integration_analysis_of_pri_met.html)
 <br>
 
-```markdown
-R v3.6.2
-ggplot2 v3.3.5
-tidyverse v1.3.1
-tidyr v1.1.3
-tibble v3.1.4
-dplyrr v1.0.7
-purrr v0.3.4
-stringr v1.4.0
-
-Python v3.7.12
-Scanpy v1.8.2
-leidenalg v0.8.8
-Squidpy v1.1.2
-matplotlib v3.2.2
-seaborn v0.11.2
-numpy v1.21.5
-pandas v1.3.5
-anndata v0.7.8
-stlearn v0.3.1
-scvi-tools v0.14.5
-```
 
 ### CONTACT
 Please contact <furudate@hirosaki-u.ac.jp> with any questions or suggestions.
