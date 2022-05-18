@@ -50,11 +50,14 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
     - [Spatial data summary](summary.md)
     - [Spatial annotation](spatial_annotation.md)
 <br>  
+
 - Spatial RNA-seq data processing and pathological annotation.
     - [FFPE spatial analysis](/data/ipynbs/FFPE_spatial_analysis.html)
 <br>
+
 - [Tangram](https://github.com/broadinstitute/Tangram) was used to map the cells within each spot.
 <br>
+
 - [scvi-tools] was performed to correct sample-specific batch effects and integrate spatial transcriptome data.
     - [Integration analysis of primary and metastatic sites](/data/ipynbs/Integration_analysis_of_pri_met.html)
 <br>
