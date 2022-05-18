@@ -27,6 +27,7 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
     - [Spatial data summary](summary.md)
     - [Spatial annotation](spatial_annotation.md)
     - [FFPE spatial analysis](/data/ipynbs/FFPE_spatial_analysis.html)
+    - [Integration analysis of primary and metastatic sites](https://docs.scvi-tools.org/en/0.10.0/user_guide/notebooks/scVI_DE_worm.html)
 <br>
 
 ```markdown
