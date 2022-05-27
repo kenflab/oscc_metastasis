@@ -41,6 +41,11 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
   - [CIBERSORTx data](/data/cibersortx/Cibersortx.htm)  
 <br>
 
+- [Scanpy](https://github.com/scverse/scanpy) was used for quality control and visualization of single-cell data(https://github.com/scverse/scanpy). 
+  - [Single-cell meta data](/data/scanpy/oscc_scRNA-seq_meta_data.htm)  
+
+ 
+
 - [CellChat](https://github.com/sqjin/CellChat) was implemented to infer intercellular communications (https://github.com/sqjin/CellChat). 
   - Web-based [CellChat Explorer](http://www.cellchat.org/)
   - [CellChat meta data](data/cellchat/cellchat_meta.data.htm)  
