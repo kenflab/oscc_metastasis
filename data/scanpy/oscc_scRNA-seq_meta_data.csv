@@ -3599,35 +3599,35 @@ HNSCC6_p15_HNSCC6_P15_LN_B12,MSC,oscc6,LNM_pri
 HNSCC6_p15_HNSCC6_P15_LN_B07,CAF,oscc6,LNM_pri
 HNSCC6_p15_HNSCC6_P15_LN_E06,CAF,oscc6,LNM_pri
 HNSCC20_P3_H07_S91_comb,MAF,oscc20,LNM_pri
-HNSCC22_P5_E02_S242_comb,Mast,oscc22,N0_pri
-HNSCC22_P5_C11_S227_comb,Mast,oscc22,N0_pri
-HNSCC22_P4_C11_S35_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_B08_S212_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_H12_S288_comb,Mast,oscc22,N0_pri
-HNSCC22_P4_B02_S14_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_D09_S237_comb,Mast,oscc22,N0_pri
-HNSCC22_P4_C12_S36_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_D01_S229_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_H05_S281_comb,Dendritic,oscc22,N0_pri
-HNSCC22_P2_pri_C09_S225_comb,Endothelial,oscc22,N0_pri
-HNSCC22_P2_pri_C07_S223_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_F03_S255_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_G04_S268_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_G05_S269_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_B06_S210_comb,Mast,oscc22,N0_pri
-HNSCC22_P4_A06_S6_comb,Mast,oscc22,N0_pri
-HNSCC22_P4_B08_S20_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_C08_S224_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_B05_S209_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_D07_S235_comb,Mast,oscc22,N0_pri
-HNSCC22_P4_B04_S16_comb,Mast,oscc22,N0_pri
-HNSCC22_P2_pri_F08_S260_comb,Mast,oscc22,N0_pri
-HNSCC22_P4_B10_S22_comb,Mast,oscc22,N0_pri
+HNSCC22_P5_E02_S242_comb,Mst,oscc22,N0_pri
+HNSCC22_P5_C11_S227_comb,Mst,oscc22,N0_pri
+HNSCC22_P4_C11_S35_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_B08_S212_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_H12_S288_comb,Mst,oscc22,N0_pri
+HNSCC22_P4_B02_S14_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_D09_S237_comb,Mst,oscc22,N0_pri
+HNSCC22_P4_C12_S36_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_D01_S229_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_H05_S281_comb,DC,oscc22,N0_pri
+HNSCC22_P2_pri_C09_S225_comb,EC,oscc22,N0_pri
+HNSCC22_P2_pri_C07_S223_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_F03_S255_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_G04_S268_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_G05_S269_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_B06_S210_comb,Mst,oscc22,N0_pri
+HNSCC22_P4_A06_S6_comb,Mst,oscc22,N0_pri
+HNSCC22_P4_B08_S20_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_C08_S224_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_B05_S209_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_D07_S235_comb,Mst,oscc22,N0_pri
+HNSCC22_P4_B04_S16_comb,Mst,oscc22,N0_pri
+HNSCC22_P2_pri_F08_S260_comb,Mst,oscc22,N0_pri
+HNSCC22_P4_B10_S22_comb,Mst,oscc22,N0_pri
 HNSCC_17_P10_G09_S273_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_B04_S16_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_B04_S16_comb,EC,oscc16,N0_pri
 HNSCC17_P13_G02_S362_comb,T cell,oscc17,N0_pri
 HNSCC17_P13_C05_S317_comb,T cell,oscc17,N0_pri
-HNSCC17_P13_A09_S297_comb,Macrophage,oscc17,N0_pri
+HNSCC17_P13_A09_S297_comb,Mac,oscc17,N0_pri
 HNSCC16_P9_F09_S261_comb,T cell,oscc16,N0_pri
 HNSCC16_P9_D05_S233_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_E08_S56_comb,T cell,oscc17,N0_pri
@@ -3638,26 +3638,26 @@ HNSCC_17_P9_H08_S92_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_G12_S276_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_F12_S72_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_E02_S242_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_D03_S39_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_D03_S39_comb,EC,oscc16,N0_pri
 HNSCC_17_P9_F04_S64_comb,T cell,oscc17,N0_pri
-HNSCC17_P7_B09_S117_comb,Endothelial,oscc17,N0_pri
+HNSCC17_P7_B09_S117_comb,EC,oscc17,N0_pri
 HNSCC_17_P10_D05_S233_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_B09_S213_comb,T cell,oscc16,N0_pri
-HNSCC17_P13_F10_S358_comb,Mast,oscc17,N0_pri
+HNSCC17_P13_F10_S358_comb,Mst,oscc17,N0_pri
 HNSCC_17_P10_G01_S265_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_A07_S7_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_G01_S73_comb,Endothelial,oscc16,N0_pri
-HNSCC17_P13_D03_S327_comb,Macrophage,oscc17,N0_pri
-HNSCC16_P2_F10_S70_comb,Endothelial,oscc16,N0_pri
-HNSCC16_P2_G08_S80_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_G01_S73_comb,EC,oscc16,N0_pri
+HNSCC17_P13_D03_S327_comb,Mac,oscc17,N0_pri
+HNSCC16_P2_F10_S70_comb,EC,oscc16,N0_pri
+HNSCC16_P2_G08_S80_comb,EC,oscc16,N0_pri
 HNSCC_17_P10_E05_S245_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_B06_S18_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_B06_S18_comb,EC,oscc16,N0_pri
 HNSCC_17_P9_D09_S45_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_F06_S66_comb,T cell,oscc17,N0_pri
 HNSCC17_P13_H10_S382_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_D09_S237_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_A05_S197_comb,T cell,oscc17,N0_pri
-HNSCC16_P9_H10_S286_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P9_H10_S286_comb,EC,oscc16,N0_pri
 HNSCC16_P9_B11_S215_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_C06_S222_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_B02_S206_comb,T cell,oscc17,N0_pri
@@ -3669,50 +3669,50 @@ HNSCC16_P9_E06_S246_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_C03_S27_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_B04_S16_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_B11_S215_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_C02_S26_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_C02_S26_comb,EC,oscc16,N0_pri
 HNSCC_17_P9_H05_S89_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_D10_S46_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_C06_S30_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_G12_S276_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_F11_S263_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_A04_S196_comb,T cell,oscc16,N0_pri
-HNSCC17_P7_E02_S146_comb,Endothelial,oscc17,N0_pri
+HNSCC17_P7_E02_S146_comb,EC,oscc17,N0_pri
 HNSCC16_P9_F07_S259_comb,T cell,oscc16,N0_pri
-HNSCC17_P7_A05_S101_comb,Endothelial,oscc17,N0_pri
-HNSCC16_P2_F05_S65_comb,Endothelial,oscc16,N0_pri
+HNSCC17_P7_A05_S101_comb,EC,oscc17,N0_pri
+HNSCC16_P2_F05_S65_comb,EC,oscc16,N0_pri
 HNSCC_17_P10_D12_S240_comb,T cell,oscc17,N0_pri
 HNSCC17_P13_E04_S340_comb,B cell,oscc17,N0_pri
 HNSCC_17_P9_B07_S19_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_D04_S40_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_D04_S40_comb,EC,oscc16,N0_pri
 HNSCC_17_P9_D03_S39_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_E02_S50_comb,T cell,oscc17,N0_pri
-HNSCC16_P9_A06_S198_comb,Mast,oscc16,N0_pri
-HNSCC16_P9_H07_S283_comb,Endothelial,oscc16,N0_pri
-HNSCC17_P3_F02_S254_comb,Mast,oscc17,N0_pri
+HNSCC16_P9_A06_S198_comb,Mst,oscc16,N0_pri
+HNSCC16_P9_H07_S283_comb,EC,oscc16,N0_pri
+HNSCC17_P3_F02_S254_comb,Mst,oscc17,N0_pri
 HNSCC_17_P9_C07_S31_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_F01_S253_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_G08_S272_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_B04_S208_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_E06_S246_comb,T cell,oscc17,N0_pri
-HNSCC17_P7_F03_S159_comb,Endothelial,oscc17,N0_pri
+HNSCC17_P7_F03_S159_comb,EC,oscc17,N0_pri
 HNSCC_17_P10_H02_S278_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_A12_S204_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_H01_S277_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_G06_S78_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_F08_S260_comb,T cell,oscc17,N0_pri
-HNSCC16_P9_C07_S223_comb,Macrophage,oscc16,N0_pri
+HNSCC16_P9_C07_S223_comb,Mac,oscc16,N0_pri
 HNSCC_17_P10_E08_S248_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_G03_S75_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_G03_S75_comb,EC,oscc16,N0_pri
 HNSCC_17_P9_D02_S38_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_H11_S95_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_F08_S68_comb,T cell,oscc17,N0_pri
 HNSCC17_P13_G10_S370_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_A02_S194_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_B09_S21_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_B09_S21_comb,EC,oscc16,N0_pri
 HNSCC_17_P10_B10_S214_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_C11_S35_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_C10_S226_comb,T cell,oscc16,N0_pri
-HNSCC17_P7_C11_S131_comb,Endothelial,oscc17,N0_pri
+HNSCC17_P7_C11_S131_comb,EC,oscc17,N0_pri
 HNSCC_17_P9_A06_S6_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_C08_S224_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_G12_S84_comb,T cell,oscc17,N0_pri
@@ -3725,7 +3725,7 @@ HNSCC16_P9_E11_S251_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_E12_S60_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_G08_S80_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_C11_S227_comb,T cell,oscc16,N0_pri
-HNSCC16_P2_E05_S53_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_E05_S53_comb,EC,oscc16,N0_pri
 HNSCC16_P9_E09_S249_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_D01_S37_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_D03_S231_comb,T cell,oscc17,N0_pri
@@ -3733,48 +3733,48 @@ HNSCC_17_P10_C07_S223_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_C10_S34_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_A08_S200_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_H10_S94_comb,T cell,oscc17,N0_pri
-HNSCC16_P9_B06_S210_comb,Mast,oscc16,N0_pri
+HNSCC16_P9_B06_S210_comb,Mst,oscc16,N0_pri
 HNSCC16_P9_F04_S256_comb,T cell,oscc16,N0_pri
 HNSCC17_P13_F11_S359_comb,B cell,oscc17,N0_pri
-HNSCC16_P9_G08_S272_comb,Macrophage,oscc16,N0_pri
+HNSCC16_P9_G08_S272_comb,Mac,oscc16,N0_pri
 HNSCC_17_P10_B09_S213_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_F03_S255_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_B06_S18_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_F03_S255_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_E04_S244_comb,T cell,oscc16,N0_pri
-HNSCC17_P7_C01_S121_comb,Endothelial,oscc17,N0_pri
+HNSCC17_P7_C01_S121_comb,EC,oscc17,N0_pri
 HNSCC16_P9_G03_S267_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_D02_S230_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_A11_S11_comb,T cell,oscc17,N0_pri
-HNSCC17_P7_G07_S175_comb,Endothelial,oscc17,N0_pri
+HNSCC17_P7_G07_S175_comb,EC,oscc17,N0_pri
 HNSCC16_P9_G09_S273_comb,T cell,oscc16,N0_pri
 HNSCC16_P9_D09_S237_comb,T cell,oscc16,N0_pri
 HNSCC17_P13_B01_S301_comb,B cell,oscc17,N0_pri
 HNSCC_17_P9_D11_S47_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_A04_S196_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_G04_S76_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_G04_S76_comb,EC,oscc16,N0_pri
 HNSCC_17_P9_G07_S79_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_F10_S70_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_E12_S60_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_E12_S60_comb,EC,oscc16,N0_pri
 HNSCC16_P9_G07_S271_comb,T cell,oscc16,N0_pri
 HNSCC16_P9_F12_S264_comb,T cell,oscc16,N0_pri
-HNSCC17_P7_G01_S169_comb,Endothelial,oscc17,N0_pri
+HNSCC17_P7_G01_S169_comb,EC,oscc17,N0_pri
 HNSCC16_P9_A10_S202_comb,T cell,oscc16,N0_pri
 HNSCC16_P9_F05_S257_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_C02_S218_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_H02_S86_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_F05_S65_comb,T cell,oscc17,N0_pri
-HNSCC16_P9_G11_S275_comb,Mast,oscc16,N0_pri
+HNSCC16_P9_G11_S275_comb,Mst,oscc16,N0_pri
 HNSCC_17_P10_G03_S267_comb,T cell,oscc17,N0_pri
-HNSCC17_P7_F07_S163_comb,Endothelial,oscc17,N0_pri
-HNSCC17_P7_H12_S192_comb,Endothelial,oscc17,N0_pri
+HNSCC17_P7_F07_S163_comb,EC,oscc17,N0_pri
+HNSCC17_P7_H12_S192_comb,EC,oscc17,N0_pri
 HNSCC_17_P9_E09_S57_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_C01_S217_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_G05_S269_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_B05_S17_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_G10_S274_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_D12_S48_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_C10_S34_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_C10_S34_comb,EC,oscc16,N0_pri
 HNSCC_17_P9_H12_S96_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_C05_S29_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_C09_S225_comb,T cell,oscc17,N0_pri
@@ -3783,12 +3783,12 @@ HNSCC_17_P10_D11_S239_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_H04_S280_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_E07_S247_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_F10_S262_comb,T cell,oscc16,N0_pri
-HNSCC17_P7_E05_S149_comb,Endothelial,oscc17,N0_pri
+HNSCC17_P7_E05_S149_comb,EC,oscc17,N0_pri
 HNSCC_17_P9_H01_S85_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_C04_S28_comb,Endothelial,oscc16,N0_pri
-HNSCC16_P9_A05_S197_comb,Macrophage,oscc16,N0_pri
-HNSCC17_P7_E08_S152_comb,Endothelial,oscc17,N0_pri
-HNSCC16_P2_D05_S41_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_C04_S28_comb,EC,oscc16,N0_pri
+HNSCC16_P9_A05_S197_comb,Mac,oscc16,N0_pri
+HNSCC17_P7_E08_S152_comb,EC,oscc17,N0_pri
+HNSCC16_P2_D05_S41_comb,EC,oscc16,N0_pri
 HNSCC16_P9_E07_S247_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_H06_S282_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_E03_S243_comb,T cell,oscc17,N0_pri
@@ -3799,20 +3799,20 @@ HNSCC_17_P10_B06_S210_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_D05_S41_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_C12_S36_comb,T cell,oscc17,N0_pri
 HNSCC17_P13_H06_S378_comb,B cell,oscc17,N0_pri
-HNSCC16_P2_E03_S51_comb,Endothelial,oscc16,N0_pri
-HNSCC16_P2_A02_S2_comb,Endothelial,oscc16,N0_pri
-HNSCC16_P2_E01_S49_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_E03_S51_comb,EC,oscc16,N0_pri
+HNSCC16_P2_A02_S2_comb,EC,oscc16,N0_pri
+HNSCC16_P2_E01_S49_comb,EC,oscc16,N0_pri
 HNSCC16_P9_E03_S243_comb,T cell,oscc16,N0_pri
 HNSCC16_P9_E10_S250_comb,T cell,oscc16,N0_pri
-HNSCC16_P2_H11_S95_comb,Endothelial,oscc16,N0_pri
-HNSCC16_P2_C07_S31_comb,Endothelial,oscc16,N0_pri
-HNSCC16_P2_E08_S56_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_H11_S95_comb,EC,oscc16,N0_pri
+HNSCC16_P2_C07_S31_comb,EC,oscc16,N0_pri
+HNSCC16_P2_E08_S56_comb,EC,oscc16,N0_pri
 HNSCC16_P9_B12_S216_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_G06_S270_comb,T cell,oscc17,N0_pri
-HNSCC16_P9_D10_S238_comb,Mast,oscc16,N0_pri
+HNSCC16_P9_D10_S238_comb,Mst,oscc16,N0_pri
 HNSCC16_P9_D11_S239_comb,T cell,oscc16,N0_pri
-HNSCC16_P2_G11_S83_comb,Endothelial,oscc16,N0_pri
-HNSCC17_P7_F06_S162_comb,Endothelial,oscc17,N0_pri
+HNSCC16_P2_G11_S83_comb,EC,oscc16,N0_pri
+HNSCC17_P7_F06_S162_comb,EC,oscc17,N0_pri
 HNSCC_17_P10_A01_S193_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_B08_S212_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_H03_S279_comb,T cell,oscc17,N0_pri
@@ -3825,37 +3825,37 @@ HNSCC_17_P9_B03_S15_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_G10_S274_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_E10_S58_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_B12_S24_comb,T cell,oscc17,N0_pri
-HNSCC16_P9_B05_S209_comb,Mast,oscc16,N0_pri
+HNSCC16_P9_B05_S209_comb,Mst,oscc16,N0_pri
 HNSCC16_P9_A09_S201_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_G09_S81_comb,T cell,oscc17,N0_pri
-HNSCC16_P9_D07_S235_comb,Mast,oscc16,N0_pri
+HNSCC16_P9_D07_S235_comb,Mst,oscc16,N0_pri
 HNSCC16_P9_C02_S218_comb,T cell,oscc16,N0_pri
-HNSCC17_P3_H06_S282_comb,Mast,oscc17,N0_pri
+HNSCC17_P3_H06_S282_comb,Mst,oscc17,N0_pri
 HNSCC16_P9_A08_S200_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_B02_S14_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_C08_S32_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_C08_S32_comb,EC,oscc16,N0_pri
 HNSCC_17_P10_C11_S227_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_G05_S77_comb,T cell,oscc17,N0_pri
 HNSCC17_P13_B10_S310_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_B12_S216_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_G06_S270_comb,T cell,oscc16,N0_pri
-HNSCC17_P7_G04_S172_comb,Endothelial,oscc17,N0_pri
-HNSCC17_P7_B04_S112_comb,Endothelial,oscc17,N0_pri
+HNSCC17_P7_G04_S172_comb,EC,oscc17,N0_pri
+HNSCC17_P7_B04_S112_comb,EC,oscc17,N0_pri
 HNSCC_17_P10_A07_S199_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_C01_S25_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_C06_S30_comb,Endothelial,oscc16,N0_pri
-HNSCC17_P13_B03_S303_comb,Mast,oscc17,N0_pri
+HNSCC16_P2_C06_S30_comb,EC,oscc16,N0_pri
+HNSCC17_P13_B03_S303_comb,Mst,oscc17,N0_pri
 HNSCC_17_P10_B08_S212_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_A07_S199_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_B05_S209_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_H04_S88_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_A06_S198_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_G02_S74_comb,Endothelial,oscc16,N0_pri
-HNSCC16_P2_D02_S38_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_G02_S74_comb,EC,oscc16,N0_pri
+HNSCC16_P2_D02_S38_comb,EC,oscc16,N0_pri
 HNSCC_17_P9_D08_S44_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_E02_S242_comb,T cell,oscc16,N0_pri
-HNSCC16_P2_H05_S89_comb,Endothelial,oscc16,N0_pri
-HNSCC16_P2_G06_S78_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_H05_S89_comb,EC,oscc16,N0_pri
+HNSCC16_P2_G06_S78_comb,EC,oscc16,N0_pri
 HNSCC16_P9_C04_S220_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_E10_S250_comb,T cell,oscc17,N0_pri
 HNSCC17_P13_G12_S372_comb,B cell,oscc17,N0_pri
@@ -3864,27 +3864,27 @@ HNSCC_17_P10_D04_S232_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_F11_S71_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_F11_S263_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_E04_S52_comb,T cell,oscc17,N0_pri
-HNSCC17_P7_H09_S189_comb,Endothelial,oscc17,N0_pri
+HNSCC17_P7_H09_S189_comb,EC,oscc17,N0_pri
 HNSCC_17_P10_C05_S221_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_E12_S252_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_B08_S20_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_B08_S20_comb,EC,oscc16,N0_pri
 HNSCC17_P13_E02_S338_comb,B cell,oscc17,N0_pri
 HNSCC16_P9_D12_S240_comb,T cell,oscc16,N0_pri
-HNSCC16_P2_A10_S10_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_A10_S10_comb,EC,oscc16,N0_pri
 HNSCC16_P9_D08_S236_comb,T cell,oscc16,N0_pri
 HNSCC16_P9_C03_S219_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_B10_S22_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_G04_S268_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_H01_S85_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_H01_S85_comb,EC,oscc16,N0_pri
 HNSCC_17_P10_C12_S228_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_H06_S90_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_E07_S55_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_H03_S87_comb,Mast,oscc16,N0_pri
-HNSCC16_P2_A05_S5_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_H03_S87_comb,Mst,oscc16,N0_pri
+HNSCC16_P2_A05_S5_comb,EC,oscc16,N0_pri
 HNSCC17_P13_G01_S361_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_A02_S194_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_B11_S23_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_B03_S15_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_B03_S15_comb,EC,oscc16,N0_pri
 HNSCC_17_P10_D01_S229_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_B01_S205_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_C12_S228_comb,T cell,oscc16,N0_pri
@@ -3893,7 +3893,7 @@ HNSCC_17_P9_C09_S33_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_E06_S54_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_G04_S76_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_D07_S235_comb,T cell,oscc17,N0_pri
-HNSCC16_P9_A11_S203_comb,Macrophage,oscc16,N0_pri
+HNSCC16_P9_A11_S203_comb,Mac,oscc16,N0_pri
 HNSCC16_P9_G02_S266_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_G07_S271_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_E04_S244_comb,T cell,oscc17,N0_pri
@@ -3901,8 +3901,8 @@ HNSCC16_P9_D01_S229_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_F03_S63_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_A05_S5_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_H03_S87_comb,T cell,oscc17,N0_pri
-HNSCC17_P3_A02_S194_comb,Mast,oscc17,N0_pri
-HNSCC16_P2_H02_S86_comb,Endothelial,oscc16,N0_pri
+HNSCC17_P3_A02_S194_comb,Mst,oscc17,N0_pri
+HNSCC16_P2_H02_S86_comb,EC,oscc16,N0_pri
 HNSCC_17_P10_E09_S249_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_E01_S241_comb,T cell,oscc16,N0_pri
 HNSCC16_P9_B03_S207_comb,T cell,oscc16,N0_pri
@@ -3923,9 +3923,9 @@ HNSCC_17_P9_H07_S91_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_C08_S32_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_E01_S49_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_H05_S281_comb,T cell,oscc17,N0_pri
-HNSCC16_P9_E08_S248_comb,Mast,oscc16,N0_pri
+HNSCC16_P9_E08_S248_comb,Mst,oscc16,N0_pri
 HNSCC_17_P10_B07_S211_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_E07_S55_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_E07_S55_comb,EC,oscc16,N0_pri
 HNSCC16_P9_F08_S260_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_F09_S69_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_E12_S252_comb,T cell,oscc16,N0_pri
@@ -3934,7 +3934,7 @@ HNSCC_17_P9_A09_S9_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_G04_S268_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_A11_S203_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_H10_S286_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_F06_S66_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_F06_S66_comb,EC,oscc16,N0_pri
 HNSCC_17_P9_A10_S10_comb,T cell,oscc17,N0_pri
 HNSCC17_P13_E12_S348_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_F07_S259_comb,T cell,oscc17,N0_pri
@@ -3942,20 +3942,20 @@ HNSCC16_P9_A12_S204_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_G02_S74_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_H09_S93_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_B03_S207_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_H04_S88_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_H04_S88_comb,EC,oscc16,N0_pri
 HNSCC16_P9_A01_S193_comb,T cell,oscc16,N0_pri
 HNSCC_17_P9_B09_S21_comb,T cell,oscc17,N0_pri
 HNSCC16_P9_D06_S234_comb,T cell,oscc16,N0_pri
 HNSCC16_P9_G05_S269_comb,T cell,oscc16,N0_pri
 HNSCC_17_P10_G11_S275_comb,T cell,oscc17,N0_pri
 HNSCC_17_P10_D06_S234_comb,T cell,oscc17,N0_pri
-HNSCC17_P7_E03_S147_comb,Endothelial,oscc17,N0_pri
-HNSCC16_P2_F03_S63_comb,Endothelial,oscc16,N0_pri
+HNSCC17_P7_E03_S147_comb,EC,oscc17,N0_pri
+HNSCC16_P2_F03_S63_comb,EC,oscc16,N0_pri
 HNSCC_17_P9_F02_S62_comb,T cell,oscc17,N0_pri
-HNSCC16_P2_D07_S43_comb,Endothelial,oscc16,N0_pri
+HNSCC16_P2_D07_S43_comb,EC,oscc16,N0_pri
 HNSCC_17_P10_F10_S262_comb,T cell,oscc17,N0_pri
 HNSCC_17_P9_C04_S28_comb,T cell,oscc17,N0_pri
-HNSCC17_P1_HNSCC17_P1_D03,Mast,oscc17,N0_pri
+HNSCC17_P1_HNSCC17_P1_D03,Mst,oscc17,N0_pri
 HNSCC17_P1_HNSCC17_P1_G02,B cell,oscc17,N0_pri
 HNSCC17_P8_HNSCC17_P8_E08,T cell,oscc17,N0_pri
 HNSCC17_P8_HNSCC17_P8_B11,T cell,oscc17,N0_pri
@@ -4010,17 +4010,17 @@ HNSCC17_P8_HNSCC17_P8_D02,T cell,oscc17,N0_pri
 HNSCC17_P8_HNSCC17_P8_F05,T cell,oscc17,N0_pri
 HNSCC17_P8_HNSCC17_P8_F02,T cell,oscc17,N0_pri
 HNSCC17_P8_HNSCC17_P8_F06,T cell,oscc17,N0_pri
-HNSCC16_P5_HNSCC16_P5_D07,Mast,oscc16,N0_pri
+HNSCC16_P5_HNSCC16_P5_D07,Mst,oscc16,N0_pri
 HNSCC16_P5_HNSCC16_P5_F05,T cell,oscc16,N0_pri
-HNSCC16_P5_HNSCC16_P5_C01,Dendritic,oscc16,N0_pri
-HNSCC16_P5_HNSCC16_P5_F09,Mast,oscc16,N0_pri
-HNSCC16_P5_HNSCC16_P5_D09,Dendritic,oscc16,N0_pri
-HNSCC16_P5_HNSCC16_P5_A07,Macrophage,oscc16,N0_pri
-HNSCC16_P5_HNSCC16_P5_B08,Mast,oscc16,N0_pri
-HNSCC16_P5_HNSCC16_P5_E01,Mast,oscc16,N0_pri
-HNSCC16_P5_HNSCC16_P5_C11,Mast,oscc16,N0_pri
+HNSCC16_P5_HNSCC16_P5_C01,DC,oscc16,N0_pri
+HNSCC16_P5_HNSCC16_P5_F09,Mst,oscc16,N0_pri
+HNSCC16_P5_HNSCC16_P5_D09,DC,oscc16,N0_pri
+HNSCC16_P5_HNSCC16_P5_A07,Mac,oscc16,N0_pri
+HNSCC16_P5_HNSCC16_P5_B08,Mst,oscc16,N0_pri
+HNSCC16_P5_HNSCC16_P5_E01,Mst,oscc16,N0_pri
+HNSCC16_P5_HNSCC16_P5_C11,Mst,oscc16,N0_pri
 HNSCC16_P5_HNSCC16_P5_G06,T cell,oscc16,N0_pri
-HNSCC16_P5_HNSCC16_P5_E05,Dendritic,oscc16,N0_pri
+HNSCC16_P5_HNSCC16_P5_E05,DC,oscc16,N0_pri
 HNSCC16_P5_HNSCC16_P5_B03,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_C10,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_E03,T cell,oscc16,N0_pri
@@ -4048,7 +4048,7 @@ HNSCC16_P14_HNSCC16_P14_G06,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_C04,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_A08,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_E04,T cell,oscc16,N0_pri
-HNSCC16_P14_HNSCC16_P14_G12,Macrophage,oscc16,N0_pri
+HNSCC16_P14_HNSCC16_P14_G12,Mac,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_F09,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_B06,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_D08,T cell,oscc16,N0_pri
@@ -4081,7 +4081,7 @@ HNSCC16_P14_HNSCC16_P14_H01,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_B12,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_D09,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_G02,T cell,oscc16,N0_pri
-HNSCC16_P14_HNSCC16_P14_G05,Macrophage,oscc16,N0_pri
+HNSCC16_P14_HNSCC16_P14_G05,Mac,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_F06,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_B04,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_B03,T cell,oscc16,N0_pri
@@ -4096,24 +4096,24 @@ HNSCC16_P14_HNSCC16_P14_F05,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_H03,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_G11,T cell,oscc16,N0_pri
 HNSCC16_P14_HNSCC16_P14_F01,T cell,oscc16,N0_pri
-HNSCC16_P4_HNSCC16_P4_G04,Mast,oscc16,N0_pri
-HNSCC16_P4_HNSCC16_P4_G11,Dendritic,oscc16,N0_pri
-HNSCC16_P4_HNSCC16_P4_B09,Mast,oscc16,N0_pri
-HNSCC16_P4_HNSCC16_P4_D05,Mast,oscc16,N0_pri
-HNSCC16_P4_HNSCC16_P4_B11,myocyte,oscc16,N0_pri
-HNSCC16_P4_HNSCC16_P4_H07,Mast,oscc16,N0_pri
-HNSCC16_P4_HNSCC16_P4_B06,Mast,oscc16,N0_pri
-HNSCC16_P4_HNSCC16_P4_E11,Dendritic,oscc16,N0_pri
+HNSCC16_P4_HNSCC16_P4_G04,Mst,oscc16,N0_pri
+HNSCC16_P4_HNSCC16_P4_G11,DC,oscc16,N0_pri
+HNSCC16_P4_HNSCC16_P4_B09,Mst,oscc16,N0_pri
+HNSCC16_P4_HNSCC16_P4_D05,Mst,oscc16,N0_pri
+HNSCC16_P4_HNSCC16_P4_B11,Myo,oscc16,N0_pri
+HNSCC16_P4_HNSCC16_P4_H07,Mst,oscc16,N0_pri
+HNSCC16_P4_HNSCC16_P4_B06,Mst,oscc16,N0_pri
+HNSCC16_P4_HNSCC16_P4_E11,DC,oscc16,N0_pri
 HNSCC16_P7_HNSCC16_P7_D11,T cell,oscc16,N0_pri
-HNSCC16_P7_HNSCC16_P7_H02,Mast,oscc16,N0_pri
-HNSCC16_P7_HNSCC16_P7_D05,Macrophage,oscc16,N0_pri
-HNSCC16_P7_HNSCC16_P7_G09,Mast,oscc16,N0_pri
-HNSCC16_P7_HNSCC16_P7_B04,Dendritic,oscc16,N0_pri
-HNSCC16_P7_HNSCC16_P7_F11,Mast,oscc16,N0_pri
-HNSCC16_P7_HNSCC16_P7_A01,Mast,oscc16,N0_pri
-HNSCC16_P7_HNSCC16_P7_H10,Dendritic,oscc16,N0_pri
-HNSCC16_P7_HNSCC16_P7_F04,Mast,oscc16,N0_pri
-HNSCC16_P7_HNSCC16_P7_D09,Mast,oscc16,N0_pri
+HNSCC16_P7_HNSCC16_P7_H02,Mst,oscc16,N0_pri
+HNSCC16_P7_HNSCC16_P7_D05,Mac,oscc16,N0_pri
+HNSCC16_P7_HNSCC16_P7_G09,Mst,oscc16,N0_pri
+HNSCC16_P7_HNSCC16_P7_B04,DC,oscc16,N0_pri
+HNSCC16_P7_HNSCC16_P7_F11,Mst,oscc16,N0_pri
+HNSCC16_P7_HNSCC16_P7_A01,Mst,oscc16,N0_pri
+HNSCC16_P7_HNSCC16_P7_H10,DC,oscc16,N0_pri
+HNSCC16_P7_HNSCC16_P7_F04,Mst,oscc16,N0_pri
+HNSCC16_P7_HNSCC16_P7_D09,Mst,oscc16,N0_pri
 HNSCC16_P11_HNSCC16_P11_E03,T cell,oscc16,N0_pri
 HNSCC16_P11_HNSCC16_P11_F02,T cell,oscc16,N0_pri
 HNSCC16_P11_HNSCC16_P11_F07,T cell,oscc16,N0_pri
@@ -4413,26 +4413,26 @@ HNSCC12_p18_HNSCC12_P18_A01,T cell,oscc12,N0_pri
 HNSCC12_p18_HNSCC12_P18_B01,T cell,oscc12,N0_pri
 HNSCC12_p18_HNSCC12_P18_E11,T cell,oscc12,N0_pri
 HNSCC12_p18_HNSCC12_P18_C01,T cell,oscc12,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_H01,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_E01,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_A09,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_F04,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_G11,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_C09,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_G04,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_A04,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_C12,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_G02,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_C10,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_B07,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_C06,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_E05,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_E04,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_E10,Endothelial,oscc8,N0_pri
-HNSCC8_1ant_HNSCC8_1ant_F12,Macrophage,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_E09,Endothelial,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_H01,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_E01,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_A09,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_F04,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_G11,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_C09,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_G04,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_A04,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_C12,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_G02,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_C10,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_B07,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_C06,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_E05,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_E04,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_E10,EC,oscc8,N0_pri
+HNSCC8_1ant_HNSCC8_1ant_F12,Mac,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_E09,EC,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_C11,T cell,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_F01,Endothelial,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_F01,EC,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_D05,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_G05,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_C09,T cell,oscc8,N0_pri
@@ -4440,18 +4440,18 @@ HNSCC8_RLN_HNSCC8_RLNI_B07,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_A04,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_D06,B cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_G08,T cell,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_F10,Endothelial,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_F10,EC,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_E12,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_E11,T cell,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_E02,Endothelial,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_C08,Endothelial,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_D07,Endothelial,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_E02,EC,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_C08,EC,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_D07,EC,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_D08,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_C01,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_B02,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_H11,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_F07,T cell,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_A03,Endothelial,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_A03,EC,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_C07,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_H08,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_F08,T cell,oscc8,N0_pri
@@ -4468,71 +4468,71 @@ HNSCC8_RLN_HNSCC8_RLNI_C12,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_B08,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_H01,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_E03,T cell,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_B12,Endothelial,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_B12,EC,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_C06,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_A11,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_E10,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_H06,T cell,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_G12,T cell,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_D09,Endothelial,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_D09,EC,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_F03,T cell,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_A02,Endothelial,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_H10,Endothelial,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_A02,EC,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_H10,EC,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_C04,B cell,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_A10,Mast,oscc8,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_A10,Mst,oscc8,N0_pri
 HNSCC8_RLN_HNSCC8_RLNI_H09,T cell,oscc8,N0_pri
-HNSCC8_RLN_HNSCC8_RLNI_G04,Mast,oscc8,N0_pri
-HNSCC17_P4_G02_S170_comb,Mast,oscc17,N0_pri
+HNSCC8_RLN_HNSCC8_RLNI_G04,Mst,oscc8,N0_pri
+HNSCC17_P4_G02_S170_comb,Mst,oscc17,N0_pri
 HN25_P25_C01_S313_comb,B cell,oscc25,LNM_met
 HN25_P23_C01_S217_comb,B cell,oscc25,LNM_met
-HN25_P5_B06_S18_comb,myocyte,oscc25,LNM_pri
-HN26_P25_A07_S103_comb,Macrophage,oscc26,LNM_met
-HN28_P6_C01_S121_comb,Endothelial,oscc28,LNM_pri
+HN25_P5_B06_S18_comb,Myo,oscc25,LNM_pri
+HN26_P25_A07_S103_comb,Mac,oscc26,LNM_met
+HN28_P6_C01_S121_comb,EC,oscc28,LNM_pri
 HN25_P23_H02_S278_comb,B cell,oscc25,LNM_met
 HN25_P24_B12_S120_comb,T cell,oscc25,LNM_met
 HN28_P15_B10_S310_comb,B cell,oscc28,LNM_met
-HN25_P25_B08_S308_comb,Dendritic,oscc25,LNM_met
+HN25_P25_B08_S308_comb,DC,oscc25,LNM_met
 HN26_P13_G06_S174_comb,B cell,oscc26,LNM_met
 HN25_P25_C02_S314_comb,B cell,oscc25,LNM_met
-HN26_P13_A02_S98_comb,Dendritic,oscc26,LNM_met
+HN26_P13_A02_S98_comb,DC,oscc26,LNM_met
 HN25_P25_E01_S337_comb,B cell,oscc25,LNM_met
 HN25_P23_A12_S204_comb,B cell,oscc25,LNM_met
-HN25_P5_G12_S84_comb,Mast,oscc25,LNM_pri
+HN25_P5_G12_S84_comb,Mst,oscc25,LNM_pri
 HN28_P15_C05_S317_comb,T cell,oscc28,LNM_met
-HN25_P23_A08_S200_comb,Macrophage,oscc25,LNM_met
+HN25_P23_A08_S200_comb,Mac,oscc25,LNM_met
 HN25_P24_D09_S141_comb,B cell,oscc25,LNM_met
 HN25_P25_F03_S351_comb,B cell,oscc25,LNM_met
-HN25_P5_A09_S9_comb,myocyte,oscc25,LNM_pri
+HN25_P5_A09_S9_comb,Myo,oscc25,LNM_pri
 HN28_P15_E11_S347_comb,B cell,oscc28,LNM_met
 HN28_P15_B03_S303_comb,B cell,oscc28,LNM_met
 HN26_P6_G04_S76_comb,T cell,oscc26,LNM_pri
 HN28_P15_D03_S327_comb,B cell,oscc28,LNM_met
-HN28_P15_H01_S373_comb,Endothelial,oscc28,LNM_met
+HN28_P15_H01_S373_comb,EC,oscc28,LNM_met
 HN25_P23_F07_S259_comb,B cell,oscc25,LNM_met
-HN25_P25_E09_S345_comb,Mast,oscc25,LNM_met
-HN26_P26_G10_S370_comb,Dendritic,oscc26,LNM_met
-HN25_P5_H11_S95_comb,myocyte,oscc25,LNM_pri
+HN25_P25_E09_S345_comb,Mst,oscc25,LNM_met
+HN26_P26_G10_S370_comb,DC,oscc26,LNM_met
+HN25_P5_H11_S95_comb,Myo,oscc25,LNM_pri
 HN26_P6_B09_S21_comb,T cell,oscc26,LNM_pri
-HN25_P23_D03_S231_comb,Mast,oscc25,LNM_met
-HNSCC26_P12_E08_S248_comb,Macrophage,oscc26,LNM_met
-HN26_P5_C12_S36_comb,Mast,oscc26,LNM_pri
+HN25_P23_D03_S231_comb,Mst,oscc25,LNM_met
+HNSCC26_P12_E08_S248_comb,Mac,oscc26,LNM_met
+HN26_P5_C12_S36_comb,Mst,oscc26,LNM_pri
 HN25_P5_G04_S76_comb,T cell,oscc25,LNM_pri
-HN25_P5_C11_S35_comb,Dendritic,oscc25,LNM_pri
+HN25_P5_C11_S35_comb,DC,oscc25,LNM_pri
 HN25_P5_E03_S51_comb,T cell,oscc25,LNM_pri
 HN26_P26_B05_S305_comb,T cell,oscc26,LNM_met
 HN28_P15_H04_S376_comb,B cell,oscc28,LNM_met
-HN26_P26_C09_S321_comb,Macrophage,oscc26,LNM_met
-HN25_P5_F06_S66_comb,Mast,oscc25,LNM_pri
-HN25_P5_B08_S20_comb,Mast,oscc25,LNM_pri
+HN26_P26_C09_S321_comb,Mac,oscc26,LNM_met
+HN25_P5_F06_S66_comb,Mst,oscc25,LNM_pri
+HN25_P5_B08_S20_comb,Mst,oscc25,LNM_pri
 HN28_P15_G05_S365_comb,B cell,oscc28,LNM_met
-HN25_P5_C03_S27_comb,Mast,oscc25,LNM_pri
+HN25_P5_C03_S27_comb,Mst,oscc25,LNM_pri
 HN28_P15_G02_S362_comb,B cell,oscc28,LNM_met
 HNSCC26_P24_A06_S294_comb,T cell,oscc26,LNM_met
-HN25_P24_H12_S192_comb,Dendritic,oscc25,LNM_met
+HN25_P24_H12_S192_comb,DC,oscc25,LNM_met
 HN23_P11_D10_S46_comb,T cell,oscc23,LNM_pri
 HN23_P11_B04_S16_comb,T cell,oscc23,LNM_pri
-HN28_P3P4_A03_S3_comb,myocyte,oscc28,LNM_pri
-HN28_P5_A11_S203_comb,Endothelial,oscc28,LNM_pri
+HN28_P3P4_A03_S3_comb,Myo,oscc28,LNM_pri
+HN28_P5_A11_S203_comb,EC,oscc28,LNM_pri
 HN28_P14_H04_S184_comb,B cell,oscc28,LNM_met
 HN23_P11_A04_S4_comb,T cell,oscc23,LNM_pri
 HN23_P11_B07_S19_comb,T cell,oscc23,LNM_pri
@@ -4544,38 +4544,38 @@ HN23_P11_C07_S31_comb,T cell,oscc23,LNM_pri
 HN23_P11_B10_S22_comb,T cell,oscc23,LNM_pri
 HN28_P14_B05_S113_comb,B cell,oscc28,LNM_met
 HN23_P11_G07_S79_comb,T cell,oscc23,LNM_pri
-HN28_P3P4_G03_S75_comb,Endothelial,oscc28,LNM_pri
+HN28_P3P4_G03_S75_comb,EC,oscc28,LNM_pri
 HN23_P11_G12_S84_comb,T cell,oscc23,LNM_pri
-HN28_P14_E06_S150_comb,Endothelial,oscc28,LNM_met
+HN28_P14_E06_S150_comb,EC,oscc28,LNM_met
 HN23_P11_B08_S20_comb,T cell,oscc23,LNM_pri
 HN28_P14_C01_S121_comb,B cell,oscc28,LNM_met
 HN23_P11_A12_S12_comb,T cell,oscc23,LNM_pri
 HN23_P11_G05_S77_comb,T cell,oscc23,LNM_pri
 HN28_P14_B08_S116_comb,B cell,oscc28,LNM_met
-HN28_P3P4_E02_S50_comb,myocyte,oscc28,LNM_pri
-HN28_P14_C09_S129_comb,Endothelial,oscc28,LNM_met
+HN28_P3P4_E02_S50_comb,Myo,oscc28,LNM_pri
+HN28_P14_C09_S129_comb,EC,oscc28,LNM_met
 HN28_P14_B04_S112_comb,B cell,oscc28,LNM_met
 HN23_P11_B05_S17_comb,T cell,oscc23,LNM_pri
-HN28_P14_A08_S104_comb,Macrophage,oscc28,LNM_met
+HN28_P14_A08_S104_comb,Mac,oscc28,LNM_met
 HN23_P11_G09_S81_comb,T cell,oscc23,LNM_pri
 HN23_P11_G08_S80_comb,T cell,oscc23,LNM_pri
 HN23_P11_H12_S96_comb,T cell,oscc23,LNM_pri
 HN23_P11_A08_S8_comb,T cell,oscc23,LNM_pri
-HN28_P14_A02_S98_comb,Endothelial,oscc28,LNM_met
+HN28_P14_A02_S98_comb,EC,oscc28,LNM_met
 HN23_P11_E01_S49_comb,T cell,oscc23,LNM_pri
 HN23_P11_B01_S13_comb,T cell,oscc23,LNM_pri
-HN28_P3P4_B10_S22_comb,myocyte,oscc28,LNM_pri
+HN28_P3P4_B10_S22_comb,Myo,oscc28,LNM_pri
 HN23_P11_F01_S61_comb,T cell,oscc23,LNM_pri
 HN23_P11_E08_S56_comb,T cell,oscc23,LNM_pri
 HN23_P11_D09_S45_comb,T cell,oscc23,LNM_pri
 HN23_P11_D04_S40_comb,T cell,oscc23,LNM_pri
-HN28_P3P4_B11_S23_comb,Endothelial,oscc28,LNM_pri
+HN28_P3P4_B11_S23_comb,EC,oscc28,LNM_pri
 HN23_P11_E04_S52_comb,T cell,oscc23,LNM_pri
 HN23_P11_F09_S69_comb,T cell,oscc23,LNM_pri
 HN23_P11_C04_S28_comb,T cell,oscc23,LNM_pri
 HN23_P11_H04_S88_comb,T cell,oscc23,LNM_pri
 HN28_P14_A04_S100_comb,B cell,oscc28,LNM_met
-HN28_P3P4_A02_S2_comb,Macrophage,oscc28,LNM_pri
+HN28_P3P4_A02_S2_comb,Mac,oscc28,LNM_pri
 HN23_P11_H11_S95_comb,T cell,oscc23,LNM_pri
 HN23_P11_E10_S58_comb,T cell,oscc23,LNM_pri
 HN23_P11_B12_S24_comb,T cell,oscc23,LNM_pri
@@ -4587,23 +4587,23 @@ HN23_P11_D11_S47_comb,T cell,oscc23,LNM_pri
 HN23_P11_G11_S83_comb,T cell,oscc23,LNM_pri
 HN23_P11_E12_S60_comb,T cell,oscc23,LNM_pri
 HN23_P11_F03_S63_comb,T cell,oscc23,LNM_pri
-HN28_P3P4_D10_S46_comb,myocyte,oscc28,LNM_pri
+HN28_P3P4_D10_S46_comb,Myo,oscc28,LNM_pri
 HN23_P11_C03_S27_comb,T cell,oscc23,LNM_pri
 HN23_P11_A09_S9_comb,T cell,oscc23,LNM_pri
 HN23_P11_D07_S43_comb,T cell,oscc23,LNM_pri
-HN28_P5_C01_S217_comb,myocyte,oscc28,LNM_pri
-HN28_P3P4_E12_S60_comb,myocyte,oscc28,LNM_pri
+HN28_P5_C01_S217_comb,Myo,oscc28,LNM_pri
+HN28_P3P4_E12_S60_comb,Myo,oscc28,LNM_pri
 HN23_P11_E03_S51_comb,T cell,oscc23,LNM_pri
 HN23_P11_G10_S82_comb,T cell,oscc23,LNM_pri
-HN28_P3P4_F07_S67_comb,Endothelial,oscc28,LNM_pri
+HN28_P3P4_F07_S67_comb,EC,oscc28,LNM_pri
 HN23_P11_H10_S94_comb,T cell,oscc23,LNM_pri
 HN23_P11_A07_S7_comb,T cell,oscc23,LNM_pri
 HN23_P11_G02_S74_comb,T cell,oscc23,LNM_pri
 HN23_P11_D03_S39_comb,T cell,oscc23,LNM_pri
 HN23_P11_B06_S18_comb,T cell,oscc23,LNM_pri
 HN23_P11_B11_S23_comb,T cell,oscc23,LNM_pri
-HN28_P14_C12_S132_comb,Mast,oscc28,LNM_met
-HN28_P3P4_B03_S15_comb,Endothelial,oscc28,LNM_pri
+HN28_P14_C12_S132_comb,Mst,oscc28,LNM_met
+HN28_P3P4_B03_S15_comb,EC,oscc28,LNM_pri
 HN25_P13P30_G05_S269_comb,T cell,oscc25,LNM_met
 HN25_P13P30_C07_S223_comb,T cell,oscc25,LNM_pri
 HN25_P13P30_G03_S267_comb,T cell,oscc25,LNM_met
@@ -4643,23 +4643,23 @@ HN25_P13P30_F01_S253_comb,T cell,oscc25,LNM_met
 HNSCC25_P20_B02_S302_comb,B cell,oscc25,LNM_met
 HNSCC25_P20_B08_S308_comb,B cell,oscc25,LNM_met
 HNSCC25_P20_H02_S374_comb,B cell,oscc25,LNM_met
-HNSCC25_P2_B10_S22_comb,Dendritic,oscc25,LNM_pri
+HNSCC25_P2_B10_S22_comb,DC,oscc25,LNM_pri
 HNSCC25_P2_H06_S90_comb,T cell,oscc25,LNM_pri
 HNSCC25_P20_F06_S354_comb,B cell,oscc25,LNM_met
-HNSCC25_P2_F04_S64_comb,Mast,oscc25,LNM_pri
+HNSCC25_P2_F04_S64_comb,Mst,oscc25,LNM_pri
 HNSCC25_P20_H08_S380_comb,B cell,oscc25,LNM_met
 HNSCC25_P20_B07_S307_comb,B cell,oscc25,LNM_met
-HNSCC25_P2_H04_S88_comb,Dendritic,oscc25,LNM_pri
+HNSCC25_P2_H04_S88_comb,DC,oscc25,LNM_pri
 HNSCC25_P20_D06_S330_comb,B cell,oscc25,LNM_met
 HNSCC25_P20_A02_S290_comb,B cell,oscc25,LNM_met
-HNSCC25_P20_B11_S311_comb,Macrophage,oscc25,LNM_met
+HNSCC25_P20_B11_S311_comb,Mac,oscc25,LNM_met
 HNSCC25_P20_D07_S331_comb,B cell,oscc25,LNM_met
 HNSCC26_P3_D03_S135_comb,T cell,oscc26,LNM_pri
 HNSCC25_P12_B02_S110_comb,T cell,oscc25,LNM_pri
-HNSCC24_P3_H01_S85_comb,Macrophage,oscc24,LNM_pri
+HNSCC24_P3_H01_S85_comb,Mac,oscc24,LNM_pri
 HNSCC25_P31_D01_S229_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_F08_S164_comb,T cell,oscc25,LNM_pri
-HNSCC24_P3_G12_S84_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_G12_S84_comb,Mst,oscc24,LNM_pri
 HNSCC25_P12_D04_S136_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_F03_S159_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_G02_S266_comb,T cell,oscc25,LNM_met
@@ -4672,59 +4672,59 @@ HNSCC25_P12_E06_S150_comb,T cell,oscc25,LNM_pri
 HNSCC25_P4_D11_S239_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_A12_S108_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_F05_S257_comb,T cell,oscc25,LNM_met
-HNSCC25_P4_A03_S195_comb,Dendritic,oscc25,LNM_pri
+HNSCC25_P4_A03_S195_comb,DC,oscc25,LNM_pri
 HNSCC25_P31_A08_S200_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_G02_S170_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_E08_S152_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_G01_S265_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_F09_S165_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_E05_S245_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_F01_S61_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_F01_S61_comb,Mst,oscc24,LNM_pri
 HNSCC25_P31_G07_S271_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_B02_S14_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_B02_S14_comb,Mst,oscc24,LNM_pri
 HNSCC25_P31_F02_S254_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_C01_S25_comb,Macrophage,oscc24,LNM_pri
+HNSCC24_P3_C01_S25_comb,Mac,oscc24,LNM_pri
 HNSCC25_P31_H07_S283_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_C11_S227_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_A09_S201_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_B09_S213_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_G08_S80_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_G08_S80_comb,Mst,oscc24,LNM_pri
 HNSCC25_P31_D05_S233_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_D10_S46_comb,Mast,oscc24,LNM_pri
-HNSCC24_P3_G09_S81_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_D10_S46_comb,Mst,oscc24,LNM_pri
+HNSCC24_P3_G09_S81_comb,Mst,oscc24,LNM_pri
 HNSCC25_P12_E12_S156_comb,T cell,oscc25,LNM_pri
-HNSCC25_P4_E02_S242_comb,myocyte,oscc25,LNM_pri
+HNSCC25_P4_E02_S242_comb,Myo,oscc25,LNM_pri
 HNSCC25_P31_H03_S279_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_H07_S187_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_E11_S155_comb,T cell,oscc25,LNM_pri
 HNSCC24_P3_G10_S82_comb,T cell,oscc24,LNM_pri
-HNSCC25_P4_A08_S200_comb,Endothelial,oscc25,LNM_pri
+HNSCC25_P4_A08_S200_comb,EC,oscc25,LNM_pri
 HNSCC25_P12_B09_S117_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_H12_S288_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_G04_S76_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_G04_S76_comb,Mst,oscc24,LNM_pri
 HNSCC25_P31_A11_S203_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_E02_S50_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_E02_S50_comb,Mst,oscc24,LNM_pri
 HNSCC25_P12_A08_S104_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_H08_S188_comb,T cell,oscc25,LNM_pri
-HNSCC24_P3_H06_S90_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_H06_S90_comb,Mst,oscc24,LNM_pri
 HNSCC25_P12_H06_S186_comb,T cell,oscc25,LNM_pri
-HNSCC24_P3_H10_S94_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_H10_S94_comb,Mst,oscc24,LNM_pri
 HNSCC25_P31_C01_S217_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_H12_S192_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_B10_S118_comb,T cell,oscc25,LNM_pri
-HNSCC25_P12_C02_S122_comb,Macrophage,oscc25,LNM_pri
+HNSCC25_P12_C02_S122_comb,Mac,oscc25,LNM_pri
 HNSCC25_P12_F11_S167_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_C05_S221_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_F06_S162_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_G08_S272_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_B06_S210_comb,T cell,oscc25,LNM_met
-HNSCC25_P4_D09_S237_comb,Mast,oscc25,LNM_pri
+HNSCC25_P4_D09_S237_comb,Mst,oscc25,LNM_pri
 HNSCC25_P12_A11_S107_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_E02_S146_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_H01_S181_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_C09_S225_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_A02_S194_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_H05_S89_comb,Endothelial,oscc24,LNM_pri
+HNSCC24_P3_H05_S89_comb,EC,oscc24,LNM_pri
 HNSCC25_P12_D11_S143_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_H04_S280_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_H01_S277_comb,T cell,oscc25,LNM_met
@@ -4759,12 +4759,12 @@ HNSCC25_P31_A10_S202_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_F10_S262_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_A01_S97_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_G11_S275_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_C10_S34_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_C10_S34_comb,Mst,oscc24,LNM_pri
 HNSCC25_P12_H10_S190_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_D01_S133_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_F01_S253_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_E03_S243_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_A06_S6_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_A06_S6_comb,Mst,oscc24,LNM_pri
 HNSCC25_P12_C09_S129_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_C06_S222_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_B07_S211_comb,T cell,oscc25,LNM_met
@@ -4773,11 +4773,11 @@ HNSCC25_P31_G04_S268_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_F04_S256_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_D08_S236_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_B04_S208_comb,T cell,oscc25,LNM_met
-HNSCC25_P4_C12_S228_comb,Mast,oscc25,LNM_pri
+HNSCC25_P4_C12_S228_comb,Mst,oscc25,LNM_pri
 HNSCC25_P12_F01_S157_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_H09_S189_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_E08_S248_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_B08_S20_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_B08_S20_comb,Mst,oscc24,LNM_pri
 HNSCC25_P12_G07_S175_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_H11_S191_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_B12_S216_comb,T cell,oscc25,LNM_met
@@ -4787,7 +4787,7 @@ HNSCC25_P31_C08_S224_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_E05_S149_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_E06_S246_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_A09_S105_comb,T cell,oscc25,LNM_pri
-HNSCC24_P3_B01_S13_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_B01_S13_comb,Mst,oscc24,LNM_pri
 HNSCC25_P31_E04_S244_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_G09_S177_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_B10_S214_comb,T cell,oscc25,LNM_met
@@ -4799,7 +4799,7 @@ HNSCC25_P12_C08_S128_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_E07_S247_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_D06_S138_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_E01_S241_comb,T cell,oscc25,LNM_met
-HNSCC24_P3_F11_S71_comb,Mast,oscc24,LNM_pri
+HNSCC24_P3_F11_S71_comb,Mst,oscc24,LNM_pri
 HNSCC25_P12_G11_S179_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_H06_S282_comb,T cell,oscc25,LNM_met
 HNSCC25_P31_A06_S198_comb,T cell,oscc25,LNM_met
@@ -4809,70 +4809,70 @@ HNSCC25_P31_A03_S195_comb,T cell,oscc25,LNM_met
 HNSCC25_P12_B04_S112_comb,T cell,oscc25,LNM_pri
 HNSCC25_P12_H03_S183_comb,T cell,oscc25,LNM_pri
 HNSCC25_P31_A05_S197_comb,T cell,oscc25,LNM_met
-HNSCC18_P4_D10_S46_comb,Mast,oscc18,LNM_pri
-HNSCC18_P4_A11_S11_comb,Mast,oscc18,LNM_pri
-HNSCC18_P4_A05_S5_comb,Mast,oscc18,LNM_pri
-HNSCC25_P22_C08_S320_comb,Mast,oscc25,LNM_met
-HNSCC25_P3_D03_S135_comb,Mast,oscc25,LNM_pri
+HNSCC18_P4_D10_S46_comb,Mst,oscc18,LNM_pri
+HNSCC18_P4_A11_S11_comb,Mst,oscc18,LNM_pri
+HNSCC18_P4_A05_S5_comb,Mst,oscc18,LNM_pri
+HNSCC25_P22_C08_S320_comb,Mst,oscc25,LNM_met
+HNSCC25_P3_D03_S135_comb,Mst,oscc25,LNM_pri
 HNSCC25_P22_C03_S315_comb,B cell,oscc25,LNM_met
 HNSCC25_P22_H07_S379_comb,B cell,oscc25,LNM_met
 HNSCC25_P22_G10_S370_comb,B cell,oscc25,LNM_met
-HNSCC25_P3_G06_S174_comb,myocyte,oscc25,LNM_pri
-HNSCC25_P3_C11_S131_comb,Dendritic,oscc25,LNM_pri
+HNSCC25_P3_G06_S174_comb,Myo,oscc25,LNM_pri
+HNSCC25_P3_C11_S131_comb,DC,oscc25,LNM_pri
 HNSCC25_P3_F05_S161_comb,T cell,oscc25,LNM_pri
-HNSCC25_P3_A06_S102_comb,Mast,oscc25,LNM_pri
-HNSCC25_P3_B12_S120_comb,myocyte,oscc25,LNM_pri
-HNSCC25_P3_F04_S160_comb,myocyte,oscc25,LNM_pri
-HNSCC25_P3_A04_S100_comb,myocyte,oscc25,LNM_pri
-HNSCC25_P3_F12_S168_comb,Mast,oscc25,LNM_pri
-HNSCC28_P2_A12_S12_comb,myocyte,oscc28,LNM_pri
-HNSCC28_P13_G05_S269_comb,Endothelial,oscc28,LNM_met
+HNSCC25_P3_A06_S102_comb,Mst,oscc25,LNM_pri
+HNSCC25_P3_B12_S120_comb,Myo,oscc25,LNM_pri
+HNSCC25_P3_F04_S160_comb,Myo,oscc25,LNM_pri
+HNSCC25_P3_A04_S100_comb,Myo,oscc25,LNM_pri
+HNSCC25_P3_F12_S168_comb,Mst,oscc25,LNM_pri
+HNSCC28_P2_A12_S12_comb,Myo,oscc28,LNM_pri
+HNSCC28_P13_G05_S269_comb,EC,oscc28,LNM_met
 HNSCC28_P12_H07_S283_comb,B cell,oscc28,LNM_met
-HNSCC28_P1_G03_S75_comb,Endothelial,oscc28,LNM_pri
-HNSCC28_P1_A08_S8_comb,Endothelial,oscc28,LNM_pri
+HNSCC28_P1_G03_S75_comb,EC,oscc28,LNM_pri
+HNSCC28_P1_A08_S8_comb,EC,oscc28,LNM_pri
 HNSCC28_P12_B05_S209_comb,B cell,oscc28,LNM_met
 HNSCC28_P13_H12_S288_comb,T cell,oscc28,LNM_met
 HNSCC28_P13_F06_S258_comb,B cell,oscc28,LNM_met
-HNSCC28_P12_C10_S226_comb,Endothelial,oscc28,LNM_met
-HNSCC28_P1_B12_S24_comb,Endothelial,oscc28,LNM_pri
+HNSCC28_P12_C10_S226_comb,EC,oscc28,LNM_met
+HNSCC28_P1_B12_S24_comb,EC,oscc28,LNM_pri
 HNSCC28_P13_D10_S238_comb,B cell,oscc28,LNM_met
 HNSCC28_P13_D11_S239_comb,B cell,oscc28,LNM_met
-HNSCC28_P1_A05_S5_comb,Endothelial,oscc28,LNM_pri
+HNSCC28_P1_A05_S5_comb,EC,oscc28,LNM_pri
 HNSCC28_P13_D02_S230_comb,T cell,oscc28,LNM_met
 HNSCC28_P12_G07_S271_comb,B cell,oscc28,LNM_met
-HNSCC28_P13_F12_S264_comb,Endothelial,oscc28,LNM_met
+HNSCC28_P13_F12_S264_comb,EC,oscc28,LNM_met
 HNSCC28_P13_D12_S240_comb,B cell,oscc28,LNM_met
-HNSCC28_P2_G07_S79_comb,myocyte,oscc28,LNM_pri
+HNSCC28_P2_G07_S79_comb,Myo,oscc28,LNM_pri
 HNSCC28_P12_D11_S239_comb,B cell,oscc28,LNM_met
-HNSCC28_P2_D02_S38_comb,myocyte,oscc28,LNM_pri
+HNSCC28_P2_D02_S38_comb,Myo,oscc28,LNM_pri
 HNSCC28_P13_B09_S213_comb,B cell,oscc28,LNM_met
 HNSCC28_P13_F10_S262_comb,B cell,oscc28,LNM_met
-HNSCC28_P2_B11_S23_comb,Endothelial,oscc28,LNM_pri
-HNSCC28_P2_A03_S3_comb,Endothelial,oscc28,LNM_pri
+HNSCC28_P2_B11_S23_comb,EC,oscc28,LNM_pri
+HNSCC28_P2_A03_S3_comb,EC,oscc28,LNM_pri
 HNSCC28_P12_A04_S196_comb,T cell,oscc28,LNM_met
 HNSCC28_P12_E12_S252_comb,B cell,oscc28,LNM_met
 HNSCC28_P13_H10_S286_comb,B cell,oscc28,LNM_met
-HNSCC28_P2_A07_S7_comb,Endothelial,oscc28,LNM_pri
-HNSCC28_P2_E10_S58_comb,Endothelial,oscc28,LNM_pri
+HNSCC28_P2_A07_S7_comb,EC,oscc28,LNM_pri
+HNSCC28_P2_E10_S58_comb,EC,oscc28,LNM_pri
 HNSCC25_P19_LN_D06_S234_comb,B cell,oscc25,LNM_met
-HNSCC26_P1_pri_E03_S147_comb,Dendritic,oscc26,LNM_pri
+HNSCC26_P1_pri_E03_S147_comb,DC,oscc26,LNM_pri
 HNSCC25_P19_LN_G11_S275_comb,B cell,oscc25,LNM_met
 HNSCC25_P19_LN_B04_S208_comb,B cell,oscc25,LNM_met
 HNSCC25_P19_LN_D05_S233_comb,B cell,oscc25,LNM_met
 HNSCC25_P19_LN_C09_S225_comb,B cell,oscc25,LNM_met
-HNSCC25_P1_pri_F01_S61_comb,Dendritic,oscc25,LNM_pri
-HNSCC24_P25_L_LN_G12_S372_comb,Mast,oscc24,LNM_pri
-HNSCC24_P25_L_LN_E06_S342_comb,Mast,oscc24,LNM_pri
-HNSCC24_P25_L_LN_H06_S378_comb,Mast,oscc24,LNM_pri
-HNSCC24_P13_R_LN_E11_S155_comb,Mast,oscc24,LNM_pri
-HNSCC25_P1_pri_F05_S65_comb,Dendritic,oscc25,LNM_pri
-HNSCC20_P5_pri_G07_S79_comb,Endothelial,oscc20,LNM_pri
+HNSCC25_P1_pri_F01_S61_comb,DC,oscc25,LNM_pri
+HNSCC24_P25_L_LN_G12_S372_comb,Mst,oscc24,LNM_pri
+HNSCC24_P25_L_LN_E06_S342_comb,Mst,oscc24,LNM_pri
+HNSCC24_P25_L_LN_H06_S378_comb,Mst,oscc24,LNM_pri
+HNSCC24_P13_R_LN_E11_S155_comb,Mst,oscc24,LNM_pri
+HNSCC25_P1_pri_F05_S65_comb,DC,oscc25,LNM_pri
+HNSCC20_P5_pri_G07_S79_comb,EC,oscc20,LNM_pri
 HNSCC18_P16_A08_S200_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_B11_S215_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_C09_S33_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_F10_S262_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_C10_S322_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_A03_S99_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_A03_S99_comb,EC,oscc18,LNM_pri
 HNSCC18_P15_A10_S10_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_H09_S93_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_F05_S353_comb,T cell,oscc18,LNM_pri
@@ -4881,10 +4881,10 @@ HNSCC18_P16_E11_S251_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_G09_S273_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_C01_S313_comb,B cell,oscc18,LNM_pri
 HNSCC18_P16_A04_S196_comb,T cell,oscc18,LNM_pri
-HNSCC18_P13_E08_S344_comb,Mast,oscc18,LNM_pri
+HNSCC18_P13_E08_S344_comb,Mst,oscc18,LNM_pri
 HNSCC18_P13_E12_S348_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_F03_S351_comb,T cell,oscc18,LNM_pri
-HNSCC18_P3_A02_S290_comb,Mast,oscc18,LNM_pri
+HNSCC18_P3_A02_S290_comb,Mst,oscc18,LNM_pri
 HNSCC18_P13_B02_S302_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_F09_S357_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_H08_S380_comb,T cell,oscc18,LNM_pri
@@ -4892,7 +4892,7 @@ HNSCC18_P16_D07_S235_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_E06_S54_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_G08_S368_comb,B cell,oscc18,LNM_pri
 HNSCC18_P16_E09_S249_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_G09_S177_comb,Mast,oscc18,LNM_pri
+HNSCC18_P7_G09_S177_comb,Mst,oscc18,LNM_pri
 HNSCC18_P15_D01_S37_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_D11_S335_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_B10_S22_comb,T cell,oscc18,LNM_pri
@@ -4906,26 +4906,26 @@ HNSCC18_P15_H07_S91_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_B11_S23_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_D03_S39_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_D12_S48_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_F01_S157_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_F01_S157_comb,EC,oscc18,LNM_pri
 HNSCC18_P15_H08_S92_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_G03_S363_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_H04_S376_comb,B cell,oscc18,LNM_pri
 HNSCC18_P13_B12_S312_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_G02_S170_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_G02_S170_comb,EC,oscc18,LNM_pri
 HNSCC18_P16_E08_S248_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_A12_S12_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_F12_S72_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_H09_S381_comb,T cell,oscc18,LNM_pri
-HNSCC18_P16_B10_S214_comb,Macrophage,oscc18,LNM_pri
+HNSCC18_P16_B10_S214_comb,Mac,oscc18,LNM_pri
 HNSCC18_P16_F06_S258_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_B07_S19_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_A01_S193_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_G10_S82_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_H05_S89_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_H07_S379_comb,T cell,oscc18,LNM_pri
-HNSCC18_P13_F11_S359_comb,Macrophage,oscc18,LNM_pri
+HNSCC18_P13_F11_S359_comb,Mac,oscc18,LNM_pri
 HNSCC18_P15_C07_S31_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_F07_S163_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_F07_S163_comb,EC,oscc18,LNM_pri
 HNSCC18_P13_E09_S345_comb,B cell,oscc18,LNM_pri
 HNSCC18_P16_C04_S220_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_D04_S328_comb,T cell,oscc18,LNM_pri
@@ -4936,54 +4936,54 @@ HNSCC18_P16_A09_S201_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_F03_S63_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_E02_S338_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_B04_S208_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_A02_S98_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_A02_S98_comb,EC,oscc18,LNM_pri
 HNSCC18_P15_E01_S49_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_A07_S7_comb,T cell,oscc18,LNM_pri
-HNSCC18_P13_A04_S292_comb,Macrophage,oscc18,LNM_pri
+HNSCC18_P13_A04_S292_comb,Mac,oscc18,LNM_pri
 HNSCC18_P16_G01_S265_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_E11_S59_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_F06_S354_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_C04_S28_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_H08_S284_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_B06_S306_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_A10_S106_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_A10_S106_comb,EC,oscc18,LNM_pri
 HNSCC18_P16_B06_S210_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_F04_S352_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_B07_S211_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_G07_S175_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_G07_S175_comb,EC,oscc18,LNM_pri
 HNSCC18_P15_G12_S84_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_G02_S362_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_G06_S366_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_A03_S3_comb,T cell,oscc18,LNM_pri
-HNSCC18_P13_A09_S297_comb,Macrophage,oscc18,LNM_pri
+HNSCC18_P13_A09_S297_comb,Mac,oscc18,LNM_pri
 HNSCC18_P15_D04_S40_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_C03_S27_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_E07_S343_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_E05_S341_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_H06_S186_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_H06_S186_comb,EC,oscc18,LNM_pri
 HNSCC18_P13_C09_S321_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_F12_S168_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_F12_S168_comb,EC,oscc18,LNM_pri
 HNSCC18_P13_G01_S361_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_F01_S349_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_E03_S51_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_B02_S14_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_F04_S256_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_E05_S149_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_E05_S149_comb,EC,oscc18,LNM_pri
 HNSCC18_P13_B09_S309_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_A02_S2_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_D03_S327_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_C05_S221_comb,T cell,oscc18,LNM_pri
-HNSCC18_P13_A11_S299_comb,Mast,oscc18,LNM_pri
+HNSCC18_P13_A11_S299_comb,Mst,oscc18,LNM_pri
 HNSCC18_P13_D01_S325_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_F01_S61_comb,T cell,oscc18,LNM_pri
-HNSCC18_P3_H04_S376_comb,Mast,oscc18,LNM_pri
+HNSCC18_P3_H04_S376_comb,Mst,oscc18,LNM_pri
 HNSCC18_P13_E10_S346_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_E11_S347_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_D09_S45_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_A11_S11_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_A01_S1_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_H02_S374_comb,T cell,oscc18,LNM_pri
-HNSCC18_P13_B08_S308_comb,Macrophage,oscc18,LNM_pri
+HNSCC18_P13_B08_S308_comb,Mac,oscc18,LNM_pri
 HNSCC18_P15_G06_S78_comb,T cell,oscc18,LNM_pri
 HNSCC18_P7_F10_S166_comb,B cell,oscc18,LNM_pri
 HNSCC18_P13_C12_S324_comb,T cell,oscc18,LNM_pri
@@ -4996,7 +4996,7 @@ HNSCC18_P13_E04_S340_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_G02_S266_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_C10_S226_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_A11_S203_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_G03_S171_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_G03_S171_comb,EC,oscc18,LNM_pri
 HNSCC18_P16_A05_S197_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_H09_S285_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_F05_S65_comb,T cell,oscc18,LNM_pri
@@ -5004,19 +5004,19 @@ HNSCC18_P16_B03_S207_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_G05_S365_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_C03_S315_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_C08_S320_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_B11_S119_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_B11_S119_comb,EC,oscc18,LNM_pri
 HNSCC18_P13_H12_S384_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_D09_S333_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_G05_S77_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_G05_S173_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_G05_S173_comb,EC,oscc18,LNM_pri
 HNSCC18_P15_B03_S15_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_E05_S53_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_H12_S288_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_F02_S350_comb,B cell,oscc18,LNM_pri
 HNSCC18_P13_E03_S339_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_H01_S181_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_H01_S181_comb,EC,oscc18,LNM_pri
 HNSCC18_P15_E10_S58_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_C03_S123_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_C03_S123_comb,EC,oscc18,LNM_pri
 HNSCC18_P15_A04_S4_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_A06_S294_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_B01_S13_comb,T cell,oscc18,LNM_pri
@@ -5026,26 +5026,26 @@ HNSCC18_P13_G11_S371_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_A03_S291_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_C02_S314_comb,B cell,oscc18,LNM_pri
 HNSCC18_P13_E01_S337_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_G10_S178_comb,myocyte,oscc18,LNM_pri
+HNSCC18_P7_G10_S178_comb,Myo,oscc18,LNM_pri
 HNSCC18_P15_C11_S35_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_F02_S254_comb,T cell,oscc18,LNM_pri
-HNSCC18_P13_A05_S293_comb,Mast,oscc18,LNM_pri
-HNSCC18_P13_E06_S342_comb,Macrophage,oscc18,LNM_pri
+HNSCC18_P13_A05_S293_comb,Mst,oscc18,LNM_pri
+HNSCC18_P13_E06_S342_comb,Mac,oscc18,LNM_pri
 HNSCC18_P15_C10_S34_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_C05_S125_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_C05_S125_comb,EC,oscc18,LNM_pri
 HNSCC18_P13_A12_S300_comb,T cell,oscc18,LNM_pri
-HNSCC18_P16_H11_S287_comb,Macrophage,oscc18,LNM_pri
+HNSCC18_P16_H11_S287_comb,Mac,oscc18,LNM_pri
 HNSCC18_P15_E07_S55_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_H10_S382_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_B02_S110_comb,Endothelial,oscc18,LNM_pri
-HNSCC18_P7_B09_S117_comb,Mast,oscc18,LNM_pri
+HNSCC18_P7_B02_S110_comb,EC,oscc18,LNM_pri
+HNSCC18_P7_B09_S117_comb,Mst,oscc18,LNM_pri
 HNSCC18_P15_F11_S71_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_C07_S223_comb,T cell,oscc18,LNM_pri
 HNSCC18_P13_C06_S318_comb,T cell,oscc18,LNM_pri
-HNSCC18_P2_F12_S168_comb,Mast,oscc18,LNM_pri
+HNSCC18_P2_F12_S168_comb,Mst,oscc18,LNM_pri
 HNSCC18_P15_F06_S66_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_G09_S81_comb,T cell,oscc18,LNM_pri
-HNSCC18_P7_B12_S120_comb,Endothelial,oscc18,LNM_pri
+HNSCC18_P7_B12_S120_comb,EC,oscc18,LNM_pri
 HNSCC18_P15_E12_S60_comb,T cell,oscc18,LNM_pri
 HNSCC18_P16_F09_S261_comb,T cell,oscc18,LNM_pri
 HNSCC18_P15_C02_S26_comb,T cell,oscc18,LNM_pri
@@ -5117,11 +5117,11 @@ HNSCC18_P14_HNSCC18_P14_B01,T cell,oscc18,LNM_pri
 HNSCC18_P14_HNSCC18_P14_G04,T cell,oscc18,LNM_pri
 HNSCC18_P14_HNSCC18_P14_G03,T cell,oscc18,LNM_pri
 HNSCC18_P14_HNSCC18_P14_A08,T cell,oscc18,LNM_pri
-HNSCC18_P1_P9_HNSCC18_P1_P9_A07,Mast,oscc18,LNM_pri
+HNSCC18_P1_P9_HNSCC18_P1_P9_A07,Mst,oscc18,LNM_pri
 HNSCC13_p11_HNSCC13_P11_B02,T cell,oscc13,LNM_pri
 HNSCC13_p11_HNSCC13_P11_F10,T cell,oscc13,LNM_pri
 HNSCC13_p11_HNSCC13_P11_D03,T cell,oscc13,LNM_pri
-HNSCC13_p11_HNSCC13_P11_F09,Macrophage,oscc13,LNM_pri
+HNSCC13_p11_HNSCC13_P11_F09,Mac,oscc13,LNM_pri
 HNSCC13_p11_HNSCC13_P11_A03,T cell,oscc13,LNM_pri
 HNSCC13_p11_HNSCC13_P11_C11,T cell,oscc13,LNM_pri
 HNSCC13_p11_HNSCC13_P11_C03,T cell,oscc13,LNM_pri
@@ -5132,17 +5132,17 @@ HNSCC10_p14_HNSCC10_P14_B12,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_B06,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_A02,T cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_H12,B cell,oscc10,LNM_pri
-HNSCC10_p14_HNSCC10_P14_D12,Mast,oscc10,LNM_pri
+HNSCC10_p14_HNSCC10_P14_D12,Mst,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_C07,T cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_D02,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_G08,B cell,oscc10,LNM_pri
-HNSCC10_p14_HNSCC10_P14_A12,Endothelial,oscc10,LNM_pri
+HNSCC10_p14_HNSCC10_P14_A12,EC,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_F10,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_H08,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_B02,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_B05,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_A07,B cell,oscc10,LNM_pri
-HNSCC10_p14_HNSCC10_P14_H07,Endothelial,oscc10,LNM_pri
+HNSCC10_p14_HNSCC10_P14_H07,EC,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_G02,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_F03,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_A11,B cell,oscc10,LNM_pri
@@ -5162,32 +5162,32 @@ HNSCC10_p14_HNSCC10_P14_B08,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_D03,T cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_F06,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_E05,B cell,oscc10,LNM_pri
-HNSCC10_p14_HNSCC10_P14_F09,Endothelial,oscc10,LNM_pri
+HNSCC10_p14_HNSCC10_P14_F09,EC,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_B11,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_B04,B cell,oscc10,LNM_pri
 HNSCC10_p14_HNSCC10_P14_D07,B cell,oscc10,LNM_pri
-HNSCC6_p16_HNSCC6_P16_A10,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_D03,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_H06,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_A04,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_G05,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_F07,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_C03,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_D10,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_F11,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_A05,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_F10,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_H04,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_E07,Mast,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_F02,Macrophage,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_B10,Endothelial,oscc6,LNM_pri
-HNSCC6_p16_HNSCC6_P16_B05,Endothelial,oscc6,LNM_pri
-HNSCC10_p1_HNSCC10_P1_G09,Endothelial,oscc10,LNM_pri
+HNSCC6_p16_HNSCC6_P16_A10,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_D03,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_H06,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_A04,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_G05,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_F07,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_C03,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_D10,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_F11,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_A05,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_F10,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_H04,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_E07,Mst,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_F02,Mac,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_B10,EC,oscc6,LNM_pri
+HNSCC6_p16_HNSCC6_P16_B05,EC,oscc6,LNM_pri
+HNSCC10_p1_HNSCC10_P1_G09,EC,oscc10,LNM_pri
 HNSCC10_p1_HNSCC10_P1_A06,B cell,oscc10,LNM_pri
-HNSCC10_p1_HNSCC10_P1_C12,Endothelial,oscc10,LNM_pri
+HNSCC10_p1_HNSCC10_P1_C12,EC,oscc10,LNM_pri
 HNSCC10_p1_HNSCC10_P1_D07,B cell,oscc10,LNM_pri
-HNSCC10_p1_HNSCC10_P1_E05,Endothelial,oscc10,LNM_pri
-HNSCC10_p1_HNSCC10_P1_A07,Endothelial,oscc10,LNM_pri
+HNSCC10_p1_HNSCC10_P1_E05,EC,oscc10,LNM_pri
+HNSCC10_p1_HNSCC10_P1_A07,EC,oscc10,LNM_pri
 HNSCC10_p1_HNSCC10_P1_H07,B cell,oscc10,LNM_pri
 HNSCC10_p1_HNSCC10_P1_H04,B cell,oscc10,LNM_pri
 HNSCC10_p1_HNSCC10_P1_G05,B cell,oscc10,LNM_pri
@@ -5195,7 +5195,7 @@ HNSCC10_p1_HNSCC10_P1_H08,B cell,oscc10,LNM_pri
 HNSCC10_p1_HNSCC10_P1_C06,B cell,oscc10,LNM_pri
 HNSCC10_p1_HNSCC10_P1_A05,B cell,oscc10,LNM_pri
 HNSCC10_p4_HNSCC10_P4_F12,B cell,oscc10,LNM_pri
-HNSCC10_p4_HNSCC10_P4_A06,Endothelial,oscc10,LNM_pri
+HNSCC10_p4_HNSCC10_P4_A06,EC,oscc10,LNM_pri
 HNSCC10_p4_HNSCC10_P4_H12,B cell,oscc10,LNM_pri
 HNSCC10_p4_HNSCC10_P4_D12,B cell,oscc10,LNM_pri
 HNSCC10_p4_HNSCC10_P4_H10,B cell,oscc10,LNM_pri
@@ -5204,265 +5204,265 @@ HNSCC10_p4_HNSCC10_P4_A12,B cell,oscc10,LNM_pri
 HNSCC10_p4_HNSCC10_P4_H07,B cell,oscc10,LNM_pri
 HNSCC10_p4_HNSCC10_P4_C11,B cell,oscc10,LNM_pri
 HNSCC10_p4_HNSCC10_P4_C10,B cell,oscc10,LNM_pri
-HNSCC13_p1_HNSCC13_P1_G10,Mast,oscc13,LNM_pri
-HNSCC13_p1_HNSCC13_P1_H12,Mast,oscc13,LNM_pri
+HNSCC13_p1_HNSCC13_P1_G10,Mst,oscc13,LNM_pri
+HNSCC13_p1_HNSCC13_P1_H12,Mst,oscc13,LNM_pri
 HNSCC13_p1_HNSCC13_P1_F08,B cell,oscc13,LNM_pri
-HNSCC13_p1_HNSCC13_P1_B09,Dendritic,oscc13,LNM_pri
+HNSCC13_p1_HNSCC13_P1_B09,DC,oscc13,LNM_pri
 HNSCC13_p19_HNSCC13_P19_D04,T cell,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_G06,Mast,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_B11,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_A04,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_F05,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_B06,Macrophage,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_H06,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_G07,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_C12,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_H01,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_F07,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_H12,Mast,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_G05,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_C01,Mast,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_E12,Endothelial,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_F09,Endothelial,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_G11,Dendritic,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_G06,Mst,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_B11,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_A04,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_F05,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_B06,Mac,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_H06,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_G07,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_C12,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_H01,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_F07,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_H12,Mst,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_G05,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_C01,Mst,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_E12,EC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_F09,EC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_G11,DC,oscc13,LNM_pri
 HNSCC13_p19_HNSCC13_P19_D12,B cell,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_A11,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_B12,Endothelial,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_A10,Dendritic,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_A11,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_B12,EC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_A10,DC,oscc13,LNM_pri
 HNSCC13_p19_HNSCC13_P19_H09,T cell,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_D03,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_E07,Dendritic,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_D03,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_E07,DC,oscc13,LNM_pri
 HNSCC13_p19_HNSCC13_P19_H11,B cell,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_C08,Dendritic,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_C08,DC,oscc13,LNM_pri
 HNSCC13_p19_HNSCC13_P19_B03,T cell,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_C06,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_E10,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_E02,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_B02,Dendritic,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_C06,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_E10,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_E02,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_B02,DC,oscc13,LNM_pri
 HNSCC13_p19_HNSCC13_P19_G09,B cell,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_D02,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_F04,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_A05,Dendritic,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_D02,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_F04,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_A05,DC,oscc13,LNM_pri
 HNSCC13_p19_HNSCC13_P19_E09,T cell,oscc13,LNM_pri
 HNSCC13_p19_HNSCC13_P19_A08,T cell,oscc13,LNM_pri
 HNSCC13_p19_HNSCC13_P19_F01,T cell,oscc13,LNM_pri
 HNSCC13_p19_HNSCC13_P19_F03,B cell,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_G10,Dendritic,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_G10,DC,oscc13,LNM_pri
 HNSCC13_p19_HNSCC13_P19_G03,B cell,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_A06,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_F12,Macrophage,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_H10,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_C11,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_B04,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_B08,Dendritic,oscc13,LNM_pri
-HNSCC13_p19_HNSCC13_P19_B07,Dendritic,oscc13,LNM_pri
-HNSCC5_p3_HNSCC5_P3_D09,Macrophage,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_A10,Macrophage,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_E09,Endothelial,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_F12,Macrophage,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_C05,Macrophage,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_A08,Macrophage,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_F08,Mast,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_C01,Macrophage,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_E12,Macrophage,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_G10,Macrophage,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_C06,Macrophage,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_D05,Macrophage,oscc5,LNM_pri
-HNSCC5_p3_HNSCC5_P3_D06,Endothelial,oscc5,LNM_pri
+HNSCC13_p19_HNSCC13_P19_A06,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_F12,Mac,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_H10,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_C11,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_B04,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_B08,DC,oscc13,LNM_pri
+HNSCC13_p19_HNSCC13_P19_B07,DC,oscc13,LNM_pri
+HNSCC5_p3_HNSCC5_P3_D09,Mac,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_A10,Mac,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_E09,EC,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_F12,Mac,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_C05,Mac,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_A08,Mac,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_F08,Mst,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_C01,Mac,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_E12,Mac,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_G10,Mac,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_C06,Mac,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_D05,Mac,oscc5,LNM_pri
+HNSCC5_p3_HNSCC5_P3_D06,EC,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_F08,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_D11,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_E09,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_E09,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_D01,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_E12,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_E12,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_G03,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_A04,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_C11,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_A04,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_C11,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_E08,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_G12,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_G07,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_B12,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_B12,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_C10,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_A01,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_E11,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_D09,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_H01,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_E11,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_D09,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_H01,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_C03,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_C07,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_H07,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_E04,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_B04,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_B04,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_C08,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_E07,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_E07,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_F05,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_H05,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_G05,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_B02,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_G05,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_B02,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_F10,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_A10,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_A10,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_D05,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_A05,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_G09,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_C06,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_F09,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_F11,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_H09,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_H11,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_E05,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_F11,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_H09,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_H11,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_E05,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_G11,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_H10,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_H10,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_H06,T cell,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_H04,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_G02,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_G02,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_C02,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_C09,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_D07,Macrophage,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_C09,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_D07,Mac,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_B05,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_D10,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_G01,Mast,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_D10,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_G01,Mst,oscc5,LNM_pri
 HNSCC5_p11_p12_hnscc5_p11_p12_B10,T cell,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_E06,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_A02,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_B06,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_A12,Macrophage,oscc5,LNM_pri
-HNSCC5_p11_p12_hnscc5_p11_p12_E03,Macrophage,oscc5,LNM_pri
-HNSCC6_p14_hnscc6_p14_G07,Endothelial,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_F11,Endothelial,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_H02,Endothelial,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_E12,Macrophage,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_F04,Macrophage,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_G11,Endothelial,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_H08,Endothelial,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_G06,Endothelial,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_F09,Endothelial,oscc6,LNM_pri
-HNSCC5_p9_HNSCC5_P9_C11,Endothelial,oscc5,LNM_pri
-HNSCC5_p9_HNSCC5_P9_F03,Endothelial,oscc5,LNM_pri
-HNSCC5_p14_HNSCC5_P14_LN_E02,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_A08,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_D04,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_F11,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_F02,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_D07,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_C05,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_G11,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_G07,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_H03,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_H06,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_B09,Endothelial,oscc5,LNM_met
+HNSCC5_p11_p12_hnscc5_p11_p12_E06,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_A02,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_B06,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_A12,Mac,oscc5,LNM_pri
+HNSCC5_p11_p12_hnscc5_p11_p12_E03,Mac,oscc5,LNM_pri
+HNSCC6_p14_hnscc6_p14_G07,EC,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_F11,EC,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_H02,EC,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_E12,Mac,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_F04,Mac,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_G11,EC,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_H08,EC,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_G06,EC,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_F09,EC,oscc6,LNM_pri
+HNSCC5_p9_HNSCC5_P9_C11,EC,oscc5,LNM_pri
+HNSCC5_p9_HNSCC5_P9_F03,EC,oscc5,LNM_pri
+HNSCC5_p14_HNSCC5_P14_LN_E02,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_A08,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_D04,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_F11,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_F02,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_D07,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_C05,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_G11,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_G07,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_H03,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_H06,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_B09,EC,oscc5,LNM_met
 HNSCC5_p14_HNSCC5_P14_LN_B11,B cell,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_A03,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_A10,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_H05,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_G03,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_A12,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_F07,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_D08,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_E07,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_D12,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_E03,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_B10,Endothelial,oscc5,LNM_met
-HNSCC5_p14_HNSCC5_P14_LN_H07,Endothelial,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_A03,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_A10,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_H05,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_G03,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_A12,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_F07,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_D08,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_E07,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_D12,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_E03,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_B10,EC,oscc5,LNM_met
+HNSCC5_p14_HNSCC5_P14_LN_H07,EC,oscc5,LNM_met
 HNSCC6_p14_hnscc6_p14_B08,B cell,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_C06,Endothelial,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_C01,Endothelial,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_C06,EC,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_C01,EC,oscc6,LNM_pri
 HNSCC6_p14_hnscc6_p14_C07,B cell,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_A10,Endothelial,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_A03,Endothelial,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_D02,Endothelial,oscc6,LNM_pri
-HNSCC6_p14_hnscc6_p14_C02,Endothelial,oscc6,LNM_pri
-HNSCC5_p5_P5_C07,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_C03,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_G09,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_F07,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_G12,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_G03,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_E08,Mast,oscc5,LNM_pri
-HNSCC5_p5_P5_A09,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_E07,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_A02,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_F10,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_E06,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_C10,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_D01,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_D09,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_A06,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_G02,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_F06,Endothelial,oscc5,LNM_pri
-HNSCC5_p5_P5_H09,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_D08,Endothelial,oscc5,LNM_pri
-HNSCC5_p5_P5_B08,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_G08,Mast,oscc5,LNM_pri
-HNSCC5_p5_P5_C02,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_D03,Macrophage,oscc5,LNM_pri
-HNSCC5_p5_P5_G04,Macrophage,oscc5,LNM_pri
-HNSCC5_p7_HNSCC5_P7_A01,Endothelial,oscc5,LNM_pri
-HNSCC5_p7_HNSCC5_P7_D06,Endothelial,oscc5,LNM_pri
-HNSCC5_p7_HNSCC5_P7_A11,Endothelial,oscc5,LNM_pri
-HNSCC5_p7_HNSCC5_P7_D09,Endothelial,oscc5,LNM_pri
-HNSCC5_p7_HNSCC5_P7_E04,Endothelial,oscc5,LNM_pri
-HNSCC5_p13_P13_A04,Mast,oscc5,LNM_met
-HNSCC5_p13_P13_E04,Endothelial,oscc5,LNM_met
-HNSCC5_p13_P13_G09,Endothelial,oscc5,LNM_met
-HNSCC5_p13_P13_C03,Endothelial,oscc5,LNM_met
-HNSCC5_p13_P13_H12,Endothelial,oscc5,LNM_met
+HNSCC6_p14_hnscc6_p14_A10,EC,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_A03,EC,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_D02,EC,oscc6,LNM_pri
+HNSCC6_p14_hnscc6_p14_C02,EC,oscc6,LNM_pri
+HNSCC5_p5_P5_C07,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_C03,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_G09,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_F07,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_G12,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_G03,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_E08,Mst,oscc5,LNM_pri
+HNSCC5_p5_P5_A09,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_E07,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_A02,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_F10,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_E06,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_C10,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_D01,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_D09,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_A06,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_G02,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_F06,EC,oscc5,LNM_pri
+HNSCC5_p5_P5_H09,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_D08,EC,oscc5,LNM_pri
+HNSCC5_p5_P5_B08,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_G08,Mst,oscc5,LNM_pri
+HNSCC5_p5_P5_C02,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_D03,Mac,oscc5,LNM_pri
+HNSCC5_p5_P5_G04,Mac,oscc5,LNM_pri
+HNSCC5_p7_HNSCC5_P7_A01,EC,oscc5,LNM_pri
+HNSCC5_p7_HNSCC5_P7_D06,EC,oscc5,LNM_pri
+HNSCC5_p7_HNSCC5_P7_A11,EC,oscc5,LNM_pri
+HNSCC5_p7_HNSCC5_P7_D09,EC,oscc5,LNM_pri
+HNSCC5_p7_HNSCC5_P7_E04,EC,oscc5,LNM_pri
+HNSCC5_p13_P13_A04,Mst,oscc5,LNM_met
+HNSCC5_p13_P13_E04,EC,oscc5,LNM_met
+HNSCC5_p13_P13_G09,EC,oscc5,LNM_met
+HNSCC5_p13_P13_C03,EC,oscc5,LNM_met
+HNSCC5_p13_P13_H12,EC,oscc5,LNM_met
 HNSCC5_p13_P13_D10,B cell,oscc5,LNM_met
-HNSCC5_p13_P13_E01,Endothelial,oscc5,LNM_met
-HNSCC5_p13_P13_H04,Endothelial,oscc5,LNM_met
+HNSCC5_p13_P13_E01,EC,oscc5,LNM_met
+HNSCC5_p13_P13_H04,EC,oscc5,LNM_met
 HNSCC5_p13_P13_G06,T cell,oscc5,LNM_met
-HNSCC5_p13_P13_B03,Endothelial,oscc5,LNM_met
-HNSCC5_p13_P13_G02,Endothelial,oscc5,LNM_met
-HNSCC5_p13_P13_B11,Endothelial,oscc5,LNM_met
-HNSCC5_p13_P13_D02,Endothelial,oscc5,LNM_met
+HNSCC5_p13_P13_B03,EC,oscc5,LNM_met
+HNSCC5_p13_P13_G02,EC,oscc5,LNM_met
+HNSCC5_p13_P13_B11,EC,oscc5,LNM_met
+HNSCC5_p13_P13_D02,EC,oscc5,LNM_met
 HNSCC5_p13_P13_F09,B cell,oscc5,LNM_met
-HNSCC5_p13_P13_A03,Endothelial,oscc5,LNM_met
-HNSCC5_p13_P13_F08,Endothelial,oscc5,LNM_met
-HNSCC5_p13_P13_G07,Mast,oscc5,LNM_met
-HNSCC5_p13_P13_A09,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_C10,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_C06,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_E06,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_B04,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_C09,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_C05,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_B09,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_C03,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_B01,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_E02,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_F05,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_D01,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_D07,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_B11,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_G04,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_E09,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_G01,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_A05,Endothelial,oscc5,LNM_met
-HNSCC5_p15_HNSCC5_P15_E01,Endothelial,oscc5,LNM_met
-HNSCC6_p8_HNSCC6_P8_E03,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_H07,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_C07,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_B09,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_H02,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_A12,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_G12,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_A09,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_F01,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_D11,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_E09,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_H04,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_C11,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_E08,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_C04,Endothelial,oscc6,LNM_pri
+HNSCC5_p13_P13_A03,EC,oscc5,LNM_met
+HNSCC5_p13_P13_F08,EC,oscc5,LNM_met
+HNSCC5_p13_P13_G07,Mst,oscc5,LNM_met
+HNSCC5_p13_P13_A09,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_C10,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_C06,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_E06,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_B04,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_C09,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_C05,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_B09,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_C03,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_B01,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_E02,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_F05,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_D01,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_D07,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_B11,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_G04,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_E09,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_G01,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_A05,EC,oscc5,LNM_met
+HNSCC5_p15_HNSCC5_P15_E01,EC,oscc5,LNM_met
+HNSCC6_p8_HNSCC6_P8_E03,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_H07,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_C07,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_B09,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_H02,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_A12,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_G12,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_A09,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_F01,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_D11,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_E09,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_H04,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_C11,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_E08,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_C04,EC,oscc6,LNM_pri
 HNSCC6_p8_HNSCC6_P8_A10,B cell,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_A05,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_A08,Endothelial,oscc6,LNM_pri
-HNSCC6_p8_HNSCC6_P8_G11,Endothelial,oscc6,LNM_pri
-HNSCC6_p15_HNSCC6_P15_LN_F07,Endothelial,oscc6,LNM_pri
-HNSCC6_p15_HNSCC6_P15_LN_E01,Endothelial,oscc6,LNM_pri
-HNSCC6_p15_HNSCC6_P15_LN_A03,Macrophage,oscc6,LNM_pri
-HNSCC6_p15_HNSCC6_P15_LN_C12,Endothelial,oscc6,LNM_pri
-HNSCC6_p15_HNSCC6_P15_LN_D03,Endothelial,oscc6,LNM_pri
-HNSCC6_p15_HNSCC6_P15_LN_H06,Endothelial,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_A05,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_A08,EC,oscc6,LNM_pri
+HNSCC6_p8_HNSCC6_P8_G11,EC,oscc6,LNM_pri
+HNSCC6_p15_HNSCC6_P15_LN_F07,EC,oscc6,LNM_pri
+HNSCC6_p15_HNSCC6_P15_LN_E01,EC,oscc6,LNM_pri
+HNSCC6_p15_HNSCC6_P15_LN_A03,Mac,oscc6,LNM_pri
+HNSCC6_p15_HNSCC6_P15_LN_C12,EC,oscc6,LNM_pri
+HNSCC6_p15_HNSCC6_P15_LN_D03,EC,oscc6,LNM_pri
+HNSCC6_p15_HNSCC6_P15_LN_H06,EC,oscc6,LNM_pri
 HNSCC6_p15_HNSCC6_P15_LN_C05,B cell,oscc6,LNM_pri
-HNSCC6_p15_HNSCC6_P15_LN_A02,Macrophage,oscc6,LNM_pri
-HNSCC6_p15_HNSCC6_P15_LN_B02,Endothelial,oscc6,LNM_pri
-HNSCC6_p15_HNSCC6_P15_LN_B08,Macrophage,oscc6,LNM_pri
-HNSCC6_p15_HNSCC6_P15_LN_A09,Endothelial,oscc6,LNM_pri
+HNSCC6_p15_HNSCC6_P15_LN_A02,Mac,oscc6,LNM_pri
+HNSCC6_p15_HNSCC6_P15_LN_B02,EC,oscc6,LNM_pri
+HNSCC6_p15_HNSCC6_P15_LN_B08,Mac,oscc6,LNM_pri
+HNSCC6_p15_HNSCC6_P15_LN_A09,EC,oscc6,LNM_pri
