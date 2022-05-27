@@ -37,11 +37,11 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
   - [ESTIMATE data](/data/estimate/estimate.htm)  
 <br>
   
-- [CIBERSORTx](https://cibersortx.stanford.edu) was used to estimate the abundance of cell types in the oral cancer microenvironment(https://cibersortx.stanford.edu). 
+- [CIBERSORTx](https://cibersortx.stanford.edu) was used to estimate the abundance of cell types in the oral cancer microenvironment (https://cibersortx.stanford.edu). 
   - [CIBERSORTx data](/data/cibersortx/Cibersortx.htm)  
 <br>
 
-- [Scanpy](https://github.com/scverse/scanpy) was used for quality control and visualization of single-cell data(https://github.com/scverse/scanpy). 
+- [Scanpy](https://github.com/scverse/scanpy) was used for quality control and visualization of single-cell data (https://github.com/scverse/scanpy). 
   - [Single-cell meta data](/data/scanpy/oscc_scRNA-seq_meta_data.htm)  
 <br>
 
