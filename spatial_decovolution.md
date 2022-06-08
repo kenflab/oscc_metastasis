@@ -1,7 +1,7 @@
 #### Spatial decovolutionz
 - [Sample A](data/spatial_decovolution/Spatial_deconvolution_Smple_A.html)
 - [Sample B](data/spatial_decovolution/Spatial_deconvolution_Smple_B.html)
-- [Sample D](data/sspatial_decovolution/Spatial_deconvolution_Smple_D.html)
+- [Sample D](data/spatial_decovolution/Spatial_deconvolution_Smple_D.html)
 <br> 
 
 
