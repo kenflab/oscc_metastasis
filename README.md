@@ -61,6 +61,7 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 <br>
 
 - [Tangram](https://github.com/broadinstitute/Tangram) was used to map the cells within each spot (https://github.com/broadinstitute/Tangram).  
+    - [Spatial deconvolution](spatial_decovolution.md)  
 <br>
 
 - [scvi-tools](https://github.com/scverse/scvi-tools) was performed to correct sample-specific batch effects and integrate spatial transcriptome data (https://github.com/scverse/scvi-tools).
