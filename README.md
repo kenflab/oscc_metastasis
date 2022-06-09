@@ -31,25 +31,25 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 - [Metascape](https://metascape.org/) was used to perform DEGs enrichment analysis and protein-protein interaction analysis (https://metascape.org/).
   - [Bulk RNA-seq metascape results](/data/bulk_RNAseq_metascape/AnalysisReport.html)
   - [scRNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)    
-<br>
+<br>  
 
 - [ESTIMATE](https://bioinformatics.mdanderson.org/estimate) was used to calculate the score of the purity of tumor tissue and stromal cell presence and the level of immune cell infiltration (https://bioinformatics.mdanderson.org/estimate).　　
   - [ESTIMATE data](/data/estimate/estimate.htm)  
-<br>
+<br>  
   
 - [CIBERSORTx](https://cibersortx.stanford.edu) was used to estimate the abundance of cell types in the oral cancer microenvironment (https://cibersortx.stanford.edu). 
   - [CIBERSORTx data](/data/cibersortx/Cibersortx.htm)  
-<br>
+<br>  
 
 - [Scanpy](https://github.com/scverse/scanpy) was used for quality control and visualization of single-cell data (https://github.com/scverse/scanpy). 
   - [Single-cell meta data](/data/scanpy/oscc_scRNA-seq_meta_data.htm)  
   - [Single-cell analysis](/data/scanpy/Scanpy_data_processing_oscc.html)  
-<br>
+<br>  
 
 - [CellChat](https://github.com/sqjin/CellChat) was implemented to infer intercellular communications (https://github.com/sqjin/CellChat). 
   - Web-based [CellChat Explorer](http://www.cellchat.org/)
   - [CellChat meta data](data/cellchat/cellchat_meta.data.htm)  
-<br>
+<br>  
 
 - The spatial transcriptome data were processed using [Space ranger](https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger) v1.3.0 with reference genome GRCh38 (https://www.10xgenomics.com/) .
     - [Spatial data summary](summary.md)
@@ -58,20 +58,20 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 
 - Spatial RNA-seq data processing and pathological annotation.
     - [FFPE spatial analysis](/data/ipynbs/FFPE_spatial_analysis.html)  
-<br>
+    - [FFPE spatial gene expression](/data/ipynbs/Spatial_Gene_Expression.html)    
+<br>  
 
 - [Tangram](https://github.com/broadinstitute/Tangram) was used to map the cells within each spot (https://github.com/broadinstitute/Tangram).  
     - [Spatial deconvolution](spatial_decovolution.md)  
-<br>
+<br>  
 
 - [scvi-tools](https://github.com/scverse/scvi-tools) was performed to correct sample-specific batch effects and integrate spatial transcriptome data (https://github.com/scverse/scvi-tools).
     - [Integration analysis of primary and metastatic sites](/data/ipynbs/Integration_analysis_of_pri_met.html)  
-<br>
-
+<br>  
 
 ### CONTACT
 Please contact <furudate@hirosaki-u.ac.jp> with any questions or suggestions.
-<br>
+<br>  
 
 ### LICENCE
 Researchers should use the data only for non-commercial research and educational purposes.  
