@@ -56,8 +56,8 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
     - [Spatial annotation](spatial_annotation.md)  
 <br>  
 
-- Spatial RNA-seq data processing and pathological annotation.
-    - [FFPE spatial analysis](/data/ipynbs/FFPE_spatial_analysis.html)  
+- Spatial annotation and spatial gene expression.
+    - [FFPE spatial annotation](/data/ipynbs/FFPE_spatial_analysis.html)  
     - [FFPE spatial gene expression](/data/ipynbs/Spatial_Gene_Expression.html)    
 <br>  
 
