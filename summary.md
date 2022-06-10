@@ -2,10 +2,10 @@
    
 #### The summary describes the quality of the sequence and various characteristics of the detected spots in the spatial whole transcriptome analysis.
 
-- [Sample A](/data/A2_web_summary.html)
-- [Sample B](/data/B2_web_summary.html)
-- [Sample C](/data/C2_web_summary.html)
-- [Sample D](/data/D2_web_summary.html)
+- [Sample A](/data/spatial_transcriptome_data_summary/A2_web_summary.html)
+- [Sample B](/data/spatial_transcriptome_data_summary/B2_web_summary.html)
+- [Sample C](/data/spatial_transcriptome_data_summary/C2_web_summary.html)
+- [Sample D](/data/spatial_transcriptome_data_summary/D2_web_summary.html)
 <br>  
 
 #### The documentation of summary details can be found [here](https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/output/summary).
