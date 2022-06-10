@@ -1,7 +1,7 @@
 #### FFPE spatial decovolution
-- [Sample A](data/spatial_decovolution/Spatial_deconvolution_Smple_A.html)
-- [Sample B](data/spatial_decovolution/Spatial_deconvolution_Smple_B.html)
-- [Sample D](data/spatial_decovolution/Spatial_deconvolution_Smple_D.html)
+- [Sample A](data/spatial_decovolution/SampleA_tangram_spatial_deconvolution.html)
+- [Sample B](data/spatial_decovolution/SampleB_tangram_spatial_deconvolution.html)
+- [Sample D](data/spatial_decovolution/SampleD_tangram_spatial_deconvolution.html)
 <br> 
 
 
