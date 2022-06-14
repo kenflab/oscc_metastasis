@@ -59,7 +59,7 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 - Spatial annotation and spatial gene expression.
     - [FFPE spatial annotation](/data/ipynbs/FFPE_spatial_analysis.html)  
     - [FFPE spatial gene expression](/data/ipynbs/Spatial_gene_expression.html)    
-    - [Tumor_immune_cell_marker](/data/spatial_tumor_immune_markers.md)    
+    - [Tumor_immune_cell_marker](spatial_tumor_immune_markers.md)    
 <br>  
 
 - [Tangram](https://github.com/broadinstitute/Tangram) was used to map the cells within each spot (https://github.com/broadinstitute/Tangram).  
