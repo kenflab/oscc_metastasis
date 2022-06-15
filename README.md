@@ -1,6 +1,7 @@
 ### Spatially co-localization and cell-cell communication in oral cancer microenvironment associated with metastasis
 <p align="center">
-<img src="https://github.com/kenflab/oscc_metastasis/blob/images/oscc_metastasis_header.png"　/>
+<img src="https://kenflab.github.io/oscc_metastasis/images/oscc_metastasis_header.png"　/>
+ 
 </p>
 
 ### OVERVIEW
