@@ -1,6 +1,7 @@
 ### Spatially co-localization and cell-cell communication in oral cancer microenvironment associated with metastasis
    
 #### The summary describes the quality of the sequence and various characteristics of the detected spots in the spatial whole transcriptome analysis.
+<img width="1349" alt="oscc_sample_summary" src="https://user-images.githubusercontent.com/96807849/178137623-3f92a5a1-fa4f-4f53-8974-6ae3bfc12476.png">
 
 - [Sample A](/data/spatial_transcriptome_data_summary/A2_web_summary.html)
 - [Sample B](/data/spatial_transcriptome_data_summary/B2_web_summary.html)
