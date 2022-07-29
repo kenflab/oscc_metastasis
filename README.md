@@ -13,7 +13,7 @@ This website is ongoing and is continually being updated. It is expected that we
 
 
 - 12-29-2021
-Got this GitHub site and started setting it up.
+  -  Got this GitHub site and started setting it up.
 
 
 ```markdown
