@@ -6,7 +6,7 @@
 
 
 ### OVERVIEW
-Here we described using integrated analysis of bulk, single-cell, and spatial approaches to revealing the landscape of cell-cell interactions in the TME of OSCC. This work is ongoing and is continually being updated. It is expected that we are going to update the more we work over time. Please let us know if there is anything you are interested in that is not covered in our paper.
+Here we described using integrated analysis of bulk, single-cell, and spatial approaches to revealing the landscape of cell-cell interactions in the tumor microenvironment (TME) of oral squamous cell carcinoma (OSCC). This work is ongoing and is continually being updated. It is expected that we are going to update the more we work over time. Please let us know if there is anything you are interested in that is not covered in our paper.
 
 
 ```markdown
