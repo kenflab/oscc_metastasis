@@ -7,16 +7,21 @@
 
 ### OVERVIEW
 Here we described using integrated analysis of bulk, single-cell, and spatial approaches to revealing the landscape of cell-cell interactions in the tumor microenvironment (TME) of oral squamous cell carcinoma (OSCC).  
+<br>  
 
 This website is ongoing and is continually being updated. It is expected that we are going to update the more we work over time. Please let us know if there is anything you are interested in that is not covered in our paper.  
 
 ### Updates
 - 07-29-2022
-  - Updated website header (created by a co-author Shuya Kasai).
+  - Updated the website header (created by a co-author Shuya Kasai).
   - This website is as now available to the public.  
-
+<br>  
+- 05-29-2022
+  -   
+<br>  
 - 12-29-2021
-  - Got this GitHub pages and started setting it up.  
+  - Got a GitHub page and started setting this website up.  
+<br>  
 
 
 ```markdown
