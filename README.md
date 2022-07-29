@@ -12,6 +12,10 @@ This website is ongoing and is continually being updated. It is expected that we
 ### Updates
 
 
+- 12-29-2021
+Got this GitHub site and started setting it up.
+
+
 ```markdown
 R v3.6.2
 ggplot2 v3.3.5
