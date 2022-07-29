@@ -56,8 +56,8 @@ gdc-client (v1.6.0).
 Metascape (v3.5), 
 ESTIMATE (1.0.13), 
 CIBERSORTx, 
-Space Ranger (v1.3.0, 10X Genomics), 
-and Loupe Browser (v6.0.0, 10X Genomics), 
+Space Ranger (v1.3.0, 10x Genomics), 
+and Loupe Browser (v6.0.0, 10x Genomics), 
 ```
 
 
