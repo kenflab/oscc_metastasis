@@ -13,7 +13,7 @@ This website is ongoing and is continually being updated. It is expected that we
 
 ### UPDATES
 - 07-29-2022　　
-  - Updated the website header (created by a co-author Shuya Kasai).
+  - Updated the website header image (created by   co-author Shuya Kasai).
   - This website is as now available to the public.
 - 07-10-2022　
   - Edited the Reference.
