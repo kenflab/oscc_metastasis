@@ -49,7 +49,13 @@ anndata v0.7.8
 stlearn v0.3.1
 scvi-tools v0.14.5
 
-Additional software included Space Ranger (v1.3.0, 10X Genomics), Loupe Browser (v6.0.0, 10X Genomics), CIBERSORTx, ESTIMATE, Metascape, and gdc-client (v1.6.0).
+Additional software included
+gdc-client (v1.6.0).
+Metascape, 
+ESTIMATE, 
+CIBERSORTx, 
+Space Ranger (v1.3.0, 10X Genomics), 
+and Loupe Browser (v6.0.0, 10X Genomics), 
 ```
 
 
