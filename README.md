@@ -14,7 +14,7 @@ This website is ongoing and is continually being updated. It is expected that we
   - Updated website header (created by a co-author Shuya Kasai)   
 
 - 12-29-2021
-  -  Got this GitHub pages and started setting it up.
+  - Got this GitHub pages and started setting it up.
 
 
 ```markdown
