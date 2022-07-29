@@ -1,4 +1,4 @@
-### Spatially co-localization and cell-cell communication in oral cancer microenvironment associated with metastasis
+### Spatial transcriptomics identifies that lymph node metastasis requires more spatial colocalization of oral cancer cells and cancer-associated fibroblasts and intense cell-cell communications
 
 <img width="1349" alt="oscc_sample_summary" src="https://user-images.githubusercontent.com/96807849/178137623-3f92a5a1-fa4f-4f53-8974-6ae3bfc12476.png">  
 
