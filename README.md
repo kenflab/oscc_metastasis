@@ -15,13 +15,12 @@ This website is ongoing and is continually being updated. It is expected that we
 - 07-29-2022
   - Updated the website header (created by a co-author Shuya Kasai).
   - This website is as now available to the public.  
-<br>  
-- 05-29-2022
-  -   
-<br>  
+  
+- 05-01-2022
+  - websummary
+
 - 12-29-2021
   - Got a GitHub page and started setting this website up.  
-<br>  
 
 
 ```markdown
