@@ -25,7 +25,7 @@ This website is ongoing and is continually being updated. It is expected that we
   - Got a GitHub page and started setting this website up.  
 <br>  
 
-### SOFTWARE
+#### SOFTWARE
 ```markdown
 R v3.6.2
 ggplot2 v3.3.5
@@ -48,7 +48,10 @@ pandas v1.3.5
 anndata v0.7.8
 stlearn v0.3.1
 scvi-tools v0.14.5
+
+Additional software included Space Ranger (v1.3.0, 10X Genomics), Loupe Browser (v6.0.0, 10X Genomics), CIBERSORTx, ESTIMATE, Metascape, and gdc-client (v1.6.0).
 ```
+
 
 ### NAVIGATION
 We used no unpublished codes in bulk and single-cell analyses in this study. Source data are provided in our paper. All other data supporting the results of this study are available from the corresponding author upon reasonable request.
