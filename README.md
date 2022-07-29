@@ -1,4 +1,4 @@
-### Spatially co-localization and cell-cell communication in oral cancer microenvironment associated with metastasis
+### Spatial transcriptomics identifies that lymph node metastasis requires more spatial colocalization of oral cancer cells and cancer-associated fibroblasts and intense cell-cell communications
 <p align="center">
 <img width="720" alt="human_OSCC_metastasis" src="https://user-images.githubusercontent.com/96807849/181699083-a9548c03-8139-4ad6-8c81-788d037f9e85.png">
 </p>
@@ -8,26 +8,27 @@
 ### OVERVIEW
 
 ```markdown
-R v3.6.2.
-ggplot2 v3.3.5.
-tidyverse v1.3.1.
-tidyr v1.1.3.
-tibble v3.1.4.
-dplyrr v1.0.7.
-purrr v0.3.4.
-stringr v1.4.0.
+R v3.6.2
+ggplot2 v3.3.5
+tidyverse v1.3.1
+tidyr v1.1.3
+tibble v3.1.4
+dplyrr v1.0.7
+purrr v0.3.4
+stringr v1.4.0
 
-Python v3.7.12.
-Scanpy v1.8.2.
-leidenalg v0.8.8.
-Squidpy v1.1.2.
-matplotlib v3.2.2.
-seaborn v0.11.2.
-numpy v1.21.5.
-pandas v1.3.5.
-anndata v0.7.8.
-stlearn v0.3.1.
-scvi-tools v0.14.5.
+Python v3.7.12
+Scanpy v1.8.2
+CellChat v1.4.0
+leidenalg v0.8.8
+Squidpy v1.1.2
+matplotlib v3.2.2
+seaborn v0.11.2
+numpy v1.21.5
+pandas v1.3.5
+anndata v0.7.8
+stlearn v0.3.1
+scvi-tools v0.14.5
 ```
 
 ### NAVIGATION
