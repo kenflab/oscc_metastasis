@@ -29,32 +29,32 @@ This website is ongoing and is continually being updated. It is expected that we
 
 #### SOFTWARE
 ```markdown
-R v3.6.2
-ggplot2 v3.3.5
-tidyverse v1.3.1
-tidyr v1.1.3
-tibble v3.1.4
-dplyrr v1.0.7
-purrr v0.3.4
-stringr v1.4.0
+R (v3.6.29
+ggplot2 (v3.3.5)
+tidyverse (v1.3.1)
+tidyr (v1.1.3)
+tibble (v3.1.4)
+dplyrr (v1.0.7)
+purrr (v0.3.4)
+stringr (v1.4.0)
 
-Python v3.7.12
-Scanpy v1.8.2
-CellChat v1.4.0
-leidenalg v0.8.8
-Squidpy v1.1.2
-matplotlib v3.2.2
-seaborn v0.11.2
-numpy v1.21.5
-pandas v1.3.5
-anndata v0.7.8
-stlearn v0.3.1
+Python (v3.7.12)
+Scanpy (v1.8.2)
+CellChat (v1.4.0)
+leidenalg (v0.8.8)
+Squidpy (v1.1.2)
+matplotlib (v3.2.2)
+seaborn (v0.11.2)
+numpy (v1.21.5)
+pandas (v1.3.5)
+anndata (v0.7.8)
+stlearn (v0.3.1)
 scvi-tools v0.14.5
 
 Additional software included
 gdc-client (v1.6.0).
-Metascape, 
-ESTIMATE, 
+Metascape (v3.5), 
+ESTIMATE (1.0.13), 
 CIBERSORTx, 
 Space Ranger (v1.3.0, 10X Genomics), 
 and Loupe Browser (v6.0.0, 10X Genomics), 
