@@ -25,7 +25,7 @@ This website is ongoing and is continually being updated. It is expected that we
   - Got a GitHub page and started setting this website up.  
 <br>  
 
-#### SOFTWARE
+### SOFTWARE
 ```markdown
 R v3.6.2
 ggplot2 v3.3.5
