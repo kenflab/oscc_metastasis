@@ -17,7 +17,7 @@ This website is ongoing and is continually being updated. It is expected that we
   - This website is as now available to the public.  
   
 - 05-01-2022
-  - Added [web summaries of spatial whole transcriptome analysis] (https://kenflab.github.io/oscc_metastasis/summary.html)
+  - Added [web summaries of spatial whole transcriptome analysis](https://kenflab.github.io/oscc_metastasis/summary.html)
 
 - 12-29-2021
   - Got a GitHub page and started setting this website up.  
