@@ -19,7 +19,7 @@ This website is ongoing and is continually being updated. It is expected that we
 - 06-20-2022
 
 - 05-08-2022
-  - Added the metascape results of [Bulk RNA-seq](https://kenflab.github.io/oscc_metastasis/data/bulk_RNAseq_metascape/AnalysisReport.html) and [scRNA-seq](https://kenflab.github.io/oscc_metastasis/data/scRNAseq_metascape/AnalysisReport.html).
+  - Added the metascape results of [Bulk RNA-seq](https://kenflab.github.io/oscc_metastasis/data/scRNAseq_metascape/AnalysisReport.html) and [scRNA-seq](https://kenflab.github.io/oscc_metastasis/data/bulk_RNAseq_metascape/AnalysisReport.html).
 
 - 05-01-2022
   - Added [web summaries of spatial whole transcriptome analysis](https://kenflab.github.io/oscc_metastasis/summary.html)
