@@ -14,20 +14,15 @@ This website is ongoing and is continually being updated. It is expected that we
 ### Updates
 - 07-29-2022　　
   - Updated the website header (created by a co-author Shuya Kasai).
-  - This website is as now available to the public.  
-<br>  
+  - This website is as now available to the public.
 - 06-20-2022　　
   - Added [spatial annotation](https://kenflab.github.io/oscc_metastasis/data/ipynbs/FFPE_spatial_analysis.html) and [spatial gene expression](https://kenflab.github.io/oscc_metastasis/data/ipynbs/Spatial_gene_expression.html).
-<br>  
 - 05-08-2022　　
   - Added the metascape results of [Bulk RNA-seq](https://kenflab.github.io/oscc_metastasis/data/scRNAseq_metascape/AnalysisReport.html) and [scRNA-seq](https://kenflab.github.io/oscc_metastasis/data/bulk_RNAseq_metascape/AnalysisReport.html).  
-<br>  
 - 05-01-2022  
   - Added [web summaries of spatial whole transcriptome analysis](https://kenflab.github.io/oscc_metastasis/summary.html)  
-<br>  
 - 12-29-2021  
   - Got a GitHub page and started setting this website up.  
-<br>  
 
 ```markdown
 R v3.6.2
