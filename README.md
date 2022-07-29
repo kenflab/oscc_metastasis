@@ -12,7 +12,8 @@ This website is ongoing and is continually being updated. It is expected that we
 
 ### Updates
 - 07-29-2022
-  - Updated website header (created by a co-author Shuya Kasai)     
+  - Updated website header (created by a co-author Shuya Kasai).
+  - This website is as now available to the public.  
 
 - 12-29-2021
   - Got this GitHub pages and started setting it up.  
