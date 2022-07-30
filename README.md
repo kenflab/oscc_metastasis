@@ -82,7 +82,8 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 - [Scanpy](https://github.com/scverse/scanpy) was used for quality control and visualization of single-cell data (https://github.com/scverse/scanpy). 
   - [Single-cell meta data](/data/scanpy/oscc_scRNA-seq_meta_data.htm)  
   - [Single-cell analysis](/data/scanpy/Scanpy_data_processing_oscc.html)
-  - [Single-cell proportion data per sample](/data/scanpy/singlecell_proportion_per_sample.htm)  
+  - [Single-cell proportion data per sample](/data/scanpy/singlecell_proportion_per_sample.htm)
+  - [Statistical test results of Single-cell proportion data per sample](/data/scanpy/Single_cell_proportion_data_statistic.html)  
 <br>  
 
 - [CellChat](https://github.com/sqjin/CellChat) was implemented to infer intercellular communications (https://github.com/sqjin/CellChat). 
