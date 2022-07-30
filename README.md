@@ -1,4 +1,4 @@
-### Spatial transcriptomics identifies that lymph node metastasis requires more spatial colocalization of oral cancer cells and cancer-associated fibroblasts and intense cell-cell communications
+### Lymph node metastasis requires increased spatial colocalization of oral squamous cell carcinoma cells and fibroblasts in the tumor-invasive lesions and intense cell-cell communications
 <p align="center">
 <img width="720" alt="human_OSCC_metastasis" src="https://user-images.githubusercontent.com/96807849/181699083-a9548c03-8139-4ad6-8c81-788d037f9e85.png">
 </p>
