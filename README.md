@@ -29,7 +29,7 @@ This website is ongoing and is continually being updated. It is expected that we
 
 #### SOFTWARE
 ```markdown
-R (v3.6.29
+R (v3.6.29)
 ggplot2 (v3.3.5)
 tidyverse (v1.3.1)
 tidyr (v1.1.3)
