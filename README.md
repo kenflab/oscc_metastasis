@@ -109,6 +109,13 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
     - [Statistical test results of IHC analysis data](/data/spatial_decovolution/IHC_analysis_statistics.html)  
 <br>  
 
+- [Squidpy](https://github.com/scverse/squidpy) was estimated spatial interaction (https://github.com/scverse/squidpy).  
+    - [Spatial interaction](/data/spatial_interaction/spatial_interaction.html)
+    - [Spatial interaction data of Sample A](/data/spatial_interaction/Spatial_interactions_SmapleA.htm)
+    - [Spatial interaction data of Sample B](/data/spatial_interaction/Spatial_interactions_SmapleB.htm)
+    - [Spatial interaction data of Sample D](/data/spatial_interaction/Spatial_interactions_SmapleD.htm)  
+<br>  
+
 - [scvi-tools](https://github.com/scverse/scvi-tools) was performed to correct sample-specific batch effects and integrate spatial transcriptome data (https://github.com/scverse/scvi-tools).
     - [Integration analysis of primary and metastatic sites](/data/ipynbs/Integration_analysis_of_pri_met.html)  
     - The trained model can be found on the figshare (DOI: [https://doi.org/10.6084/m9.figshare.20279025.v1](https://doi.org/10.6084/m9.figshare.20279025.v1))
