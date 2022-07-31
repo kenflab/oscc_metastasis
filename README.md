@@ -1,4 +1,4 @@
-#### Lymph node metastasis in patients with oral squamous cell carcinoma 
+### Lymph node metastasis in patients with oral squamous cell carcinoma 
 <p align="center">
 <img width="720" alt="human_OSCC_metastasis" src="https://user-images.githubusercontent.com/96807849/181699083-a9548c03-8139-4ad6-8c81-788d037f9e85.png">
 </p>
