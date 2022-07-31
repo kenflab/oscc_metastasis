@@ -105,7 +105,8 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 
 - [Tangram](https://github.com/broadinstitute/Tangram) was used to map the cells within each spot (https://github.com/broadinstitute/Tangram).  
     - [FFPE spatial deconvolution](spatial_decovolution.md)
-    - IHC staining can be found on the figshare (DOI: [https://doi.org/10.6084/m9.figshare.20407344.v1](https://doi.org/10.6084/m9.figshare.20407344.v1))  
+    - IHC staining can be found on the figshare (DOI: [https://doi.org/10.6084/m9.figshare.20407344.v1](https://doi.org/10.6084/m9.figshare.20407344.v1))
+    - [Statistical test results of IHC analysis data](/data/spatial_decovolution/IHC_analysis_statistics.html)  
 <br>  
 
 - [scvi-tools](https://github.com/scverse/scvi-tools) was performed to correct sample-specific batch effects and integrate spatial transcriptome data (https://github.com/scverse/scvi-tools).
