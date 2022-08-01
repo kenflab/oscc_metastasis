@@ -1,4 +1,4 @@
-#### Spatial annotation
+### Spatial annotation
 - [Sample A](data/spatial_annot/SampleA_cluster_patho.annot_region.htm)
 - [Sample B](data/spatial_annot/SampleB_cluster_patho.annot_region.htm)
 - [Sample C](data/spatial_annot/SampleC_cluster_patho.annot_region.htm)
