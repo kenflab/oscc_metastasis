@@ -126,7 +126,7 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 <br>  
 
 ### CONTACT
-Please contact <furudate@hirosaki-u.ac.jp> with any questions or suggestions.
+Please contact <furudate@hirosaki-u.ac.jp> with any questions or suggestions.  
 <br>  
 
 ### How to cite? (In preparation)
