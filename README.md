@@ -49,13 +49,15 @@ numpy (v1.21.5)
 pandas (v1.3.5)
 anndata (v0.7.8)
 stlearn (v0.3.1)
-scvi-tools v0.14.5
+scvi-tools (v0.14.5)
 
 Additional software included
 gdc-client (v1.6.0).
 Metascape (v3.5), 
-ESTIMATE (1.0.13), 
-CIBERSORTx, 
+ESTIMATE (v1.0.13), 
+CIBERSORTx (2022),
+inferCNV (v1.11.1),
+G Power (v3.1.9.7), 
 Space Ranger (v1.3.0, 10x Genomics), 
 and Loupe Browser (v6.0.0, 10x Genomics), 
 ```
@@ -142,3 +144,5 @@ Researchers should use the data only for non-commercial research and educational
 - Palla, G. et al. Squidpy: a scalable framework for spatial omics analysis. Nat. Methods 19, 171–178 (2022).
 - Biancalani, T. et al. Deep learning and alignment of spatially resolved single-cell transcriptomes with Tangram. Nat. Methods 18, 1352–1362 (2021).
 - Lopez, R., Regier, J., Cole, M. B., Jordan, M. I. & Yosef, N. Deep generative modeling for single- cell transcriptomics. Nat. Methods 15, 1053–1058 (2018).
+- Tickle, T., Tirosh, I., Georgescu, C., Brown, M. & Haas, B. inferCNV of the Trinity CTAT Project. Klarman Cell Observatory, Broad Institute of MIT and Harvard (2019).
+- Faul, F., Erdfelder, E., Buchner, A. & Lang, A.-G. Statistical power analyses using G*Power 3.1: tests for correlation and regression analyses. Behav. Res. Methods 41, 1149–1160 (2009).
