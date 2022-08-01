@@ -129,14 +129,15 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
 Please contact <furudate@hirosaki-u.ac.jp> with any questions or suggestions.
 <br>  
 
+### How to cite? (In preparation)
+We appreciate your patience as it might take some time.  
+<br>  
+
 ### LICENCE
 Researchers should use the data only for non-commercial research and educational purposes. Source data is uploaded to support publication in our papers. The citation is required to use the data.
 <br>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This project by <a xmlns:cc="http://creativecommons.org/ns#" href="https://kenflab.github.io/oscc_metastasis/" property="cc:attributionName" rel="cc:attributionURL">Ken Furudate</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.  
 <br>  
-
-### How to cite? (In preparation)
- We appreciate your patience as it might take some time.
 
 ### Reference
 - Zhou, Y. et al. Metascape provides a biologist-oriented resource for the analysis of systems-level datasets. Nat. Commun. 10, 1523 (2019).
