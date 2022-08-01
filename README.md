@@ -120,6 +120,7 @@ We used no unpublished codes in bulk and single-cell analyses in this study. Sou
     - [Integration analysis of primary and metastatic sites](/data/ipynbs/Integration_analysis_of_pri_met.html)
     - The trained model can be found on the figshare (DOI: [https://doi.org/10.6084/m9.figshare.20279025.v1](https://doi.org/10.6084/m9.figshare.20279025.v1))
     - [Integration analysis data](/data/scvi_trained_model/Integration data of primary and metastatic sites.htm)
+    - [Integration cluster analysis](/data/scvi_trained_model/integration_cluster_analysis.html)  
 <br>  
 
 ### CONTACT
