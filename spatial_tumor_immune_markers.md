@@ -1,4 +1,4 @@
-#### Tumor immune cell markers in primary sites
+### Tumor immune cell markers in primary sites
 - [Sample A](data/tumor_immune/spatial_tumor_immune_markers_SampleA.html)
 - [Sample B](data/tumor_immune/spatial_tumor_immune_markers_SampleB.html)
 - [Sample D](data/tumor_immune/spatial_tumor_immune_markers_SampleD.html)
