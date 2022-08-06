@@ -5,7 +5,7 @@
 </p>
 
 ### OVERVIEW
-This study aimed to investigate the factors related to lymph node metastasis (LNM) in patients with human oral squamous cell carcinoma (OSCC). Here we share the integrative analysis of bulk, single-cell, and spatial approaches to understanding the landscape of cell-cell interactions in the tumor microenvironment (TME) of OSCC.  
+This study aimed to investigate the factors related to lymph node metastasis (LNM) in patients with human oral squamous cell carcinoma (OSCC). Here we share the analysis methods of bulk, single-cell, and spatial approaches to understanding the landscape of the tumor microenvironment (TME) of OSCC.  
 <br>  
 
 We are going to update this website whenever we add data analysis continually. Please let us know if there is anything you are interested in that is not covered in our paper.  
