@@ -13,7 +13,7 @@ We are going to update this website whenever we add data analysis continually. P
  
 ### UPDATES
 - 08-07-2022
-  - Added an [interactive table of marker gene signatures](https://kenflab.github.io/oscc_metastasis/data/spatial_decovolution/OSCC_scRNAseq_celltype_marker_genes.html) for TME of OSCC.
+  - Added the [interactive table of cell-type-specific marker genes](https://kenflab.github.io/oscc_metastasis/data/spatial_decovolution/OSCC_scRNAseq_celltype_marker_genes.html) from TME of OSCC.
 - 07-29-2022　　
   - Updated the website header image (created by co-author Shuya Kasai).
   - This website is as now available to the public.
@@ -110,7 +110,7 @@ Our paper provides Source Data and analysis methods. All other data supporting t
 
 - [Tangram](https://github.com/broadinstitute/Tangram) was used to map the cells within each spot (https://github.com/broadinstitute/Tangram).  
     - [FFPE spatial deconvolution](spatial_decovolution.md)
-    - [Marker gene signatures for TME of OSCC](/data/spatial_decovolution/OSCC_scRNAseq_celltype_marker_genes.html)
+    - [Cell-type-specific marker genes from TME of OSCC](/data/spatial_decovolution/OSCC_scRNAseq_celltype_marker_genes.html)
     - IHC staining can be found on the figshare (DOI: [https://doi.org/10.6084/m9.figshare.20407344.v1](https://doi.org/10.6084/m9.figshare.20407344.v1))
     - [Statistical test results of IHC analysis data](/data/spatial_decovolution/IHC_analysis_statistics.html)  
 <br>  
