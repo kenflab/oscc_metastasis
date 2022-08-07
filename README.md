@@ -12,8 +12,10 @@ We are going to update this website whenever we add data analysis continually. P
 <br>  
  
 ### UPDATES
+- 08-07-2022
+  - Added an [interactive table of marker gene signatures](https://kenflab.github.io/oscc_metastasis/data/spatial_decovolution/OSCC_scRNAseq_celltype_marker_genes.html) for TME of OSCC.
 - 07-29-2022　　
-  - Updated the website header image (created by   co-author Shuya Kasai).
+  - Updated the website header image (created by co-author Shuya Kasai).
   - This website is as now available to the public.
 - 07-10-2022　
   - Edited the Reference.
