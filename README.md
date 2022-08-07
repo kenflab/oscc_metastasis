@@ -110,6 +110,7 @@ Our paper provides Source Data and analysis methods. All other data supporting t
 
 - [Tangram](https://github.com/broadinstitute/Tangram) was used to map the cells within each spot (https://github.com/broadinstitute/Tangram).  
     - [FFPE spatial deconvolution](spatial_decovolution.md)
+    - [Marker gene signatures for TME of OSCC](/data/spatial_decovolution/OSCC_scRNAseq_celltype_marker_genes.html)
     - IHC staining can be found on the figshare (DOI: [https://doi.org/10.6084/m9.figshare.20407344.v1](https://doi.org/10.6084/m9.figshare.20407344.v1))
     - [Statistical test results of IHC analysis data](/data/spatial_decovolution/IHC_analysis_statistics.html)  
 <br>  
