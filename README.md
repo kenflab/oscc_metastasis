@@ -67,7 +67,7 @@ and Loupe Browser (v6.0.0, 10x Genomics),
 
 ### NAVIGATION
 We used no unpublished codes in this study. Please refer to the individual software guides for more information.
-Our paper provides Source Data and analysis methods. All other data supporting the results of this study are available from the corresponding author upon reasonable request.  
+Our paper provides Source data and analysis methods. All other data supporting the results of this study are available from the corresponding author upon reasonable request.  
 
 - [Metascape](https://metascape.org/) was used to perform DEGs enrichment analysis and protein-protein interaction analysis (https://metascape.org/).
   - [Bulk RNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)
