@@ -64,7 +64,7 @@ and Loupe Browser (v6.0.0, 10x Genomics),
 
 
 ### NAVIGATION
-We used no unpublished codes in this study. Please refer to the individual above software guides for more information.
+We used no unpublished codes in this study. Please refer to the individual software guides for more information.
 Source data are provided in our paper. All other data supporting the results of this study are available from the corresponding author upon reasonable request.  
 
 - [Metascape](https://metascape.org/) was used to perform DEGs enrichment analysis and protein-protein interaction analysis (https://metascape.org/).
