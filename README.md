@@ -27,7 +27,7 @@ We are going to update this website whenever we add data analysis continually. P
   - Got a GitHub page and started setting this website up.  
 <br>  
 
-#### SOFTWARE
+#### Data Analysis Software
 ```markdown
 R (v3.6.29)
 ggplot2 (v3.3.5)
