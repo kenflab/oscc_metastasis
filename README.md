@@ -5,7 +5,7 @@
 </p>
 
 ### OVERVIEW
-This study aimed to investigate the factors related to lymph node metastasis (LNM) in patients with human oral squamous cell carcinoma (OSCC). Here we share the analysis methods of bulk, single-cell, and spatial approaches to understanding the landscape of the tumor microenvironment (TME) of OSCC.  
+This study aimed to investigate the factors related to lymph node metastasis (LNM) in patients with oral squamous cell carcinoma (OSCC). Here we share the analysis methods of bulk, single-cell, and spatial approaches to understanding the landscape of the tumor microenvironment (TME) of OSCC.  
 <br>  
 
 We are going to update this website whenever we add data analysis continually. Please let us know if there is anything you are interested in that is not covered in our paper.  
@@ -67,7 +67,7 @@ and Loupe Browser (v6.0.0, 10x Genomics),
 
 ### NAVIGATION
 We used no unpublished codes in this study. Please refer to the individual software guides for more information.
-Our paper provides Source data and analysis methods. All other data supporting the results of this study are available from the corresponding author upon reasonable request.  
+Our paper provides analysis methods. All other data supporting the results of this study are available from the corresponding author upon reasonable request.  
 
 - [Metascape](https://metascape.org/) was used to perform DEGs enrichment analysis and protein-protein interaction analysis (https://metascape.org/).
   - [Bulk RNA-seq metascape results](/data/scRNAseq_metascape/AnalysisReport.html)
@@ -138,7 +138,7 @@ We appreciate your patience as it might take some time.
 <br>  
 
 ### LICENCE
-Researchers should use the data only for non-commercial research and educational purposes. Source data is uploaded to support publication in our papers. The citation is required to use the data.
+Researchers should use the data only for non-commercial research and educational purposes. The citation is required to use the data and software.
 <br>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This project by <a xmlns:cc="http://creativecommons.org/ns#" href="https://kenflab.github.io/oscc_metastasis/" property="cc:attributionName" rel="cc:attributionURL">Ken Furudate</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.  
 <br>  
