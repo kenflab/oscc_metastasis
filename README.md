@@ -59,7 +59,7 @@ Metascape (v3.5),
 ESTIMATE (v1.0.13), 
 CIBERSORTx (2022),
 inferCNV (v1.11.1),
-G Power (v3.1.9.7), 
+G*Power (v3.1.9.7), 
 Space Ranger (v1.3.0, 10x Genomics), 
 and Loupe Browser (v6.0.0, 10x Genomics), 
 ```
