@@ -75,26 +75,26 @@ Our paper provides analysis methods. All other data supporting the results of th
 <br>  
 
 - [ESTIMATE](https://bioinformatics.mdanderson.org/estimate) was used to calculate the score of the purity of tumor tissue and stromal cell presence and the level of immune cell infiltration (https://bioinformatics.mdanderson.org/estimate).　　
-  - [ESTIMATE data](/data/estimate/estimate.htm)
-  - [Statistical test results of ESTIMATE data](/data/estimate/Estimate_statistics.html)  
+  - [ESTIMATE result](/data/estimate/estimate.htm)
+  - [Statistical test of ESTIMATE result](/data/estimate/Estimate_statistics.html)  
 <br>  
   
 - [CIBERSORTx](https://cibersortx.stanford.edu) was used to estimate the abundance of cell types in the oral cancer microenvironment (https://cibersortx.stanford.edu). 
-  - [CIBERSORTx data](/data/cibersortx/Cibersortx.htm)
-  - [Statistical test results of CIBERSORTx data](/data/cibersortx/Cibersortx_statistics.html)  
+  - [CIBERSORTx result](/data/cibersortx/Cibersortx.htm)
+  - [Statistical test of CIBERSORTx result](/data/cibersortx/Cibersortx_statistics.html)  
 <br>  
 
 - [Scanpy](https://github.com/scverse/scanpy) was used for quality control and visualization of single-cell data (https://github.com/scverse/scanpy). 
-  - [Single-cell meta data](/data/scanpy/oscc_scRNA-seq_meta_data.htm)  
   - [Single-cell analysis](/data/scanpy/Scanpy_data_processing_oscc.v10.html)
-  - [Single-cell proportion data per sample](/data/scanpy/singlecell_proportion_per_sample.htm)
-  - [Statistical test results of Single-cell proportion data per sample](/data/scanpy/Single_cell_proportion_data_statistic.html)  
+  - [Single-cell meta data](/data/scanpy/oscc_scRNA-seq_meta_data.htm)
+  - [Single-cell proportion per sample](/data/scanpy/singlecell_proportion_per_sample.htm)
+  - [Statistical test of single-cell proportion per sample](/data/scanpy/Single_cell_proportion_data_statistic.html)  
 <br>  
 
 - [CellChat](https://github.com/sqjin/CellChat) was implemented to infer intercellular communications (https://github.com/sqjin/CellChat). 
   - Web-based [CellChat Explorer](http://www.cellchat.org/)
-  - [CellChat meta data](/data/cellchat/cellchat_meta.data.htm)
-  - [CellChat analysis](/data/cellchat/cellchat.html)  
+  - [CellChat analysis](/data/cellchat/cellchat.html)
+  - [CellChat meta data](/data/cellchat/cellchat_meta.data.htm)  
 <br>  
 
 - The spatial transcriptome data were processed using [Space ranger](https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger) v1.3.0 with reference genome GRCh38 (https://www.10xgenomics.com/) .
@@ -103,29 +103,29 @@ Our paper provides analysis methods. All other data supporting the results of th
 <br>  
 
 - Spatial annotation and spatial gene expression.
-    - [FFPE spatial annotation](/data/ipynbs/FFPE_spatial_analysis.html)  
-    - [FFPE spatial gene expression](/data/ipynbs/Spatial_gene_expression.html)    
-    - [Tumor_immune_cell_marker](spatial_tumor_immune_markers.md)    
+    - [FFPE spatial annotation analysis](/data/ipynbs/FFPE_spatial_analysis.html)  
+    - [FFPE spatial gene expression analysis](/data/ipynbs/Spatial_gene_expression.html)    
+    - [Tumor immune cell marker analysis](spatial_tumor_immune_markers.md)    
 <br>  
 
 - [Tangram](https://github.com/broadinstitute/Tangram) was used to map the cells within each spot (https://github.com/broadinstitute/Tangram).  
-    - [FFPE spatial deconvolution](spatial_decovolution.md)
-    - [Cell-type-specific marker genes from TME of OSCC](/data/spatial_decovolution/OSCC_scRNAseq_celltype_marker_genes.html)
+    - [FFPE spatial deconvolution analysis](spatial_decovolution.md)
+    - [Cell-type-specific marker genes table](/data/spatial_decovolution/OSCC_scRNAseq_celltype_marker_genes.html)
     - IHC staining can be found on the figshare (DOI: [https://doi.org/10.6084/m9.figshare.20407344.v1](https://doi.org/10.6084/m9.figshare.20407344.v1))
-    - [Statistical test results of IHC analysis data](/data/spatial_decovolution/IHC_analysis_statistics.html)  
+    - [Statistical test of IHC analysis](/data/spatial_decovolution/IHC_analysis_statistics.html)  
 <br>  
 
 - [Squidpy](https://github.com/scverse/squidpy) was estimated spatial interaction (https://github.com/scverse/squidpy).  
-    - [Spatial interaction data of Sample A](/data/spatial_interaction/Spatial_interactions_SmapleA.htm)
-    - [Spatial interaction data of Sample B](/data/spatial_interaction/Spatial_interactions_SmapleB.htm)
-    - [Spatial interaction data of Sample D](/data/spatial_interaction/Spatial_interactions_SmapleD.htm)
-    - [Spatial interaction analysis](/data/spatial_interaction/spatial_interaction.html)  
+    - [Spatial interaction analysis](/data/spatial_interaction/spatial_interaction.html)
+    - [Spatial interaction table of Sample A](/data/spatial_interaction/Spatial_interactions_SmapleA.htm)
+    - [Spatial interaction table of Sample B](/data/spatial_interaction/Spatial_interactions_SmapleB.htm)
+    - [Spatial interaction table of Sample D](/data/spatial_interaction/Spatial_interactions_SmapleD.htm)  
 <br>  
 
 - [scVI (scvi-tools)](https://github.com/scverse/scvi-tools) was performed to correct sample-specific batch effects and integrate spatial transcriptome data (https://github.com/scverse/scvi-tools).
     - [Integration analysis of primary and metastatic sites](/data/ipynbs/Integration_analysis_of_pri_met.html)
     - The trained model can be found on the figshare (DOI: [https://doi.org/10.6084/m9.figshare.20279025.v1](https://doi.org/10.6084/m9.figshare.20279025.v1))
-    - [Integration analysis data](/data/scvi_trained_model/Integration data of primary and metastatic sites.htm)
+    - [Integration analysis result](/data/scvi_trained_model/Integration data of primary and metastatic sites.htm)
     - [Integration cluster analysis](/data/scvi_trained_model/integration_cluster_analysis.html)  
 <br>  
 
