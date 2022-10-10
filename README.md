@@ -12,6 +12,8 @@ We are going to update this website whenever we add data analysis continually. P
 <br>  
  
 ### UPDATES
+- 10-10-2022
+  - Updated the [integration cluster analysis](/data/scvi_trained_model/oscc_A2_B2_C2_integration_analysis_visium_v23.html) and added the bootstrap method.
 - 08-07-2022
   - Added the [interactive table of cell-type-specific marker genes](https://kenflab.github.io/oscc_metastasis/data/spatial_decovolution/OSCC_scRNAseq_celltype_marker_genes.html) from TME of OSCC.
 - 07-29-2022　　
