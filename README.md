@@ -126,7 +126,7 @@ Our paper provides analysis methods. All other data supporting the results of th
     - [Integration analysis of primary and metastatic sites](/data/ipynbs/Integration_analysis_of_pri_met.html)　　
     - The trained model can be found on the figshare (DOI: [https://doi.org/10.6084/m9.figshare.20279025.v1](https://doi.org/10.6084/m9.figshare.20279025.v1))　　
     - [Integration analysis result](/data/scvi_trained_model/Integration data of primary and metastatic sites.htm)　　
-    - [Integration cluster analysis](/data/scvi_trained_model/integration_cluster_analysis.html)　　
+    - [Integration cluster analysis](/data/scvi_trained_model/oscc_A2_B2_C2_integration_analysis_visium_v23.html)　　
 <br>  
 
 ### CONTACT
