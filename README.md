@@ -13,7 +13,7 @@ We are going to update this website whenever we add data analysis continually. P
  
 ### UPDATES
 - 7-31-2023
-  - Add the [Pancancer suvival analysis](/data/pancancer/KMplots/Spatial_Signature_Genes_KMplots.html) 
+  - Add the [pancancer suvival analysis](/data/pancancer/KMplots/Spatial_Signature_Genes_KMplots.html).
     
 - 10-10-2022
   - Updated the [integration cluster analysis](/data/scvi_trained_model/oscc_A2_B2_C2_integration_analysis_visium_v23.html) and added the bootstrap method.
