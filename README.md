@@ -13,7 +13,7 @@ We are going to update this website whenever we add data analysis continually. P
  
 ### UPDATES
 - 7-31-2023
-  - Added the [pancancer suvival analysis](/data/pancancer/KMplots/Spatial_Signature_Genes_KMplots.html).
+  - Added the [pancancer survival analysis](/data/pancancer/KMplots/Spatial_Signature_Genes_KMplots.html).
     
 - 10-10-2022
   - Updated the [integration cluster analysis](/data/scvi_trained_model/oscc_A2_B2_C2_integration_analysis_visium_v23.html) and added the bootstrap method.
@@ -31,7 +31,7 @@ We are going to update this website whenever we add data analysis continually. P
 - 05-01-2022  
   - Added [web summaries of spatial whole transcriptome analysis](https://kenflab.github.io/oscc_metastasis/summary.html)  
 - 12-29-2021  
-  - Got a GitHub page and started setting this website up.  
+  - Started setting this website up.  
 <br>  
 
 #### Data Analysis Software
@@ -64,14 +64,15 @@ Metascape (v3.5),
 ESTIMATE (v1.0.13), 
 CIBERSORTx (2022),
 inferCNV (v1.11.1),
-G*Power (v3.1.9.7), 
+G*Power (v3.1.9.7),
+KM-plotter(v2023.04.18)
 Space Ranger (v1.3.0, 10x Genomics), 
 and Loupe Browser (v6.0.0, 10x Genomics), 
 ```
 
 
 ### NAVIGATION
-We used no unpublished codes in this study. Please refer to the individual software guides for more information.
+We used no unpublished codes in this study. Please take a look at the individual software guides for more information.
 Our paper provides analysis methods. All other data supporting the results of this study are available from the corresponding author upon reasonable request.  
 
 - [Metascape](https://metascape.org/) was used to perform DEGs enrichment analysis and protein-protein interaction analysis (https://metascape.org/).
@@ -131,7 +132,11 @@ Our paper provides analysis methods. All other data supporting the results of th
     - [Integration analysis of primary and metastatic sites](/data/ipynbs/Integration_analysis_of_pri_met.html)　　
     - The trained model can be found on the figshare (DOI: [https://doi.org/10.6084/m9.figshare.20279025.v1](https://doi.org/10.6084/m9.figshare.20279025.v1))　　
     - [Integration analysis result](/data/scvi_trained_model/Integration data of primary and metastatic sites.htm)　　
-    - [Integration cluster analysis](/data/scvi_trained_model/oscc_A2_B2_C2_integration_analysis_visium_v23.html)　　
+    - [Integration cluster analysis](/data/scvi_trained_model/oscc_A2_B2_C2_integration_analysis_visium_v23.html)
+      
+ - [Kaplan-Meier plotter](http://kmplot.com/analysis/index.php?p=service&cancer=pancancer_rnaseq) was used to analyze signature genes and survival (http://kmplot.com/analysis/).  
+    - [Pancancer survival analysis](/data/pancancer/KMplots/Spatial_Signature_Genes_KMplots.html)
+      
 <br>  
 
 ### CONTACT
@@ -159,3 +164,4 @@ Researchers should use the data only for non-commercial research and educational
 - Lopez, R., Regier, J., Cole, M. B., Jordan, M. I. & Yosef, N. Deep generative modeling for single- cell transcriptomics. Nat. Methods 15, 1053–1058 (2018).
 - Tickle, T., Tirosh, I., Georgescu, C., Brown, M. & Haas, B. inferCNV of the Trinity CTAT Project. Klarman Cell Observatory, Broad Institute of MIT and Harvard (2019).
 - Faul, F., Erdfelder, E., Buchner, A. & Lang, A.-G. Statistical power analyses using G*Power 3.1: tests for correlation and regression analyses. Behav. Res. Methods 41, 1149–1160 (2009).
+- Győrffy B. Discovery and ranking of the most robust prognostic biomarkers in serous ovarian cancer. Geroscience (2023).
