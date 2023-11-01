@@ -12,9 +12,8 @@ We are going to update this website whenever we add data analysis continually. P
 <br>  
  
 ### UPDATES
-- 7-31-2023
-  - Added the [pancancer survival analysis](/data/pancancer/KMplots/Spatial_Signature_Genes_KMplots.html).
-    
+- 11-01-2023
+  - Added the [Lasso_penalized_Cox_proposal_hazards_model analysis](/data/survival/Lasso_penalized_Cox_proposal_hazards_model.reduce.html).
 - 10-10-2022
   - Updated the [integration cluster analysis](/data/scvi_trained_model/oscc_A2_B2_C2_integration_analysis_visium_v23.html) and added the bootstrap method.
 - 08-07-2022
@@ -49,6 +48,7 @@ Python (v3.7.12)
 Scanpy (v1.8.2)
 CellChat (v1.4.0)
 leidenalg (v0.8.8)
+lifelines (v0.27.8)
 Squidpy (v1.1.2)
 matplotlib (v3.2.2)
 seaborn (v0.11.2)
@@ -65,7 +65,6 @@ ESTIMATE (v1.0.13),
 CIBERSORTx (2022),
 inferCNV (v1.11.1),
 G*Power (v3.1.9.7),
-KM-plotter(v2023.04.18)
 Space Ranger (v1.3.0, 10x Genomics), 
 and Loupe Browser (v6.0.0, 10x Genomics), 
 ```
@@ -133,9 +132,6 @@ Our paper provides analysis methods. All other data supporting the results of th
     - The trained model can be found on the figshare (DOI: [https://doi.org/10.6084/m9.figshare.20279025.v1](https://doi.org/10.6084/m9.figshare.20279025.v1))　　
     - [Integration analysis result](/data/scvi_trained_model/Integration data of primary and metastatic sites.htm)　　
     - [Integration cluster analysis](/data/scvi_trained_model/oscc_A2_B2_C2_integration_analysis_visium_v23.html)
-      
- - [Kaplan-Meier plotter](http://kmplot.com/analysis/index.php?p=service&cancer=pancancer_rnaseq) was used to analyze signature genes and survival (http://kmplot.com/analysis/).  
-    - [Pancancer survival analysis](/data/pancancer/KMplots/Spatial_Signature_Genes_KMplots.html)
       
 <br>  
 
