@@ -144,9 +144,9 @@ We appreciate your patience as it might take some time.
 <br>  
 
 ### LICENCE
-Researchers should use the data only for non-commercial research and educational purposes. The citation is required to use the data and software.
+This data and code are licensed under the Creative Commons Attribution (CC BY). Please cite the original source when using them.
 <br>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This project by <a xmlns:cc="http://creativecommons.org/ns#" href="https://kenflab.github.io/oscc_metastasis/" property="cc:attributionName" rel="cc:attributionURL">Ken Furudate</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.  
+<a href="https://kenflab.github.io/oscc_metastasis/">Lymph node metastasis in patients with oral squamous cell carcinoma</a> © 2025 by <a href="https://creativecommons.org">Ken Furudate</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 <br>  
 
 ### Reference
