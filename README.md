@@ -12,6 +12,10 @@ We are going to update [this website](https://kenflab.github.io/oscc_metastasis/
 <br>  
  
 ### UPDATES
+- **09-04-2025**
+  - Our paper has been officially published in *PLOS Genetics*! 🎉
+  - The "How to Cite" and "Data Availability" sections have been updated with the final publication details.
+
 - 11-01-2023
   - Added the [Lasso_penalized_Cox_proposal_hazards_model analysis](/data/survival/Lasso_penalized_Cox_proposal_hazards_model.reduce.html).
 - 10-10-2022
