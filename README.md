@@ -37,6 +37,11 @@ We are going to update [this website](https://kenflab.github.io/oscc_metastasis/
   - Started setting this website up.  
 <br>  
 
+### Media Coverage
+We are honored that our work has been featured in an official press release from The University of Texas MD Anderson Cancer Center.
+- **MD Anderson Newsroom:** [Researchers identify predictive biomarkers for oral cancer metastasis](https://www.mdanderson.org/newsroom/research-highlights/researchers-identify-predictive-biomarkers-for-oral-cancer-metastasis.h00-159779601.html)
+<br>
+  
 #### Data Analysis Software
 ```markdown
 R (v3.6.29)
