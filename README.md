@@ -139,10 +139,30 @@ Our paper provides analysis methods. All other data supporting the results of th
 Please contact <furudate@hirosaki-u.ac.jp> with any questions or suggestions.  
 <br>  
 
-### How to cite? (In preparation)
-We appreciate your patience as it might take some time.  
-<br>  
+### How to Cite
 
+If you use the data, code, or models from this repository in your research, please cite our primary publication in *PLOS Genetics*.
+
+**Primary Publication:**
+> Furudate K, Kasai S, Yoshizawa T, Sasaki Y, Fujikura K, et al. (2025) Spatial colocalization and molecular crosstalk of myofibroblastic CAFs and tumor cells shape lymph node metastasis in oral squamous cell carcinoma. PLOS Genetics 21(9): e1011791. https://doi.org/10.1371/journal.pgen.1011791
+
+<br>
+
+### Data Availability
+
+Raw spatial RNA-seq data generated and analyzed during the current study are available in the DNA Data Bank of Japan (RRID:SCR_002359, https://www.ddbj.nig.ac.jp) under accession number PRJDB13905 ([https://ddbj.nig.ac.jp/search/entry/bioproject/PRJDB13905](https://ddbj.nig.ac.jp/search/entry/bioproject/PRJDB13905)). The raw sequence reads are available through the DDBJ Sequence Read Archive (DRA) under the following accession numbers: experiments DRX377812, DRX377813, DRX377814, DRX377815, which correspond to runs DRR391952, DRR391953, DRR391954, DRR391955.
+
+Processed spatial transcriptome data can be accessed through the Genomic Expression Archive (GEA, [https://ddbj.nig.ac.jp/public/ddbj_database/gea/](https://ddbj.nig.ac.jp/public/ddbj_database/gea/)) under accession number E-GEAD-511 ([https://ddbj.nig.ac.jp/public/ddbj_database/gea/experiment/E-GEAD-000/E-GEAD-511/](https://ddbj.nig.ac.jp/public/ddbj_database/gea/experiment/E-GEAD-000/E-GEAD-511/)).
+
+Supplementary spatial metadata components are available on Figshare (https://doi.org/10.6084/m9.figshare.20408067).
+
+The complete 10x Genomics Space Ranger output files for each of the four individual Visium samples are publicly available on Figshare ([https://doi.org/10.6084/m9.figshare.29237660](https://doi.org/10.6084/m9.figshare.29237660)).
+
+Source data files underlying the figures presented in this study are available on Figshare ([https://doi.org/10.6084/m9.figshare.21152584](https://doi.org/10.6084/m9.figshare.21152584)).
+
+The trained model used in this study is also publicly accessible and can be found on Figshare ([https://doi.org/10.6084/m9.figshare.20279025.v1](https://doi.org/10.6084/m9.figshare.20279025.v1)).
+
+<br>
 ### LICENCE
 This data and code are licensed under the Creative Commons Attribution (CC BY). Please cite the original source when using them.
 <br>
