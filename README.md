@@ -13,7 +13,7 @@ We are going to update [this website](https://kenflab.github.io/oscc_metastasis/
  
 ### UPDATES
 - **09-04-2025**
-  - Our paper has been officially published in *PLOS Genetics*! 🎉
+  - Our paper has been officially published in [*PLOS Genetics*](https://doi.org/10.1371/journal.pgen.1011791)! 🎉
   - The "How to Cite" and "Data Availability" sections have been updated with the final publication details.
 
 - 11-01-2023
@@ -148,7 +148,7 @@ Please contact <furudate@hirosaki-u.ac.jp> with any questions or suggestions.
 If you use the data, code, or models from this repository in your research, please cite our primary publication in *PLOS Genetics*.
 
 **Primary Publication:**
-> Furudate K, Kasai S, Yoshizawa T, Sasaki Y, Fujikura K, et al. (2025) Spatial colocalization and molecular crosstalk of myofibroblastic CAFs and tumor cells shape lymph node metastasis in oral squamous cell carcinoma. PLOS Genetics 21(9): e1011791. https://doi.org/10.1371/journal.pgen.1011791
+> Furudate K, Kasai S, Yoshizawa T, Sasaki Y, Fujikura K, et al. (2025) Spatial colocalization and molecular crosstalk of myofibroblastic CAFs and tumor cells shape lymph node metastasis in oral squamous cell carcinoma. PLOS Genetics 21(9): e1011791. [https://doi.org/10.1371/journal.pgen.1011791](https://doi.org/10.1371/journal.pgen.1011791)
 
 <br>
 
